@@ -1,0 +1,31 @@
+{
+    "name": "Button - Large",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/buttons\/",
+    "type": "bea7ac19-aad5-4335-b190-b8828dc5d0c8",
+    "heading": "btn-lg",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "ed94a4f7-b396-4201-a7da-b268db30b13d",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<button type=\"button\" class=\"btn btn-primary btn-lg\">Large button<\/button>",
+    "usage": "Fancy larger or smaller buttons? Add .btn-lg or .btn-sm for additional sizes.",
+    "description": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bea7ac19-aad5-4335-b190-b8828dc5d0c8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
