@@ -1,0 +1,31 @@
+{
+    "name": "Custom - Stacked Controls",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/#custom-forms",
+    "type": "b101b15b-dbad-4884-bd22-bd4270f97b35",
+    "heading": "custom-controls-stacked",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "373e27b7-4b01-4df9-8d99-3b058c7c3afa",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"custom-controls-stacked\">\r\n  <label class=\"custom-control custom-radio\">\r\n    <input id=\"radioStacked1\" name=\"radio-stacked\" type=\"radio\" class=\"custom-control-input\">\r\n    <span class=\"custom-control-indicator\"><\/span>\r\n    <span class=\"custom-control-description\">Toggle this custom radio<\/span>\r\n  <\/label>\r\n  <label class=\"custom-control custom-radio\">\r\n    <input id=\"radioStacked2\" name=\"radio-stacked\" type=\"radio\" class=\"custom-control-input\">\r\n    <span class=\"custom-control-indicator\"><\/span>\r\n    <span class=\"custom-control-description\">Or toggle this other custom radio<\/span>\r\n  <\/label>\r\n<\/div>",
+    "usage": "Custom checkboxes and radios are inline to start. Add a parent with class .custom-controls-stacked to ensure each form control is on separate lines.",
+    "description": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "b101b15b-dbad-4884-bd22-bd4270f97b35",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
