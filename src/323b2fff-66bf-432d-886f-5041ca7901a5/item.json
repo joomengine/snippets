@@ -1,0 +1,31 @@
+{
+    "name": "Readonly",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "15b018d4-0161-42ad-aa34-6ed242852da9",
+    "heading": "readonly",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "323b2fff-66bf-432d-886f-5041ca7901a5",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<input class=\"form-control\" type=\"text\" placeholder=\"Readonly input here\u2026\" readonly=\"\">",
+    "usage": "Add the readonly boolean attribute on an input to prevent modification of the input\u2019s value. Read-only inputs appear lighter (just like disabled inputs), but retain the standard cursor.\r\n",
+    "description": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15b018d4-0161-42ad-aa34-6ed242852da9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
