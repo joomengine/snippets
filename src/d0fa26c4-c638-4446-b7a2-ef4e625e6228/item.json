@@ -1,0 +1,31 @@
+{
+    "name": "text-lowercase",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/text\/",
+    "type": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+    "heading": "text-lowercase",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "d0fa26c4-c638-4446-b7a2-ef4e625e6228",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<p class=\"text-lowercase\">lowercased text.<\/p>",
+    "usage": "",
+    "description": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
