@@ -1,0 +1,31 @@
+{
+    "name": "Card - Group",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+    "heading": "card-group",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "9a733fbd-cc4e-4a9f-84fe-0b309a8928a4",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"card-group\">\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <h4 class=\"card-title\">Card title<\/h4>\r\n      <p class=\"card-text\">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.<\/p>\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <h4 class=\"card-title\">Card title<\/h4>\r\n      <p class=\"card-text\">This card has supporting text below as a natural lead-in to additional content.<\/p>\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <h4 class=\"card-title\">Card title<\/h4>\r\n      <p class=\"card-text\">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.<\/p>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "usage": "Use card groups to render cards as a single, attached element with equal width and height columns. Card groups use display: flex; to achieve their uniform sizing.",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
