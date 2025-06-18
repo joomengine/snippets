@@ -1,0 +1,31 @@
+{
+    "name": "Button - Outline Success",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/buttons\/",
+    "type": "c17d8819-f52a-44b7-a9bd-269fa105bde3",
+    "heading": "btn-outline-success",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "8798c735-ae7b-4657-8776-d07b0ec5bfe3",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<button type=\"button\" class=\"btn btn-outline-success\">Success<\/button>",
+    "usage": "In need of a button, but not the hefty background colors they bring? Replace the default modifier classes with the .btn-outline-* ones to remove all background images and colors on any button.",
+    "description": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "c17d8819-f52a-44b7-a9bd-269fa105bde3",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
