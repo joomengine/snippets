@@ -1,0 +1,31 @@
+{
+    "name": "Button - As Checkbox",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/buttons\/",
+    "type": "bea7ac19-aad5-4335-b190-b8828dc5d0c8",
+    "heading": "checkbox as button",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "7f9ab8c9-15aa-4b2b-8271-114b032cdef4",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"btn-group\" data-toggle=\"buttons\">\r\n  <label class=\"btn btn-primary active\">\r\n    <input type=\"checkbox\" checked=\"\"> Checkbox 1 (pre-checked)\r\n  <\/label>\r\n  <label class=\"btn btn-primary\">\r\n    <input type=\"checkbox\"> Checkbox 2\r\n  <\/label>\r\n<\/div>",
+    "usage": "Fancy larger or smaller buttons? Add .btn-lg or .btn-sm for additional sizes.",
+    "description": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bea7ac19-aad5-4335-b190-b8828dc5d0c8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
