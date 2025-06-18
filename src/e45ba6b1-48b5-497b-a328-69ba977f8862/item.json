@@ -1,0 +1,31 @@
+{
+    "name": "Container - Fluid",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+    "heading": "container-fluid",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "e45ba6b1-48b5-497b-a328-69ba977f8862",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"container-fluid\">\r\n  <!-- A fluid container that uses the full witdh -->\r\n<\/div>",
+    "usage": "Containers provide a means to center and horizontally pad your site\u2019s contents. Use .container for a responsive pixel width or .container-fluid for width: 100% across all viewport and device sizes.",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
