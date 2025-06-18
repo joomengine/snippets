@@ -1,0 +1,31 @@
+{
+    "name": "Media - Right Aligned",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/media-object\/",
+    "type": "58b042c6-8758-465a-b4cf-adcf1b9a117b",
+    "heading": "right aligned media",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "32b3891b-db74-4173-b57c-5e396d8d629e",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"media\">\r\n  <div class=\"media-body\">\r\n    <h5 class=\"mt-0 mb-1\">Media object<\/h5>\r\n    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.\r\n  <\/div>\r\n  <img class=\"d-flex ml-3\" src=\"\/images\/pathToYourImage.png\" alt=\"Generic placeholder image\">\r\n<\/div>",
+    "usage": "Media in a media object can be aligned with flexbox utilities to the top (default), middle, or end of your .media-body content.",
+    "description": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "58b042c6-8758-465a-b4cf-adcf1b9a117b",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
