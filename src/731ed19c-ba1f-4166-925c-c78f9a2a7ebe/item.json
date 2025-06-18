@@ -1,0 +1,31 @@
+{
+    "name": "Nav - Justify Content",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
+    "type": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+    "heading": "nav justify-content-*",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "731ed19c-ba1f-4166-925c-c78f9a2a7ebe",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<ul class=\"nav justify-content-center\">\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <\/li>\r\n<\/ul>",
+    "usage": "Change the horizontal alignment of your nav with flexbox utilities. By default, navs are left-aligned, but you can easily change them to center or right aligned.\r\n\r\nCentered with .justify-content-center:",
+    "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
