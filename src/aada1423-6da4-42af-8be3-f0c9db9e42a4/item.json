@@ -1,0 +1,31 @@
+{
+    "name": "Collapse",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/collapse\/",
+    "type": "c3c4ac8a-ab4a-4641-b4b7-018a190f25d5",
+    "heading": "collapse",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "aada1423-6da4-42af-8be3-f0c9db9e42a4",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<p>\r\n  <a class=\"btn btn-primary\" data-toggle=\"collapse\" href=\"#collapseExample\" aria-expanded=\"false\" aria-controls=\"collapseExample\">\r\n    Link with href\r\n  <\/a>\r\n  <button class=\"btn btn-primary\" type=\"button\" data-toggle=\"collapse\" data-target=\"#collapseExample\" aria-expanded=\"false\" aria-controls=\"collapseExample\">\r\n    Button with data-target\r\n  <\/button>\r\n<\/p>\r\n<div class=\"collapse\" id=\"collapseExample\">\r\n  <div class=\"card card-body\">\r\n    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.\r\n  <\/div>\r\n<\/div>",
+    "usage": "Click the buttons below to show and hide another element via class changes:\r\n\r\n.collapse hides content\r\n.collapsing is applied during transitions\r\n.collapse.show shows content\r\nYou can use a link with the href attribute, or a button with the data-target attribute. In both cases, the data-toggle=\"collapse\" is required.",
+    "description": "Toggle the visibility of content across your project with a few classes and our JavaScript plugins.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "c3c4ac8a-ab4a-4641-b4b7-018a190f25d5",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
