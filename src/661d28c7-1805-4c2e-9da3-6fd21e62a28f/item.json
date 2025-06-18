@@ -1,0 +1,31 @@
+{
+    "name": "Media - d-flex align-self-start",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/media-object\/",
+    "type": "58b042c6-8758-465a-b4cf-adcf1b9a117b",
+    "heading": "d-flex align-self-start",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "661d28c7-1805-4c2e-9da3-6fd21e62a28f",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"media\">\r\n  <img class=\"d-flex align-self-start mr-3\" src=\"\/images\/pathToYourImage.png\" alt=\"Generic placeholder image\">\r\n  <div class=\"media-body\">\r\n    <h5 class=\"mt-0\">Top-aligned media<\/h5>\r\n    <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.<\/p>\r\n    <p>Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<\/p>\r\n  <\/div>\r\n<\/div>",
+    "usage": "",
+    "description": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "58b042c6-8758-465a-b4cf-adcf1b9a117b",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
