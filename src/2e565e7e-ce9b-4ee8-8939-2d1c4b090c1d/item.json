@@ -1,0 +1,31 @@
+{
+    "name": "Custom - Select",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/#custom-forms",
+    "type": "b101b15b-dbad-4884-bd22-bd4270f97b35",
+    "heading": "custom-select",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "2e565e7e-ce9b-4ee8-8939-2d1c4b090c1d",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<select class=\"custom-select\">\r\n  <option selected=\"\">Open this select menu<\/option>\r\n  <option value=\"1\">One<\/option>\r\n  <option value=\"2\">Two<\/option>\r\n  <option value=\"3\">Three<\/option>\r\n<\/select>",
+    "usage": "Custom  menus need only a custom class, .custom-select to trigger the custom styles.",
+    "description": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "b101b15b-dbad-4884-bd22-bd4270f97b35",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
