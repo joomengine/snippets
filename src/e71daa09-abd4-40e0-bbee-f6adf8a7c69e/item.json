@@ -1,0 +1,31 @@
+{
+    "name": "Rounded - Circle",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/borders\/",
+    "type": "3e7e5183-0b6a-4c9d-8ff0-22ed8870e2e0",
+    "heading": "rounded-circle",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "e71daa09-abd4-40e0-bbee-f6adf8a7c69e",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<img class=\"rounded-circle\" src=\"\/images\/pathToYourImage.png\" alt=\"Circle image\">",
+    "usage": "",
+    "description": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "3e7e5183-0b6a-4c9d-8ff0-22ed8870e2e0",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
