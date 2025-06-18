@@ -1,0 +1,31 @@
+{
+    "name": "Forms Control - Plaintext",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "15b018d4-0161-42ad-aa34-6ed242852da9",
+    "heading": "form-control-plaintext",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "30549317-e14b-45e7-a02a-bcf65acb67e4",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<input type=\"text\" readonly=\"\" class=\"form-control-plaintext\" id=\"staticEmail\" value=\"email@example.com\">",
+    "usage": "If you want to have  elements in your form styled as plain text, use the .form-control-plaintext class to remove the default form field styling and preserve the correct margin and padding.",
+    "description": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15b018d4-0161-42ad-aa34-6ed242852da9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
