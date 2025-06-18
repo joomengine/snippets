@@ -1,0 +1,31 @@
+{
+    "name": "flex-*-nowrap",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/flex\/",
+    "type": "3dfce6f8-f0c2-4f2c-8dc2-b61d86510438",
+    "heading": "flex-*-nowrap",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "4fd05e93-98d3-43b4-a1fd-f0d3db3391ed",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"d-flex flex-nowrap\"> ... <\/div>\r\n<div class=\"d-flex flex-sm-nowrap\"> ... <\/div>\r\n<div class=\"d-flex flex-md-nowrap\"> ... <\/div>\r\n<div class=\"d-flex flex-lg-nowrap\"> ... <\/div>\r\n<div class=\"d-flex flex-xl-nowrap\"> ... <\/div>",
+    "usage": "",
+    "description": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "3dfce6f8-f0c2-4f2c-8dc2-b61d86510438",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
