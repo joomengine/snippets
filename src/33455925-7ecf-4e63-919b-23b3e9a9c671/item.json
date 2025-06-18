@@ -1,0 +1,31 @@
+{
+    "name": "Cover Video",
+    "url": "https:\/\/getuikit.com\/docs\/container",
+    "type": "bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c",
+    "heading": "Expand images, videos or iframes to cover their entire container and place your own content on top.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "33455925-7ecf-4e63-919b-23b3e9a9c671",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<div class=\"uk-cover-container uk-height-medium\">\r\n    <video autoplay loop muted playsinline uk-cover>\r\n        <source src=\"https:\/\/quirksmode.org\/html5\/videos\/big_buck_bunny.mp4\" type=\"video\/mp4\">\r\n        <source src=\"https:\/\/quirksmode.org\/html5\/videos\/big_buck_bunny.ogv\" type=\"video\/ogg\">\r\n    <\/video>\r\n<\/div>",
+    "usage": "To create a video that covers its parent container, add the uk-cover attribute to a video. Wrap a container element around the video and add the .uk-cover-container class to clip the content.\r\n\r\nThe Cover component inherits all properties from the Video component which means videos are muted and play automatically. The video will pause whenever it's not visible and resume once it becomes visible again.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
