@@ -1,0 +1,31 @@
+{
+    "name": "Nav - Nav",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
+    "type": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+    "heading": "nav.nav",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "277c31c6-c35b-49a8-89e5-f1c886892328",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<nav class=\"nav\">\r\n  <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <a class=\"nav-link disabled\" href=\"#\">Disabled<\/a>\r\n<\/nav>",
+    "usage": "",
+    "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
