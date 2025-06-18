@@ -1,0 +1,31 @@
+{
+    "name": "align-items-*-start",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/flex\/",
+    "type": "3dfce6f8-f0c2-4f2c-8dc2-b61d86510438",
+    "heading": "align-items-*-start",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "c2e8efa3-0f3e-4ab3-8d60-677d4d01a2a9",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"d-flex align-items-start\">\r\n  <div class=\"p-2\">Flex item 1<\/div>\r\n  <div class=\"p-2\">Flex item 2<\/div>\r\n  <div class=\"p-2\">Flex item 3<\/div>\r\n<\/div>\r\n\r\n<!-- responsive variations -->\r\n<div class=\"d-flex align-items-sm-start\">...<\/div>\r\n<div class=\"d-flex align-items-md-start\">...<\/div>\r\n<div class=\"d-flex align-items-lg-start\">...<\/div>\r\n<div class=\"d-flex align-items-xl-start\">...<\/div>",
+    "usage": "",
+    "description": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "3dfce6f8-f0c2-4f2c-8dc2-b61d86510438",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
