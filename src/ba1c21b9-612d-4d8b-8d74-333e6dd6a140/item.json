@@ -1,0 +1,31 @@
+{
+    "name": "Button - Success",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/buttons\/",
+    "type": "c17d8819-f52a-44b7-a9bd-269fa105bde3",
+    "heading": "btn-success",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "ba1c21b9-612d-4d8b-8d74-333e6dd6a140",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<button type=\"button\" class=\"btn btn-success\">Success<\/button>",
+    "usage": "Bootstrap includes several predefined button styles, each serving its own semantic purpose, with a few extras thrown in for more control.",
+    "description": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "c17d8819-f52a-44b7-a9bd-269fa105bde3",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
