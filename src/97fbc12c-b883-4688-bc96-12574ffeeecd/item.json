@@ -1,0 +1,31 @@
+{
+    "name": "Alert",
+    "url": "https:\/\/getuikit.com\/docs\/alert",
+    "type": "118327e9-ee52-493b-be69-9789cfd29ef6",
+    "heading": "Display success, warning and error messages.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "97fbc12c-b883-4688-bc96-12574ffeeecd",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<div uk-alert>\r\n    <a class=\"uk-alert-close\" uk-close><\/a>\r\n    <h3>Notice<\/h3>\r\n    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>\r\n<\/div>",
+    "usage": "To apply this component, add the uk-alert attribute to a block element.\r\n\r\n\r\n\r\n",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "118327e9-ee52-493b-be69-9789cfd29ef6",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
