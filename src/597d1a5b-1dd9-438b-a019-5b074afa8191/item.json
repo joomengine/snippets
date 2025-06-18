@@ -1,0 +1,31 @@
+{
+    "name": "Alerts - Danger",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/alerts\/",
+    "type": "118327e9-ee52-493b-be69-9789cfd29ef6",
+    "heading": "alert-danger",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "597d1a5b-1dd9-438b-a019-5b074afa8191",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"alert alert-danger\" role=\"alert\">\r\n  <strong>Oh snap!<\/strong> Change a few things up and try submitting again.\r\n<\/div>",
+    "usage": "Alerts are available for any length of text, as well as an optional dismiss button. For proper styling, use one of the eight required contextual classes (e.g., .alert-success).",
+    "description": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "118327e9-ee52-493b-be69-9789cfd29ef6",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
