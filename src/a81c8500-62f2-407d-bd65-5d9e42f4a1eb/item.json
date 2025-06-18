@@ -1,0 +1,31 @@
+{
+    "name": "fixed-bottom",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/position\/",
+    "type": "922f0ec3-9f37-41ba-9a07-4e5cd768dfa8",
+    "heading": "fixed-bottom",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "a81c8500-62f2-407d-bd65-5d9e42f4a1eb",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"fixed-bottom bg-primary\">Fixed bottom<\/div>",
+    "usage": "",
+    "description": "Use these shorthand utilities for quickly configuring the position of an element.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "922f0ec3-9f37-41ba-9a07-4e5cd768dfa8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
