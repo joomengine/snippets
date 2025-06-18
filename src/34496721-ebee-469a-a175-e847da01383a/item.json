@@ -1,0 +1,31 @@
+{
+    "name": "Typography - Blockquote",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/typography\/",
+    "type": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+    "heading": "blockquote",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "34496721-ebee-469a-a175-e847da01383a",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<blockquote class=\"blockquote\">\r\n  <p class=\"\"mb-0\"\">\r\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit.\r\n  <\/p>\r\n<\/blockquote>",
+    "usage": "For quoting blocks of content from another source within your document. Wrap  around any HTML as the quote.",
+    "description": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
