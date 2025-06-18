@@ -1,0 +1,31 @@
+{
+    "name": "mw-100",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/sizing\/",
+    "type": "9ec21d99-a329-49c8-b4f4-ed980a1b9fc4",
+    "heading": "mw-100",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "360273ad-cff5-47d1-9b5a-a748784b1e6b",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<img class=\"mw-100\" src=\"# alt=\" max-width=\"\" 100%\"=\"\">",
+    "usage": "",
+    "description": "Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "9ec21d99-a329-49c8-b4f4-ed980a1b9fc4",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
