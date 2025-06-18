@@ -1,0 +1,31 @@
+{
+    "name": "Description list",
+    "url": "https:\/\/getuikit.com\/docs\/description-list",
+    "type": "b236f670-2139-4bb1-a4d5-d987d99bcd77",
+    "heading": "Easily create nice looking description lists, which come in different styles.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "a39c7af9-c5fe-43c0-94f8-8ebe9d7702db",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<dl class=\"uk-description-list\">\r\n    <dt>Description term<\/dt>\r\n    <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/dd>\r\n    <dt>Description term<\/dt>\r\n    <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/dd>\r\n    <dt>Description term<\/dt>\r\n    <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/dd>\r\n<\/dl>",
+    "usage": "Add the .uk-description-list class to display terms and descriptions below each other.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "b236f670-2139-4bb1-a4d5-d987d99bcd77",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
