@@ -1,0 +1,31 @@
+{
+    "name": "Progress - Bar Animated",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/progress\/",
+    "type": "0fe0ad4d-99b3-4f68-bf6e-5c71a621d8c3",
+    "heading": "progress-bar-animated",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "976a20c1-ec69-4738-83b9-0cd67d576ae2",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"progress\">\r\n  <div class=\"progress-bar progress-bar-striped progress-bar-animated\" role=\"progressbar\" aria-valuenow=\"75\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 75%\"><\/div>\r\n<\/div>",
+    "usage": "The striped gradient can also be animated. Add .progress-bar-animated to .progress-bar to animate the stripes right to left via CSS3 animations.\r\n\r\nAnimated progress bars don\u2019t work in Opera 12\u2014as they don\u2019t support CSS3 animations.\r\n",
+    "description": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "0fe0ad4d-99b3-4f68-bf6e-5c71a621d8c3",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
