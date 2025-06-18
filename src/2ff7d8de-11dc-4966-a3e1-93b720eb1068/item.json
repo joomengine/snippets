@@ -1,0 +1,31 @@
+{
+    "name": "Fluid Images",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/images\/",
+    "type": "1fa5a6e4-cf23-4343-84be-fc3b2a11d78e",
+    "heading": "img-fluid",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "2ff7d8de-11dc-4966-a3e1-93b720eb1068",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<img src=\"\/images\/pathToYourImage.png\" class=\"img-fluid\" alt=\"Responsive image\">",
+    "usage": "Images in Bootstrap are made responsive with .img-fluid. max-width: 100%; and height: auto; are applied to the image so that it scales with the parent element.",
+    "description": "Documentation and examples for opting images into responsive behavior (so they never become larger than their parent elements) and add lightweight styles to them\u2014all via classes.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "1fa5a6e4-cf23-4343-84be-fc3b2a11d78e",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
