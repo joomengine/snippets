@@ -1,0 +1,31 @@
+{
+    "name": "Cover Image",
+    "url": "https:\/\/getuikit.com\/docs\/container",
+    "type": "bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c",
+    "heading": "Expand images, videos or iframes to cover their entire container and place your own content on top.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "6ed600be-97c0-45e6-8b5b-33b5e58028ac",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<div class=\"uk-cover-container uk-height-medium\">\r\n    <img src=\"https:\/\/getuikit.com\/docs\/images\/dark.jpg\" alt=\"\" uk-cover>\r\n<\/div>",
+    "usage": "To have an image cover its parent element, add the .uk-cover-container class to the parent and the uk-cover attribute to the image.\r\n\r\nNote To position content on top of the covering element, use the Position component. To adapt your content for better visibility, add the .uk-light or .uk-dark class from the Inverse component.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
