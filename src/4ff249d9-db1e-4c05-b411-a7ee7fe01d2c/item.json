@@ -1,0 +1,31 @@
+{
+    "name": "text-muted",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/text\/",
+    "type": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+    "heading": "text-muted",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "4ff249d9-db1e-4c05-b411-a7ee7fe01d2c",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<p class=\"text-muted\">Fusce dapibus, tellus ac cursus commodo, tortor mauris nibh.<\/p>",
+    "usage": "",
+    "description": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
