@@ -1,0 +1,31 @@
+{
+    "name": "Forms - Controls",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "15b018d4-0161-42ad-aa34-6ed242852da9",
+    "heading": "form-control",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "877bf2e9-1e63-4cb8-9270-c571caa3ac31",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<input type=\"text\" class=\"form-control\" id=\"extampleField\" placeholder=\"Type here\">",
+    "usage": "Textual form controls\u2014like s, s, and s\u2014are styled with the .form-control class. Included are styles for general appearance, focus state, sizing, and more.\r\n\r\nBe sure to explore our custom forms to further style s.",
+    "description": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15b018d4-0161-42ad-aa34-6ed242852da9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
