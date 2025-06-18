@@ -1,0 +1,31 @@
+{
+    "name": "Dropdown - Menu Right",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/dropdowns\/",
+    "type": "94ace410-b18d-4a04-a2c2-cfb532867145",
+    "heading": "dropdown-menu-right",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "dc52b464-0435-45e4-99c9-3d4c4f3a46aa",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"btn-group\">\r\n  <button type=\"button\" class=\"btn btn-secondary dropdown-toggle\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n    This dropdown's menu is right-aligned\r\n  <\/button>\r\n  <div class=\"dropdown-menu dropdown-menu-right\">\r\n    <button class=\"dropdown-item\" type=\"button\">Action<\/button>\r\n    <button class=\"dropdown-item\" type=\"button\">Another action<\/button>\r\n    <button class=\"dropdown-item\" type=\"button\">Something else here<\/button>\r\n  <\/div>\r\n<\/div>",
+    "usage": "By default, a dropdown menu is automatically positioned 100% from the top and along the left side of its parent. Add .dropdown-menu-right to a .dropdown-menu to right align the dropdown menu.",
+    "description": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "94ace410-b18d-4a04-a2c2-cfb532867145",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
