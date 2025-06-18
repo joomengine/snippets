@@ -1,0 +1,31 @@
+{
+    "name": "Forms - Grid",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "15b018d4-0161-42ad-aa34-6ed242852da9",
+    "heading": "form using the grid",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "79d76098-b305-4f31-a101-9a7b4b716f68",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"container\">\r\n  <form>\r\n    <div class=\"form-group row\">\r\n      <label for=\"inputEmail3\" class=\"col-sm-2 col-form-label\">Email<\/label>\r\n      <div class=\"col-sm-10\">\r\n        <input type=\"email\" class=\"form-control\" id=\"inputEmail3\" placeholder=\"Email\">\r\n      <\/div>\r\n    <\/div>\r\n    <div class=\"form-group row\">\r\n      <label for=\"inputPassword3\" class=\"col-sm-2 col-form-label\">Password<\/label>\r\n      <div class=\"col-sm-10\">\r\n        <input type=\"password\" class=\"form-control\" id=\"inputPassword3\" placeholder=\"Password\">\r\n      <\/div>\r\n    <\/div>\r\n  <\/form>\r\n<\/div>",
+    "usage": "More complex layouts can also be created with the grid system.",
+    "description": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15b018d4-0161-42ad-aa34-6ed242852da9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
