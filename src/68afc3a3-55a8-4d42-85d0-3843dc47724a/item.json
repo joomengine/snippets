@@ -1,0 +1,31 @@
+{
+    "name": "Nav - Tabs",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
+    "type": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+    "heading": "nav-tabs",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "68afc3a3-55a8-4d42-85d0-3843dc47724a",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<ul class=\"nav nav-tabs\">\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <\/li>\r\n<\/ul>",
+    "usage": "Takes the basic nav from above and adds the .nav-tabs class to generate a tabbed interface. Use them to create tabbable regions with our tab JavaScript plugin.",
+    "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
