@@ -1,0 +1,31 @@
+{
+    "name": "Multiple Addons",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/input-group\/",
+    "type": "0f712af8-684e-4996-9920-c8ad60abea0a",
+    "heading": "multiple addons",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "9e14d28b-eb87-4a17-9da5-eb08aafd115b",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"input-group\">\r\n  <span class=\"input-group-addon\">$<\/span>\r\n  <span class=\"input-group-addon\">0.00<\/span>\r\n  <input type=\"text\" class=\"form-control\" aria-label=\"Amount (to the nearest dollar)\">\r\n<\/div>",
+    "usage": "Multiple add-ons are supported and can be mixed with checkbox and radio input versions.",
+    "description": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "0f712af8-684e-4996-9920-c8ad60abea0a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
