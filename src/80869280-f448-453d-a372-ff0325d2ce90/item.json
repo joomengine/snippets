@@ -1,0 +1,31 @@
+{
+    "name": "Card - Header - H*",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+    "heading": "h*.card-header",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "80869280-f448-453d-a372-ff0325d2ce90",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"card\">\r\n  <h3 class=\"card-header\">Featured<\/h3>\r\n  <div class=\"card-body\">\r\n    <h4 class=\"card-title\">Special title treatment<\/h4>\r\n    <p class=\"card-text\">With supporting text below as a natural lead-in to additional content.<\/p>\r\n    <a href=\"#\" class=\"btn btn-primary\">Go somewhere<\/a>\r\n  <\/div>\r\n<\/div>",
+    "usage": "Add an optional header and\/or footer within a card.",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
