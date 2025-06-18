@@ -1,0 +1,1073 @@
+{
+    "eac77139-a69b-4eef-9276-254194d2bed5": {
+        "name": "Alerts - Success",
+        "desc": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+        "path": "src\/eac77139-a69b-4eef-9276-254194d2bed5",
+        "settings": "src\/eac77139-a69b-4eef-9276-254194d2bed5\/item.json",
+        "guid": "eac77139-a69b-4eef-9276-254194d2bed5"
+    },
+    "7fdc4a3a-6b6b-4126-98d6-2c2dfe726f8d": {
+        "name": "Alerts - Heading",
+        "desc": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+        "path": "src\/7fdc4a3a-6b6b-4126-98d6-2c2dfe726f8d",
+        "settings": "src\/7fdc4a3a-6b6b-4126-98d6-2c2dfe726f8d\/item.json",
+        "guid": "7fdc4a3a-6b6b-4126-98d6-2c2dfe726f8d"
+    },
+    "0910fd26-4d44-4d85-827f-14207d99ce45": {
+        "name": "Alerts - Link",
+        "desc": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+        "path": "src\/0910fd26-4d44-4d85-827f-14207d99ce45",
+        "settings": "src\/0910fd26-4d44-4d85-827f-14207d99ce45\/item.json",
+        "guid": "0910fd26-4d44-4d85-827f-14207d99ce45"
+    },
+    "597d1a5b-1dd9-438b-a019-5b074afa8191": {
+        "name": "Alerts - Danger",
+        "desc": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+        "path": "src\/597d1a5b-1dd9-438b-a019-5b074afa8191",
+        "settings": "src\/597d1a5b-1dd9-438b-a019-5b074afa8191\/item.json",
+        "guid": "597d1a5b-1dd9-438b-a019-5b074afa8191"
+    },
+    "e0f1a436-8527-462b-ba27-cbe60504b8f6": {
+        "name": "Alerts - Dismissible",
+        "desc": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+        "path": "src\/e0f1a436-8527-462b-ba27-cbe60504b8f6",
+        "settings": "src\/e0f1a436-8527-462b-ba27-cbe60504b8f6\/item.json",
+        "guid": "e0f1a436-8527-462b-ba27-cbe60504b8f6"
+    },
+    "c7a51b7a-c1b7-45cb-95c6-b8cda5d32417": {
+        "name": "Alerts - Info",
+        "desc": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+        "path": "src\/c7a51b7a-c1b7-45cb-95c6-b8cda5d32417",
+        "settings": "src\/c7a51b7a-c1b7-45cb-95c6-b8cda5d32417\/item.json",
+        "guid": "c7a51b7a-c1b7-45cb-95c6-b8cda5d32417"
+    },
+    "4cc7a7b5-7d3a-4086-8a00-d7b99e3db5b2": {
+        "name": "Badge - Danger",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/4cc7a7b5-7d3a-4086-8a00-d7b99e3db5b2",
+        "settings": "src\/4cc7a7b5-7d3a-4086-8a00-d7b99e3db5b2\/item.json",
+        "guid": "4cc7a7b5-7d3a-4086-8a00-d7b99e3db5b2"
+    },
+    "f7de3d3c-326c-4039-a184-f0aa1e4719d3": {
+        "name": "Alerts - Warning",
+        "desc": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+        "path": "src\/f7de3d3c-326c-4039-a184-f0aa1e4719d3",
+        "settings": "src\/f7de3d3c-326c-4039-a184-f0aa1e4719d3\/item.json",
+        "guid": "f7de3d3c-326c-4039-a184-f0aa1e4719d3"
+    },
+    "b7eb3854-3024-440b-bb88-2197e3b934dc": {
+        "name": "Badge - Info",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/b7eb3854-3024-440b-bb88-2197e3b934dc",
+        "settings": "src\/b7eb3854-3024-440b-bb88-2197e3b934dc\/item.json",
+        "guid": "b7eb3854-3024-440b-bb88-2197e3b934dc"
+    },
+    "c3e0aa51-2cbc-4bf3-8e84-1b6bc2672f2b": {
+        "name": "Badge - Dark",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/c3e0aa51-2cbc-4bf3-8e84-1b6bc2672f2b",
+        "settings": "src\/c3e0aa51-2cbc-4bf3-8e84-1b6bc2672f2b\/item.json",
+        "guid": "c3e0aa51-2cbc-4bf3-8e84-1b6bc2672f2b"
+    },
+    "f03cb9b8-fffd-41af-9c84-eeed30c97d4b": {
+        "name": "Badge - Light",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/f03cb9b8-fffd-41af-9c84-eeed30c97d4b",
+        "settings": "src\/f03cb9b8-fffd-41af-9c84-eeed30c97d4b\/item.json",
+        "guid": "f03cb9b8-fffd-41af-9c84-eeed30c97d4b"
+    },
+    "491da919-5afe-4cbb-8cec-1a4d49778c0a": {
+        "name": "Badge - Pill",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/491da919-5afe-4cbb-8cec-1a4d49778c0a",
+        "settings": "src\/491da919-5afe-4cbb-8cec-1a4d49778c0a\/item.json",
+        "guid": "491da919-5afe-4cbb-8cec-1a4d49778c0a"
+    },
+    "c0d1d1f1-907a-4712-afc5-a905ff75bfbe": {
+        "name": "Badge - Primary",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/c0d1d1f1-907a-4712-afc5-a905ff75bfbe",
+        "settings": "src\/c0d1d1f1-907a-4712-afc5-a905ff75bfbe\/item.json",
+        "guid": "c0d1d1f1-907a-4712-afc5-a905ff75bfbe"
+    },
+    "72bcef22-7fcc-4152-892f-23f4e619ef24": {
+        "name": "Badge - Secondary",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/72bcef22-7fcc-4152-892f-23f4e619ef24",
+        "settings": "src\/72bcef22-7fcc-4152-892f-23f4e619ef24\/item.json",
+        "guid": "72bcef22-7fcc-4152-892f-23f4e619ef24"
+    },
+    "f6895007-f66b-4d66-ad52-9823e3b7dee0": {
+        "name": "Badge - Warning",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/f6895007-f66b-4d66-ad52-9823e3b7dee0",
+        "settings": "src\/f6895007-f66b-4d66-ad52-9823e3b7dee0\/item.json",
+        "guid": "f6895007-f66b-4d66-ad52-9823e3b7dee0"
+    },
+    "25ea0f36-f123-4b2e-82c1-3bb44991c0cb": {
+        "name": "Breadcrumb",
+        "desc": "Indicate the current page's location within a navigational hierarchy that automatically adds separators via CSS.",
+        "path": "src\/25ea0f36-f123-4b2e-82c1-3bb44991c0cb",
+        "settings": "src\/25ea0f36-f123-4b2e-82c1-3bb44991c0cb\/item.json",
+        "guid": "25ea0f36-f123-4b2e-82c1-3bb44991c0cb"
+    },
+    "736daa76-4a91-4a26-a684-3412c126e2ec": {
+        "name": "Badge - Success",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/736daa76-4a91-4a26-a684-3412c126e2ec",
+        "settings": "src\/736daa76-4a91-4a26-a684-3412c126e2ec\/item.json",
+        "guid": "736daa76-4a91-4a26-a684-3412c126e2ec"
+    },
+    "f7a6f877-ee4c-4cbe-b1a7-314ff55172b7": {
+        "name": "Button - Toolbar",
+        "desc": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+        "path": "src\/f7a6f877-ee4c-4cbe-b1a7-314ff55172b7",
+        "settings": "src\/f7a6f877-ee4c-4cbe-b1a7-314ff55172b7\/item.json",
+        "guid": "f7a6f877-ee4c-4cbe-b1a7-314ff55172b7"
+    },
+    "e97f45dd-c391-4b01-9737-c1cd90c2be30": {
+        "name": "Button Group (nested)",
+        "desc": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+        "path": "src\/e97f45dd-c391-4b01-9737-c1cd90c2be30",
+        "settings": "src\/e97f45dd-c391-4b01-9737-c1cd90c2be30\/item.json",
+        "guid": "e97f45dd-c391-4b01-9737-c1cd90c2be30"
+    },
+    "003efb29-e3f9-4378-a463-4de8e5675766": {
+        "name": "Badge",
+        "desc": "Documentation and examples for badges, our small count and labeling component.",
+        "path": "src\/003efb29-e3f9-4378-a463-4de8e5675766",
+        "settings": "src\/003efb29-e3f9-4378-a463-4de8e5675766\/item.json",
+        "guid": "003efb29-e3f9-4378-a463-4de8e5675766"
+    },
+    "710bde0f-89cc-4acc-a83d-e20fa0cbb893": {
+        "name": "Button Group - Large",
+        "desc": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+        "path": "src\/710bde0f-89cc-4acc-a83d-e20fa0cbb893",
+        "settings": "src\/710bde0f-89cc-4acc-a83d-e20fa0cbb893\/item.json",
+        "guid": "710bde0f-89cc-4acc-a83d-e20fa0cbb893"
+    },
+    "14c313be-d933-4858-92bc-b5d47a9db508": {
+        "name": "Button - As Radio",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/14c313be-d933-4858-92bc-b5d47a9db508",
+        "settings": "src\/14c313be-d933-4858-92bc-b5d47a9db508\/item.json",
+        "guid": "14c313be-d933-4858-92bc-b5d47a9db508"
+    },
+    "56f1534d-ea2d-471b-8633-aeed414df87a": {
+        "name": "Button - Active",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/56f1534d-ea2d-471b-8633-aeed414df87a",
+        "settings": "src\/56f1534d-ea2d-471b-8633-aeed414df87a\/item.json",
+        "guid": "56f1534d-ea2d-471b-8633-aeed414df87a"
+    },
+    "7f9ab8c9-15aa-4b2b-8271-114b032cdef4": {
+        "name": "Button - As Checkbox",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/7f9ab8c9-15aa-4b2b-8271-114b032cdef4",
+        "settings": "src\/7f9ab8c9-15aa-4b2b-8271-114b032cdef4\/item.json",
+        "guid": "7f9ab8c9-15aa-4b2b-8271-114b032cdef4"
+    },
+    "e64dd4ca-a1cd-4442-9cf4-5d18a9e3dd91": {
+        "name": "Button - Block",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/e64dd4ca-a1cd-4442-9cf4-5d18a9e3dd91",
+        "settings": "src\/e64dd4ca-a1cd-4442-9cf4-5d18a9e3dd91\/item.json",
+        "guid": "e64dd4ca-a1cd-4442-9cf4-5d18a9e3dd91"
+    },
+    "52c9caa1-7f2b-4a8f-bb60-9a4158d27c0a": {
+        "name": "Button - Disabled",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/52c9caa1-7f2b-4a8f-bb60-9a4158d27c0a",
+        "settings": "src\/52c9caa1-7f2b-4a8f-bb60-9a4158d27c0a\/item.json",
+        "guid": "52c9caa1-7f2b-4a8f-bb60-9a4158d27c0a"
+    },
+    "64415e4e-f38f-4e46-9ca1-6eea596f2456": {
+        "name": "Button Group - Vertical",
+        "desc": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+        "path": "src\/64415e4e-f38f-4e46-9ca1-6eea596f2456",
+        "settings": "src\/64415e4e-f38f-4e46-9ca1-6eea596f2456\/item.json",
+        "guid": "64415e4e-f38f-4e46-9ca1-6eea596f2456"
+    },
+    "ed94a4f7-b396-4201-a7da-b268db30b13d": {
+        "name": "Button - Large",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/ed94a4f7-b396-4201-a7da-b268db30b13d",
+        "settings": "src\/ed94a4f7-b396-4201-a7da-b268db30b13d\/item.json",
+        "guid": "ed94a4f7-b396-4201-a7da-b268db30b13d"
+    },
+    "4becf0e5-2fac-483a-b4bb-92b0b1608c3b": {
+        "name": "Button - Small",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/4becf0e5-2fac-483a-b4bb-92b0b1608c3b",
+        "settings": "src\/4becf0e5-2fac-483a-b4bb-92b0b1608c3b\/item.json",
+        "guid": "4becf0e5-2fac-483a-b4bb-92b0b1608c3b"
+    },
+    "3af366d7-978f-487a-a966-0477d7ea9d1a": {
+        "name": "Button Group - Small",
+        "desc": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+        "path": "src\/3af366d7-978f-487a-a966-0477d7ea9d1a",
+        "settings": "src\/3af366d7-978f-487a-a966-0477d7ea9d1a\/item.json",
+        "guid": "3af366d7-978f-487a-a966-0477d7ea9d1a"
+    },
+    "772bc812-118c-4bf0-a286-b467c3d4cee6": {
+        "name": "Button - Danger",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/772bc812-118c-4bf0-a286-b467c3d4cee6",
+        "settings": "src\/772bc812-118c-4bf0-a286-b467c3d4cee6\/item.json",
+        "guid": "772bc812-118c-4bf0-a286-b467c3d4cee6"
+    },
+    "cebe97c4-ff4a-4a74-bd12-ebe02ecfd814": {
+        "name": "Button Group",
+        "desc": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+        "path": "src\/cebe97c4-ff4a-4a74-bd12-ebe02ecfd814",
+        "settings": "src\/cebe97c4-ff4a-4a74-bd12-ebe02ecfd814\/item.json",
+        "guid": "cebe97c4-ff4a-4a74-bd12-ebe02ecfd814"
+    },
+    "35d64d76-fd06-4821-9cfb-7cc8a8901ccf": {
+        "name": "Button - Info",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/35d64d76-fd06-4821-9cfb-7cc8a8901ccf",
+        "settings": "src\/35d64d76-fd06-4821-9cfb-7cc8a8901ccf\/item.json",
+        "guid": "35d64d76-fd06-4821-9cfb-7cc8a8901ccf"
+    },
+    "e6356804-5499-478d-b0cb-5f708fd1a739": {
+        "name": "Button - Link",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/e6356804-5499-478d-b0cb-5f708fd1a739",
+        "settings": "src\/e6356804-5499-478d-b0cb-5f708fd1a739\/item.json",
+        "guid": "e6356804-5499-478d-b0cb-5f708fd1a739"
+    },
+    "206c8a71-71b4-4e66-9bdb-9247e0efdf27": {
+        "name": "Button - Outline Danger",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/206c8a71-71b4-4e66-9bdb-9247e0efdf27",
+        "settings": "src\/206c8a71-71b4-4e66-9bdb-9247e0efdf27\/item.json",
+        "guid": "206c8a71-71b4-4e66-9bdb-9247e0efdf27"
+    },
+    "ab044e3e-675a-4172-8849-a5fd61d889e3": {
+        "name": "Button - Outline Info",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/ab044e3e-675a-4172-8849-a5fd61d889e3",
+        "settings": "src\/ab044e3e-675a-4172-8849-a5fd61d889e3\/item.json",
+        "guid": "ab044e3e-675a-4172-8849-a5fd61d889e3"
+    },
+    "6a26904a-fdae-4333-892a-932548b8a11d": {
+        "name": "Button - Outline Primary",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/6a26904a-fdae-4333-892a-932548b8a11d",
+        "settings": "src\/6a26904a-fdae-4333-892a-932548b8a11d\/item.json",
+        "guid": "6a26904a-fdae-4333-892a-932548b8a11d"
+    },
+    "5e418043-9a54-4cc3-abef-ac2c6b467a4f": {
+        "name": "Button - Outline Light",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/5e418043-9a54-4cc3-abef-ac2c6b467a4f",
+        "settings": "src\/5e418043-9a54-4cc3-abef-ac2c6b467a4f\/item.json",
+        "guid": "5e418043-9a54-4cc3-abef-ac2c6b467a4f"
+    },
+    "ad5973b8-1860-49b8-9022-ac43d24a2bc5": {
+        "name": "Button - Dark",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/ad5973b8-1860-49b8-9022-ac43d24a2bc5",
+        "settings": "src\/ad5973b8-1860-49b8-9022-ac43d24a2bc5\/item.json",
+        "guid": "ad5973b8-1860-49b8-9022-ac43d24a2bc5"
+    },
+    "ea92c635-9155-451c-a7f8-4353c60641c8": {
+        "name": "Button - Outline Secondary",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/ea92c635-9155-451c-a7f8-4353c60641c8",
+        "settings": "src\/ea92c635-9155-451c-a7f8-4353c60641c8\/item.json",
+        "guid": "ea92c635-9155-451c-a7f8-4353c60641c8"
+    },
+    "0cee266b-156e-44a9-aff0-af6935f139e9": {
+        "name": "Button - Light",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/0cee266b-156e-44a9-aff0-af6935f139e9",
+        "settings": "src\/0cee266b-156e-44a9-aff0-af6935f139e9\/item.json",
+        "guid": "0cee266b-156e-44a9-aff0-af6935f139e9"
+    },
+    "8798c735-ae7b-4657-8776-d07b0ec5bfe3": {
+        "name": "Button - Outline Success",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/8798c735-ae7b-4657-8776-d07b0ec5bfe3",
+        "settings": "src\/8798c735-ae7b-4657-8776-d07b0ec5bfe3\/item.json",
+        "guid": "8798c735-ae7b-4657-8776-d07b0ec5bfe3"
+    },
+    "56c2a53e-7076-4c4a-9a79-0e9037e19fec": {
+        "name": "Button - Outline Warning",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/56c2a53e-7076-4c4a-9a79-0e9037e19fec",
+        "settings": "src\/56c2a53e-7076-4c4a-9a79-0e9037e19fec\/item.json",
+        "guid": "56c2a53e-7076-4c4a-9a79-0e9037e19fec"
+    },
+    "4560a0a9-c5e9-4db5-b85b-f547206dc4f5": {
+        "name": "Button - Outline Dark",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/4560a0a9-c5e9-4db5-b85b-f547206dc4f5",
+        "settings": "src\/4560a0a9-c5e9-4db5-b85b-f547206dc4f5\/item.json",
+        "guid": "4560a0a9-c5e9-4db5-b85b-f547206dc4f5"
+    },
+    "a2e15c1b-e002-41ba-b222-808a4de5d3cb": {
+        "name": "Button - Primary",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/a2e15c1b-e002-41ba-b222-808a4de5d3cb",
+        "settings": "src\/a2e15c1b-e002-41ba-b222-808a4de5d3cb\/item.json",
+        "guid": "a2e15c1b-e002-41ba-b222-808a4de5d3cb"
+    },
+    "ba1c21b9-612d-4d8b-8d74-333e6dd6a140": {
+        "name": "Button - Success",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/ba1c21b9-612d-4d8b-8d74-333e6dd6a140",
+        "settings": "src\/ba1c21b9-612d-4d8b-8d74-333e6dd6a140\/item.json",
+        "guid": "ba1c21b9-612d-4d8b-8d74-333e6dd6a140"
+    },
+    "7c1fd0a6-3460-4034-b562-9eed77e53764": {
+        "name": "Button - Warning",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/7c1fd0a6-3460-4034-b562-9eed77e53764",
+        "settings": "src\/7c1fd0a6-3460-4034-b562-9eed77e53764\/item.json",
+        "guid": "7c1fd0a6-3460-4034-b562-9eed77e53764"
+    },
+    "5f6714fb-0030-40a6-b269-4d96d1b1bf08": {
+        "name": "Button - Secondary",
+        "desc": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+        "path": "src\/5f6714fb-0030-40a6-b269-4d96d1b1bf08",
+        "settings": "src\/5f6714fb-0030-40a6-b269-4d96d1b1bf08\/item.json",
+        "guid": "5f6714fb-0030-40a6-b269-4d96d1b1bf08"
+    },
+    "c58e9ddd-8a9d-4939-94dc-ff18221319e2": {
+        "name": "Card - Body",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/c58e9ddd-8a9d-4939-94dc-ff18221319e2",
+        "settings": "src\/c58e9ddd-8a9d-4939-94dc-ff18221319e2\/item.json",
+        "guid": "c58e9ddd-8a9d-4939-94dc-ff18221319e2"
+    },
+    "d34d1fb9-3d99-4e71-bdb4-0aacbbf8f6bc": {
+        "name": "Card - Bottom Image",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/d34d1fb9-3d99-4e71-bdb4-0aacbbf8f6bc",
+        "settings": "src\/d34d1fb9-3d99-4e71-bdb4-0aacbbf8f6bc\/item.json",
+        "guid": "d34d1fb9-3d99-4e71-bdb4-0aacbbf8f6bc"
+    },
+    "77cde3f0-5b75-4918-9917-d23e2b4360c6": {
+        "name": "Card - Columns",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/77cde3f0-5b75-4918-9917-d23e2b4360c6",
+        "settings": "src\/77cde3f0-5b75-4918-9917-d23e2b4360c6\/item.json",
+        "guid": "77cde3f0-5b75-4918-9917-d23e2b4360c6"
+    },
+    "9a733fbd-cc4e-4a9f-84fe-0b309a8928a4": {
+        "name": "Card - Group",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/9a733fbd-cc4e-4a9f-84fe-0b309a8928a4",
+        "settings": "src\/9a733fbd-cc4e-4a9f-84fe-0b309a8928a4\/item.json",
+        "guid": "9a733fbd-cc4e-4a9f-84fe-0b309a8928a4"
+    },
+    "80869280-f448-453d-a372-ff0325d2ce90": {
+        "name": "Card - Header - H*",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/80869280-f448-453d-a372-ff0325d2ce90",
+        "settings": "src\/80869280-f448-453d-a372-ff0325d2ce90\/item.json",
+        "guid": "80869280-f448-453d-a372-ff0325d2ce90"
+    },
+    "2c032208-caf3-488b-aa28-7e59240e60d5": {
+        "name": "Card - Deck",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/2c032208-caf3-488b-aa28-7e59240e60d5",
+        "settings": "src\/2c032208-caf3-488b-aa28-7e59240e60d5\/item.json",
+        "guid": "2c032208-caf3-488b-aa28-7e59240e60d5"
+    },
+    "694f5700-58b2-48b2-b12b-44a8ef77330d": {
+        "name": "Card - Footer",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/694f5700-58b2-48b2-b12b-44a8ef77330d",
+        "settings": "src\/694f5700-58b2-48b2-b12b-44a8ef77330d\/item.json",
+        "guid": "694f5700-58b2-48b2-b12b-44a8ef77330d"
+    },
+    "4cf013f0-5d6c-4612-9a86-9c9593fdee8f": {
+        "name": "Card - Header",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/4cf013f0-5d6c-4612-9a86-9c9593fdee8f",
+        "settings": "src\/4cf013f0-5d6c-4612-9a86-9c9593fdee8f\/item.json",
+        "guid": "4cf013f0-5d6c-4612-9a86-9c9593fdee8f"
+    },
+    "bcaf0a0f-f83b-4dd6-95b9-fa7a81395bfd": {
+        "name": "Card - Link",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/bcaf0a0f-f83b-4dd6-95b9-fa7a81395bfd",
+        "settings": "src\/bcaf0a0f-f83b-4dd6-95b9-fa7a81395bfd\/item.json",
+        "guid": "bcaf0a0f-f83b-4dd6-95b9-fa7a81395bfd"
+    },
+    "39a7c0f9-81ef-4dc6-97d0-eb533fdf8aaa": {
+        "name": "Card - Middle Image",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/39a7c0f9-81ef-4dc6-97d0-eb533fdf8aaa",
+        "settings": "src\/39a7c0f9-81ef-4dc6-97d0-eb533fdf8aaa\/item.json",
+        "guid": "39a7c0f9-81ef-4dc6-97d0-eb533fdf8aaa"
+    },
+    "c1beec65-bb16-43c8-8e5d-1a9003e85f24": {
+        "name": "Card - Image Overlay",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/c1beec65-bb16-43c8-8e5d-1a9003e85f24",
+        "settings": "src\/c1beec65-bb16-43c8-8e5d-1a9003e85f24\/item.json",
+        "guid": "c1beec65-bb16-43c8-8e5d-1a9003e85f24"
+    },
+    "e9d2ebdc-c5d3-4ede-94be-eba60af0e647": {
+        "name": "Card - Text",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/e9d2ebdc-c5d3-4ede-94be-eba60af0e647",
+        "settings": "src\/e9d2ebdc-c5d3-4ede-94be-eba60af0e647\/item.json",
+        "guid": "e9d2ebdc-c5d3-4ede-94be-eba60af0e647"
+    },
+    "c32971e7-2e93-4b36-bdc0-d5b5ddab4a1c": {
+        "name": "Card - Subtitle",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/c32971e7-2e93-4b36-bdc0-d5b5ddab4a1c",
+        "settings": "src\/c32971e7-2e93-4b36-bdc0-d5b5ddab4a1c\/item.json",
+        "guid": "c32971e7-2e93-4b36-bdc0-d5b5ddab4a1c"
+    },
+    "35ad2df3-4b11-46a3-b764-175499c22b48": {
+        "name": "Card - Title",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/35ad2df3-4b11-46a3-b764-175499c22b48",
+        "settings": "src\/35ad2df3-4b11-46a3-b764-175499c22b48\/item.json",
+        "guid": "35ad2df3-4b11-46a3-b764-175499c22b48"
+    },
+    "59e751cf-6115-42b6-a630-ce3671916441": {
+        "name": "Card - Top Image",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/59e751cf-6115-42b6-a630-ce3671916441",
+        "settings": "src\/59e751cf-6115-42b6-a630-ce3671916441\/item.json",
+        "guid": "59e751cf-6115-42b6-a630-ce3671916441"
+    },
+    "e572c49e-5084-4e35-af2f-160689b45cf1": {
+        "name": "Card - White Text \/ Primary Backgroup",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/e572c49e-5084-4e35-af2f-160689b45cf1",
+        "settings": "src\/e572c49e-5084-4e35-af2f-160689b45cf1\/item.json",
+        "guid": "e572c49e-5084-4e35-af2f-160689b45cf1"
+    },
+    "3f295c05-6b23-4645-ad69-791edbf41e7e": {
+        "name": "Carousel - Caption",
+        "desc": "The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous\/next controls and indicators.\r\n\r\nIn browsers where the Page Visibility API is supported, the carousel will avoid sliding when the webpage is not visible to the user (such as when the browser tab is inactive, the browser window is minimized, etc.).\r\n\r\nPlease be aware that nested carousels are not supported, and carousels are generally not compliant with accessibility standards.",
+        "path": "src\/3f295c05-6b23-4645-ad69-791edbf41e7e",
+        "settings": "src\/3f295c05-6b23-4645-ad69-791edbf41e7e\/item.json",
+        "guid": "3f295c05-6b23-4645-ad69-791edbf41e7e"
+    },
+    "b6303bd9-eded-4f7d-9bc1-dbc9b7c5138c": {
+        "name": "Card",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/b6303bd9-eded-4f7d-9bc1-dbc9b7c5138c",
+        "settings": "src\/b6303bd9-eded-4f7d-9bc1-dbc9b7c5138c\/item.json",
+        "guid": "b6303bd9-eded-4f7d-9bc1-dbc9b7c5138c"
+    },
+    "e72ba37e-f869-4a30-868e-261c588aebe5": {
+        "name": "List Group",
+        "desc": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+        "path": "src\/e72ba37e-f869-4a30-868e-261c588aebe5",
+        "settings": "src\/e72ba37e-f869-4a30-868e-261c588aebe5\/item.json",
+        "guid": "e72ba37e-f869-4a30-868e-261c588aebe5"
+    },
+    "94460a5e-b097-4e78-957e-6ff1d949f2c7": {
+        "name": "Carousel - With Controls",
+        "desc": "The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous\/next controls and indicators.\r\n\r\nIn browsers where the Page Visibility API is supported, the carousel will avoid sliding when the webpage is not visible to the user (such as when the browser tab is inactive, the browser window is minimized, etc.).\r\n\r\nPlease be aware that nested carousels are not supported, and carousels are generally not compliant with accessibility standards.",
+        "path": "src\/94460a5e-b097-4e78-957e-6ff1d949f2c7",
+        "settings": "src\/94460a5e-b097-4e78-957e-6ff1d949f2c7\/item.json",
+        "guid": "94460a5e-b097-4e78-957e-6ff1d949f2c7"
+    },
+    "b2bcc6fc-945c-4949-b027-78f4cd824e9d": {
+        "name": "Carousel - Indicators",
+        "desc": "The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous\/next controls and indicators.\r\n\r\nIn browsers where the Page Visibility API is supported, the carousel will avoid sliding when the webpage is not visible to the user (such as when the browser tab is inactive, the browser window is minimized, etc.).\r\n\r\nPlease be aware that nested carousels are not supported, and carousels are generally not compliant with accessibility standards.",
+        "path": "src\/b2bcc6fc-945c-4949-b027-78f4cd824e9d",
+        "settings": "src\/b2bcc6fc-945c-4949-b027-78f4cd824e9d\/item.json",
+        "guid": "b2bcc6fc-945c-4949-b027-78f4cd824e9d"
+    },
+    "2c096d64-3476-41ef-b6bc-ffa9e55ff9d6": {
+        "name": "Accordion",
+        "desc": "Toggle the visibility of content across your project with a few classes and our JavaScript plugins.",
+        "path": "src\/2c096d64-3476-41ef-b6bc-ffa9e55ff9d6",
+        "settings": "src\/2c096d64-3476-41ef-b6bc-ffa9e55ff9d6\/item.json",
+        "guid": "2c096d64-3476-41ef-b6bc-ffa9e55ff9d6"
+    },
+    "66e25b4d-b321-4a57-8421-95fff6769841": {
+        "name": "Custom - Checkbox",
+        "desc": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+        "path": "src\/66e25b4d-b321-4a57-8421-95fff6769841",
+        "settings": "src\/66e25b4d-b321-4a57-8421-95fff6769841\/item.json",
+        "guid": "66e25b4d-b321-4a57-8421-95fff6769841"
+    },
+    "33047783-d503-422a-821c-f145cb7aba7a": {
+        "name": "Custom - Radio",
+        "desc": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+        "path": "src\/33047783-d503-422a-821c-f145cb7aba7a",
+        "settings": "src\/33047783-d503-422a-821c-f145cb7aba7a\/item.json",
+        "guid": "33047783-d503-422a-821c-f145cb7aba7a"
+    },
+    "dd227da3-c9ac-425a-aeb2-d0c19a714a5c": {
+        "name": "Custom - File",
+        "desc": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+        "path": "src\/dd227da3-c9ac-425a-aeb2-d0c19a714a5c",
+        "settings": "src\/dd227da3-c9ac-425a-aeb2-d0c19a714a5c\/item.json",
+        "guid": "dd227da3-c9ac-425a-aeb2-d0c19a714a5c"
+    },
+    "aada1423-6da4-42af-8be3-f0c9db9e42a4": {
+        "name": "Collapse",
+        "desc": "Toggle the visibility of content across your project with a few classes and our JavaScript plugins.",
+        "path": "src\/aada1423-6da4-42af-8be3-f0c9db9e42a4",
+        "settings": "src\/aada1423-6da4-42af-8be3-f0c9db9e42a4\/item.json",
+        "guid": "aada1423-6da4-42af-8be3-f0c9db9e42a4"
+    },
+    "373e27b7-4b01-4df9-8d99-3b058c7c3afa": {
+        "name": "Custom - Stacked Controls",
+        "desc": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+        "path": "src\/373e27b7-4b01-4df9-8d99-3b058c7c3afa",
+        "settings": "src\/373e27b7-4b01-4df9-8d99-3b058c7c3afa\/item.json",
+        "guid": "373e27b7-4b01-4df9-8d99-3b058c7c3afa"
+    },
+    "38f1c383-e62b-43a5-9b0a-5a6a03f5b71e": {
+        "name": "Dropdown - Divider",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/38f1c383-e62b-43a5-9b0a-5a6a03f5b71e",
+        "settings": "src\/38f1c383-e62b-43a5-9b0a-5a6a03f5b71e\/item.json",
+        "guid": "38f1c383-e62b-43a5-9b0a-5a6a03f5b71e"
+    },
+    "2e565e7e-ce9b-4ee8-8939-2d1c4b090c1d": {
+        "name": "Custom - Select",
+        "desc": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+        "path": "src\/2e565e7e-ce9b-4ee8-8939-2d1c4b090c1d",
+        "settings": "src\/2e565e7e-ce9b-4ee8-8939-2d1c4b090c1d\/item.json",
+        "guid": "2e565e7e-ce9b-4ee8-8939-2d1c4b090c1d"
+    },
+    "dc52b464-0435-45e4-99c9-3d4c4f3a46aa": {
+        "name": "Dropdown - Menu Right",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/dc52b464-0435-45e4-99c9-3d4c4f3a46aa",
+        "settings": "src\/dc52b464-0435-45e4-99c9-3d4c4f3a46aa\/item.json",
+        "guid": "dc52b464-0435-45e4-99c9-3d4c4f3a46aa"
+    },
+    "1b7e0e74-23e4-420b-9c83-920bd1a35165": {
+        "name": "Dropdown - Show",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/1b7e0e74-23e4-420b-9c83-920bd1a35165",
+        "settings": "src\/1b7e0e74-23e4-420b-9c83-920bd1a35165\/item.json",
+        "guid": "1b7e0e74-23e4-420b-9c83-920bd1a35165"
+    },
+    "b4cf8140-091b-4306-a96e-c39be36bb95a": {
+        "name": "Dropdown - Item Disabled",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/b4cf8140-091b-4306-a96e-c39be36bb95a",
+        "settings": "src\/b4cf8140-091b-4306-a96e-c39be36bb95a\/item.json",
+        "guid": "b4cf8140-091b-4306-a96e-c39be36bb95a"
+    },
+    "00dd8a26-c1a5-40d8-ac5f-04c79249d449": {
+        "name": "Dropdown - Header",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/00dd8a26-c1a5-40d8-ac5f-04c79249d449",
+        "settings": "src\/00dd8a26-c1a5-40d8-ac5f-04c79249d449\/item.json",
+        "guid": "00dd8a26-c1a5-40d8-ac5f-04c79249d449"
+    },
+    "ee789721-82dd-490b-a0ce-ec4eabfb383c": {
+        "name": "Dropup",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/ee789721-82dd-490b-a0ce-ec4eabfb383c",
+        "settings": "src\/ee789721-82dd-490b-a0ce-ec4eabfb383c\/item.json",
+        "guid": "ee789721-82dd-490b-a0ce-ec4eabfb383c"
+    },
+    "06d4de68-b5ef-47ea-9520-94bc250ecdf9": {
+        "name": "Dropdown",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/06d4de68-b5ef-47ea-9520-94bc250ecdf9",
+        "settings": "src\/06d4de68-b5ef-47ea-9520-94bc250ecdf9\/item.json",
+        "guid": "06d4de68-b5ef-47ea-9520-94bc250ecdf9"
+    },
+    "09e88be3-3a51-441c-a2ce-c8962d7cb86d": {
+        "name": "Dropdown - Split",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/09e88be3-3a51-441c-a2ce-c8962d7cb86d",
+        "settings": "src\/09e88be3-3a51-441c-a2ce-c8962d7cb86d\/item.json",
+        "guid": "09e88be3-3a51-441c-a2ce-c8962d7cb86d"
+    },
+    "a86aa2bc-11b1-46d3-aecc-4eced32a3b80": {
+        "name": "Check Box",
+        "desc": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+        "path": "src\/a86aa2bc-11b1-46d3-aecc-4eced32a3b80",
+        "settings": "src\/a86aa2bc-11b1-46d3-aecc-4eced32a3b80\/item.json",
+        "guid": "a86aa2bc-11b1-46d3-aecc-4eced32a3b80"
+    },
+    "fa594f21-9c24-4e62-820b-47ea9c612169": {
+        "name": "Dropdown",
+        "desc": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+        "path": "src\/fa594f21-9c24-4e62-820b-47ea9c612169",
+        "settings": "src\/fa594f21-9c24-4e62-820b-47ea9c612169\/item.json",
+        "guid": "fa594f21-9c24-4e62-820b-47ea9c612169"
+    },
+    "02cc6b59-0afd-443d-9586-bac77ff7b304": {
+        "name": "Dropup - Split",
+        "desc": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+        "path": "src\/02cc6b59-0afd-443d-9586-bac77ff7b304",
+        "settings": "src\/02cc6b59-0afd-443d-9586-bac77ff7b304\/item.json",
+        "guid": "02cc6b59-0afd-443d-9586-bac77ff7b304"
+    },
+    "9098d107-1800-475d-919b-76b30c39a2f4": {
+        "name": "Input Group (Button)",
+        "desc": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+        "path": "src\/9098d107-1800-475d-919b-76b30c39a2f4",
+        "settings": "src\/9098d107-1800-475d-919b-76b30c39a2f4\/item.json",
+        "guid": "9098d107-1800-475d-919b-76b30c39a2f4"
+    },
+    "9e14d28b-eb87-4a17-9da5-eb08aafd115b": {
+        "name": "Multiple Addons",
+        "desc": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+        "path": "src\/9e14d28b-eb87-4a17-9da5-eb08aafd115b",
+        "settings": "src\/9e14d28b-eb87-4a17-9da5-eb08aafd115b\/item.json",
+        "guid": "9e14d28b-eb87-4a17-9da5-eb08aafd115b"
+    },
+    "b2c91e05-e213-42cf-9b94-c49d40751917": {
+        "name": "Input Group",
+        "desc": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+        "path": "src\/b2c91e05-e213-42cf-9b94-c49d40751917",
+        "settings": "src\/b2c91e05-e213-42cf-9b94-c49d40751917\/item.json",
+        "guid": "b2c91e05-e213-42cf-9b94-c49d40751917"
+    },
+    "df70eceb-48e9-4dd6-ae01-e60a1dc67030": {
+        "name": "Input Group (Large)",
+        "desc": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+        "path": "src\/df70eceb-48e9-4dd6-ae01-e60a1dc67030",
+        "settings": "src\/df70eceb-48e9-4dd6-ae01-e60a1dc67030\/item.json",
+        "guid": "df70eceb-48e9-4dd6-ae01-e60a1dc67030"
+    },
+    "3b703c7e-4fa8-48f0-a06e-799934b5999c": {
+        "name": "Radio",
+        "desc": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+        "path": "src\/3b703c7e-4fa8-48f0-a06e-799934b5999c",
+        "settings": "src\/3b703c7e-4fa8-48f0-a06e-799934b5999c\/item.json",
+        "guid": "3b703c7e-4fa8-48f0-a06e-799934b5999c"
+    },
+    "c71f612a-bae4-42b4-a65b-4ddfcab09b6e": {
+        "name": "Segmented Buttons",
+        "desc": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+        "path": "src\/c71f612a-bae4-42b4-a65b-4ddfcab09b6e",
+        "settings": "src\/c71f612a-bae4-42b4-a65b-4ddfcab09b6e\/item.json",
+        "guid": "c71f612a-bae4-42b4-a65b-4ddfcab09b6e"
+    },
+    "fb02e633-0fb8-411c-94df-d8471a147ffc": {
+        "name": "Check Box",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/fb02e633-0fb8-411c-94df-d8471a147ffc",
+        "settings": "src\/fb02e633-0fb8-411c-94df-d8471a147ffc\/item.json",
+        "guid": "fb02e633-0fb8-411c-94df-d8471a147ffc"
+    },
+    "1ad307bf-f7c2-4c96-b259-40fd40dc6f38": {
+        "name": "Disabled Items",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/1ad307bf-f7c2-4c96-b259-40fd40dc6f38",
+        "settings": "src\/1ad307bf-f7c2-4c96-b259-40fd40dc6f38\/item.json",
+        "guid": "1ad307bf-f7c2-4c96-b259-40fd40dc6f38"
+    },
+    "1d91068b-f963-4636-be86-3532065370c0": {
+        "name": "Form - Group",
+        "desc": "Bootstrap\u2019s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.\r\n\r\nBe sure to use an appropriate type attribute on all inputs (e.g., email for email address or number for numerical information) to take advantage of newer input controls like email verification, number selection, and more.",
+        "path": "src\/1d91068b-f963-4636-be86-3532065370c0",
+        "settings": "src\/1d91068b-f963-4636-be86-3532065370c0\/item.json",
+        "guid": "1d91068b-f963-4636-be86-3532065370c0"
+    },
+    "ef7adfc1-0aa0-4301-8291-16424d09f4a4": {
+        "name": "Forms - Controls (Large)",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/ef7adfc1-0aa0-4301-8291-16424d09f4a4",
+        "settings": "src\/ef7adfc1-0aa0-4301-8291-16424d09f4a4\/item.json",
+        "guid": "ef7adfc1-0aa0-4301-8291-16424d09f4a4"
+    },
+    "4c28a2b2-7443-4ab0-8100-5556e160b2c7": {
+        "name": "Forms - Check",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/4c28a2b2-7443-4ab0-8100-5556e160b2c7",
+        "settings": "src\/4c28a2b2-7443-4ab0-8100-5556e160b2c7\/item.json",
+        "guid": "4c28a2b2-7443-4ab0-8100-5556e160b2c7"
+    },
+    "5c6b7890-0656-42b5-aba9-01201fc03edb": {
+        "name": "Forms - Check (Inline)",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/5c6b7890-0656-42b5-aba9-01201fc03edb",
+        "settings": "src\/5c6b7890-0656-42b5-aba9-01201fc03edb\/item.json",
+        "guid": "5c6b7890-0656-42b5-aba9-01201fc03edb"
+    },
+    "049223ee-7828-4e44-ad08-6d18f8c6fac9": {
+        "name": "Forms - Controls (Small)",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/049223ee-7828-4e44-ad08-6d18f8c6fac9",
+        "settings": "src\/049223ee-7828-4e44-ad08-6d18f8c6fac9\/item.json",
+        "guid": "049223ee-7828-4e44-ad08-6d18f8c6fac9"
+    },
+    "69be29eb-c7b0-4213-8333-0609007ddce0": {
+        "name": "Forms - File Control",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/69be29eb-c7b0-4213-8333-0609007ddce0",
+        "settings": "src\/69be29eb-c7b0-4213-8333-0609007ddce0\/item.json",
+        "guid": "69be29eb-c7b0-4213-8333-0609007ddce0"
+    },
+    "877bf2e9-1e63-4cb8-9270-c571caa3ac31": {
+        "name": "Forms - Controls",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/877bf2e9-1e63-4cb8-9270-c571caa3ac31",
+        "settings": "src\/877bf2e9-1e63-4cb8-9270-c571caa3ac31\/item.json",
+        "guid": "877bf2e9-1e63-4cb8-9270-c571caa3ac31"
+    },
+    "79d76098-b305-4f31-a101-9a7b4b716f68": {
+        "name": "Forms - Grid",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/79d76098-b305-4f31-a101-9a7b4b716f68",
+        "settings": "src\/79d76098-b305-4f31-a101-9a7b4b716f68\/item.json",
+        "guid": "79d76098-b305-4f31-a101-9a7b4b716f68"
+    },
+    "ab450073-971e-4868-8645-8eb507dab107": {
+        "name": "Forms - Inline",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/ab450073-971e-4868-8645-8eb507dab107",
+        "settings": "src\/ab450073-971e-4868-8645-8eb507dab107\/item.json",
+        "guid": "ab450073-971e-4868-8645-8eb507dab107"
+    },
+    "30549317-e14b-45e7-a02a-bcf65acb67e4": {
+        "name": "Forms Control - Plaintext",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/30549317-e14b-45e7-a02a-bcf65acb67e4",
+        "settings": "src\/30549317-e14b-45e7-a02a-bcf65acb67e4\/item.json",
+        "guid": "30549317-e14b-45e7-a02a-bcf65acb67e4"
+    },
+    "323b2fff-66bf-432d-886f-5041ca7901a5": {
+        "name": "Readonly",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/323b2fff-66bf-432d-886f-5041ca7901a5",
+        "settings": "src\/323b2fff-66bf-432d-886f-5041ca7901a5\/item.json",
+        "guid": "323b2fff-66bf-432d-886f-5041ca7901a5"
+    },
+    "3e8b652c-59dc-401f-9945-e74280493213": {
+        "name": "Radio",
+        "desc": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+        "path": "src\/3e8b652c-59dc-401f-9945-e74280493213",
+        "settings": "src\/3e8b652c-59dc-401f-9945-e74280493213\/item.json",
+        "guid": "3e8b652c-59dc-401f-9945-e74280493213"
+    },
+    "67281837-27d3-4680-a691-dc5ed3a26144": {
+        "name": "Col-# (\u00a0576px)",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/67281837-27d3-4680-a691-dc5ed3a26144",
+        "settings": "src\/67281837-27d3-4680-a691-dc5ed3a26144\/item.json",
+        "guid": "67281837-27d3-4680-a691-dc5ed3a26144"
+    },
+    "50c69e64-7994-4ce2-a0e4-768a73d88454": {
+        "name": "Col-md-# (\u00a0\u2265768px)",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/50c69e64-7994-4ce2-a0e4-768a73d88454",
+        "settings": "src\/50c69e64-7994-4ce2-a0e4-768a73d88454\/item.json",
+        "guid": "50c69e64-7994-4ce2-a0e4-768a73d88454"
+    },
+    "a0fcd385-faa2-4759-a877-41fa940f6d67": {
+        "name": "Col-*",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/a0fcd385-faa2-4759-a877-41fa940f6d67",
+        "settings": "src\/a0fcd385-faa2-4759-a877-41fa940f6d67\/item.json",
+        "guid": "a0fcd385-faa2-4759-a877-41fa940f6d67"
+    },
+    "90af37ee-1553-4ad1-81bd-a0b326220492": {
+        "name": "List Group - Item Danger",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/90af37ee-1553-4ad1-81bd-a0b326220492",
+        "settings": "src\/90af37ee-1553-4ad1-81bd-a0b326220492\/item.json",
+        "guid": "90af37ee-1553-4ad1-81bd-a0b326220492"
+    },
+    "ccde1e5c-5cdf-4f51-85db-709259c243f0": {
+        "name": "Container",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/ccde1e5c-5cdf-4f51-85db-709259c243f0",
+        "settings": "src\/ccde1e5c-5cdf-4f51-85db-709259c243f0\/item.json",
+        "guid": "ccde1e5c-5cdf-4f51-85db-709259c243f0"
+    },
+    "686e953c-fd40-4fd5-bc1a-004acd114f41": {
+        "name": "Col-xl-# (\u00a0\u22651200px)",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/686e953c-fd40-4fd5-bc1a-004acd114f41",
+        "settings": "src\/686e953c-fd40-4fd5-bc1a-004acd114f41\/item.json",
+        "guid": "686e953c-fd40-4fd5-bc1a-004acd114f41"
+    },
+    "226e0a8d-b24d-4651-8b8c-ca25823b84cc": {
+        "name": "Col-sm-# (\u00a0\u2265576px)",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/226e0a8d-b24d-4651-8b8c-ca25823b84cc",
+        "settings": "src\/226e0a8d-b24d-4651-8b8c-ca25823b84cc\/item.json",
+        "guid": "226e0a8d-b24d-4651-8b8c-ca25823b84cc"
+    },
+    "2d517a5b-0e12-4c14-a12e-744503856bec": {
+        "name": "Col-lg-# (\u00a0\u2265992px)",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/2d517a5b-0e12-4c14-a12e-744503856bec",
+        "settings": "src\/2d517a5b-0e12-4c14-a12e-744503856bec\/item.json",
+        "guid": "2d517a5b-0e12-4c14-a12e-744503856bec"
+    },
+    "a8301f8a-41df-4cd4-b0f8-b312726de65c": {
+        "name": "Col",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/a8301f8a-41df-4cd4-b0f8-b312726de65c",
+        "settings": "src\/a8301f8a-41df-4cd4-b0f8-b312726de65c\/item.json",
+        "guid": "a8301f8a-41df-4cd4-b0f8-b312726de65c"
+    },
+    "47a15a5c-2416-4597-b729-03a8044695c1": {
+        "name": "Row",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/47a15a5c-2416-4597-b729-03a8044695c1",
+        "settings": "src\/47a15a5c-2416-4597-b729-03a8044695c1\/item.json",
+        "guid": "47a15a5c-2416-4597-b729-03a8044695c1"
+    },
+    "aa702277-259b-487b-a25b-10340e5f6918": {
+        "name": "nested columns",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/aa702277-259b-487b-a25b-10340e5f6918",
+        "settings": "src\/aa702277-259b-487b-a25b-10340e5f6918\/item.json",
+        "guid": "aa702277-259b-487b-a25b-10340e5f6918"
+    },
+    "e45ba6b1-48b5-497b-a328-69ba977f8862": {
+        "name": "Container - Fluid",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/e45ba6b1-48b5-497b-a328-69ba977f8862",
+        "settings": "src\/e45ba6b1-48b5-497b-a328-69ba977f8862\/item.json",
+        "guid": "e45ba6b1-48b5-497b-a328-69ba977f8862"
+    },
+    "f936dedc-26e9-44d7-92e9-8eccdf3085ec": {
+        "name": "no-gutters",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/f936dedc-26e9-44d7-92e9-8eccdf3085ec",
+        "settings": "src\/f936dedc-26e9-44d7-92e9-8eccdf3085ec\/item.json",
+        "guid": "f936dedc-26e9-44d7-92e9-8eccdf3085ec"
+    },
+    "68679334-88e8-48c8-93d0-1988a13f0d14": {
+        "name": "Image Thumbnails",
+        "desc": "Documentation and examples for opting images into responsive behavior (so they never become larger than their parent elements) and add lightweight styles to them\u2014all via classes.",
+        "path": "src\/68679334-88e8-48c8-93d0-1988a13f0d14",
+        "settings": "src\/68679334-88e8-48c8-93d0-1988a13f0d14\/item.json",
+        "guid": "68679334-88e8-48c8-93d0-1988a13f0d14"
+    },
+    "66060eff-2a30-491a-8e8b-550061cd9ab6": {
+        "name": "order-#",
+        "desc": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+        "path": "src\/66060eff-2a30-491a-8e8b-550061cd9ab6",
+        "settings": "src\/66060eff-2a30-491a-8e8b-550061cd9ab6\/item.json",
+        "guid": "66060eff-2a30-491a-8e8b-550061cd9ab6"
+    },
+    "2ff7d8de-11dc-4966-a3e1-93b720eb1068": {
+        "name": "Fluid Images",
+        "desc": "Documentation and examples for opting images into responsive behavior (so they never become larger than their parent elements) and add lightweight styles to them\u2014all via classes.",
+        "path": "src\/2ff7d8de-11dc-4966-a3e1-93b720eb1068",
+        "settings": "src\/2ff7d8de-11dc-4966-a3e1-93b720eb1068\/item.json",
+        "guid": "2ff7d8de-11dc-4966-a3e1-93b720eb1068"
+    },
+    "f3bbe80a-6d46-4db5-9998-9fa7caac614d": {
+        "name": "Jumbotron - Fluid",
+        "desc": "Lightweight, flexible component for showcasing hero unit style content.",
+        "path": "src\/f3bbe80a-6d46-4db5-9998-9fa7caac614d",
+        "settings": "src\/f3bbe80a-6d46-4db5-9998-9fa7caac614d\/item.json",
+        "guid": "f3bbe80a-6d46-4db5-9998-9fa7caac614d"
+    },
+    "18447802-a6fa-4fe2-bbac-4a746920650c": {
+        "name": "Jumbotron",
+        "desc": "Lightweight, flexible component for showcasing hero unit style content.",
+        "path": "src\/18447802-a6fa-4fe2-bbac-4a746920650c",
+        "settings": "src\/18447802-a6fa-4fe2-bbac-4a746920650c\/item.json",
+        "guid": "18447802-a6fa-4fe2-bbac-4a746920650c"
+    },
+    "d0ee4e00-82c8-4a00-b1b6-8c460f668993": {
+        "name": "List Group - Item Action",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/d0ee4e00-82c8-4a00-b1b6-8c460f668993",
+        "settings": "src\/d0ee4e00-82c8-4a00-b1b6-8c460f668993\/item.json",
+        "guid": "d0ee4e00-82c8-4a00-b1b6-8c460f668993"
+    },
+    "1c044bc4-cbdd-4666-8a96-050e342ec96a": {
+        "name": "List Group - Item Active",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/1c044bc4-cbdd-4666-8a96-050e342ec96a",
+        "settings": "src\/1c044bc4-cbdd-4666-8a96-050e342ec96a\/item.json",
+        "guid": "1c044bc4-cbdd-4666-8a96-050e342ec96a"
+    },
+    "2d9acf47-ebff-46dc-b10e-43adec2bed91": {
+        "name": "List Group - Item Dark",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/2d9acf47-ebff-46dc-b10e-43adec2bed91",
+        "settings": "src\/2d9acf47-ebff-46dc-b10e-43adec2bed91\/item.json",
+        "guid": "2d9acf47-ebff-46dc-b10e-43adec2bed91"
+    },
+    "5d1a0b6d-1d91-4fae-8f66-2495a501f8aa": {
+        "name": "List Group - Item Disabled",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/5d1a0b6d-1d91-4fae-8f66-2495a501f8aa",
+        "settings": "src\/5d1a0b6d-1d91-4fae-8f66-2495a501f8aa\/item.json",
+        "guid": "5d1a0b6d-1d91-4fae-8f66-2495a501f8aa"
+    },
+    "f190ca2d-b78a-4a94-8e92-0922722db1b2": {
+        "name": "List Group - Item Info",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/f190ca2d-b78a-4a94-8e92-0922722db1b2",
+        "settings": "src\/f190ca2d-b78a-4a94-8e92-0922722db1b2\/item.json",
+        "guid": "f190ca2d-b78a-4a94-8e92-0922722db1b2"
+    },
+    "bfe7dcd6-0be1-46d0-97c9-5c45bc8889e0": {
+        "name": "List Group - Item Secondary",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/bfe7dcd6-0be1-46d0-97c9-5c45bc8889e0",
+        "settings": "src\/bfe7dcd6-0be1-46d0-97c9-5c45bc8889e0\/item.json",
+        "guid": "bfe7dcd6-0be1-46d0-97c9-5c45bc8889e0"
+    },
+    "c06d1abb-1384-4ecb-b44d-867e4b729f45": {
+        "name": "List Group - Item Primary",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/c06d1abb-1384-4ecb-b44d-867e4b729f45",
+        "settings": "src\/c06d1abb-1384-4ecb-b44d-867e4b729f45\/item.json",
+        "guid": "c06d1abb-1384-4ecb-b44d-867e4b729f45"
+    },
+    "b8d3e992-7de5-4f75-abc8-99dc206e2d16": {
+        "name": "List Group - Item Light",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/b8d3e992-7de5-4f75-abc8-99dc206e2d16",
+        "settings": "src\/b8d3e992-7de5-4f75-abc8-99dc206e2d16\/item.json",
+        "guid": "b8d3e992-7de5-4f75-abc8-99dc206e2d16"
+    },
+    "9f4155c3-17f9-43e9-97cd-2088eba5600e": {
+        "name": "List Group - Item Warning",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/9f4155c3-17f9-43e9-97cd-2088eba5600e",
+        "settings": "src\/9f4155c3-17f9-43e9-97cd-2088eba5600e\/item.json",
+        "guid": "9f4155c3-17f9-43e9-97cd-2088eba5600e"
+    },
+    "eae96da5-86a0-423a-822b-5d14b7d59571": {
+        "name": "List Group - With d-flex",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/eae96da5-86a0-423a-822b-5d14b7d59571",
+        "settings": "src\/eae96da5-86a0-423a-822b-5d14b7d59571\/item.json",
+        "guid": "eae96da5-86a0-423a-822b-5d14b7d59571"
+    },
+    "bde19330-52d2-411e-bf7d-6d3bb03e0092": {
+        "name": "List Group - With Badges",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/bde19330-52d2-411e-bf7d-6d3bb03e0092",
+        "settings": "src\/bde19330-52d2-411e-bf7d-6d3bb03e0092\/item.json",
+        "guid": "bde19330-52d2-411e-bf7d-6d3bb03e0092"
+    },
+    "e1b184b7-b9f9-4d3d-aa1e-f6f528321eaa": {
+        "name": "List Group - Item Success",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/e1b184b7-b9f9-4d3d-aa1e-f6f528321eaa",
+        "settings": "src\/e1b184b7-b9f9-4d3d-aa1e-f6f528321eaa\/item.json",
+        "guid": "e1b184b7-b9f9-4d3d-aa1e-f6f528321eaa"
+    },
+    "edf43650-1aa9-41bb-809c-378824be2836": {
+        "name": "List Group",
+        "desc": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+        "path": "src\/edf43650-1aa9-41bb-809c-378824be2836",
+        "settings": "src\/edf43650-1aa9-41bb-809c-378824be2836\/item.json",
+        "guid": "edf43650-1aa9-41bb-809c-378824be2836"
+    },
+    "32b3891b-db74-4173-b57c-5e396d8d629e": {
+        "name": "Media - Right Aligned",
+        "desc": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+        "path": "src\/32b3891b-db74-4173-b57c-5e396d8d629e",
+        "settings": "src\/32b3891b-db74-4173-b57c-5e396d8d629e\/item.json",
+        "guid": "32b3891b-db74-4173-b57c-5e396d8d629e"
+    },
+    "6f3d155b-71df-407f-a2af-fab564ec09ae": {
+        "name": "Media - Nested",
+        "desc": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+        "path": "src\/6f3d155b-71df-407f-a2af-fab564ec09ae",
+        "settings": "src\/6f3d155b-71df-407f-a2af-fab564ec09ae\/item.json",
+        "guid": "6f3d155b-71df-407f-a2af-fab564ec09ae"
+    },
+    "661d28c7-1805-4c2e-9da3-6fd21e62a28f": {
+        "name": "Media - d-flex align-self-start",
+        "desc": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+        "path": "src\/661d28c7-1805-4c2e-9da3-6fd21e62a28f",
+        "settings": "src\/661d28c7-1805-4c2e-9da3-6fd21e62a28f\/item.json",
+        "guid": "661d28c7-1805-4c2e-9da3-6fd21e62a28f"
+    },
+    "66bb1402-b0d4-40e7-9718-d2d4aa469081": {
+        "name": "Media",
+        "desc": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+        "path": "src\/66bb1402-b0d4-40e7-9718-d2d4aa469081",
+        "settings": "src\/66bb1402-b0d4-40e7-9718-d2d4aa469081\/item.json",
+        "guid": "66bb1402-b0d4-40e7-9718-d2d4aa469081"
+    },
+    "9f2eaf8a-549e-42c7-b3a1-4429a2ef3514": {
+        "name": "Media - d-flex align-self-end",
+        "desc": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+        "path": "src\/9f2eaf8a-549e-42c7-b3a1-4429a2ef3514",
+        "settings": "src\/9f2eaf8a-549e-42c7-b3a1-4429a2ef3514\/item.json",
+        "guid": "9f2eaf8a-549e-42c7-b3a1-4429a2ef3514"
+    },
+    "b0858046-25de-47ed-a588-f1660d19ceea": {
+        "name": "Media - d-flex align-self-center",
+        "desc": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+        "path": "src\/b0858046-25de-47ed-a588-f1660d19ceea",
+        "settings": "src\/b0858046-25de-47ed-a588-f1660d19ceea\/item.json",
+        "guid": "b0858046-25de-47ed-a588-f1660d19ceea"
+    },
+    "542ece50-1352-4c76-ac8b-1dd8bc4310d2": {
+        "name": "Modal - Fade",
+        "desc": "Use Bootstrap's JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.",
+        "path": "src\/542ece50-1352-4c76-ac8b-1dd8bc4310d2",
+        "settings": "src\/542ece50-1352-4c76-ac8b-1dd8bc4310d2\/item.json",
+        "guid": "542ece50-1352-4c76-ac8b-1dd8bc4310d2"
+    },
+    "f362e09c-392f-4e0c-bcff-e0668811c99f": {
+        "name": "Modal - Large",
+        "desc": "Use Bootstrap's JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.",
+        "path": "src\/f362e09c-392f-4e0c-bcff-e0668811c99f",
+        "settings": "src\/f362e09c-392f-4e0c-bcff-e0668811c99f\/item.json",
+        "guid": "f362e09c-392f-4e0c-bcff-e0668811c99f"
+    },
+    "30321c58-4715-41c7-9088-f26ba2ab8da4": {
+        "name": "Modal - Small",
+        "desc": "Use Bootstrap's JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.",
+        "path": "src\/30321c58-4715-41c7-9088-f26ba2ab8da4",
+        "settings": "src\/30321c58-4715-41c7-9088-f26ba2ab8da4\/item.json",
+        "guid": "30321c58-4715-41c7-9088-f26ba2ab8da4"
+    },
+    "596529f3-eaf3-4b35-b788-4482799420ab": {
+        "name": "Modal",
+        "desc": "Use Bootstrap's JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.",
+        "path": "src\/596529f3-eaf3-4b35-b788-4482799420ab",
+        "settings": "src\/596529f3-eaf3-4b35-b788-4482799420ab\/item.json",
+        "guid": "596529f3-eaf3-4b35-b788-4482799420ab"
+    },
+    "b11add6d-16e4-44ab-a401-08cf3a67939e": {
+        "name": "Navbar - Collapse",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/b11add6d-16e4-44ab-a401-08cf3a67939e",
+        "settings": "src\/b11add6d-16e4-44ab-a401-08cf3a67939e\/item.json",
+        "guid": "b11add6d-16e4-44ab-a401-08cf3a67939e"
+    },
+    "9127bba8-6631-4537-b17b-c8e9e1db5a7a": {
+        "name": "Navbar - Brand",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/9127bba8-6631-4537-b17b-c8e9e1db5a7a",
+        "settings": "src\/9127bba8-6631-4537-b17b-c8e9e1db5a7a\/item.json",
+        "guid": "9127bba8-6631-4537-b17b-c8e9e1db5a7a"
+    },
+    "2443f049-94de-4e88-8dd8-dbdf3d92c043": {
+        "name": "Navbar - Dark Background",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/2443f049-94de-4e88-8dd8-dbdf3d92c043",
+        "settings": "src\/2443f049-94de-4e88-8dd8-dbdf3d92c043\/item.json",
+        "guid": "2443f049-94de-4e88-8dd8-dbdf3d92c043"
+    },
+    "ed9dba66-899e-4e40-8b3d-02f5cc0eca21": {
+        "name": "Navbar - Fixed Bottom",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/ed9dba66-899e-4e40-8b3d-02f5cc0eca21",
+        "settings": "src\/ed9dba66-899e-4e40-8b3d-02f5cc0eca21\/item.json",
+        "guid": "ed9dba66-899e-4e40-8b3d-02f5cc0eca21"
+    },
+    "abc85e54-e9be-4e8b-8761-c043f6c2c648": {
+        "name": "Navbar - Expand",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/abc85e54-e9be-4e8b-8761-c043f6c2c648",
+        "settings": "src\/abc85e54-e9be-4e8b-8761-c043f6c2c648\/item.json",
+        "guid": "abc85e54-e9be-4e8b-8761-c043f6c2c648"
+    }
+}
