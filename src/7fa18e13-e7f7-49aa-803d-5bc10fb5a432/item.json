@@ -1,0 +1,31 @@
+{
+    "name": "Popover - Dismissable",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/popovers\/",
+    "type": "3e5b282f-e964-4734-b97a-06677ded9ede",
+    "heading": "dismissible popover",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "7fa18e13-e7f7-49aa-803d-5bc10fb5a432",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<!-- Note: A custom script is used to activate popovers:\r\n\r\n$(function(){\r\n  $('[data-toggle=\"popover\"]').popover()\r\n});\r\n-->\r\n<a tabindex=\"0\" class=\"btn btn-lg btn-danger\" role=\"button\" data-toggle=\"popover\" data-trigger=\"focus\" title=\"Dismissible popover\" data-content=\"Click anywhere to dismiss this popover\">\r\n   Dismissible popover\r\n<\/a>",
+    "usage": "",
+    "description": "Documentation and examples for adding Bootstrap popovers, like those found in iOS, to any element on your site.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "3e5b282f-e964-4734-b97a-06677ded9ede",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
