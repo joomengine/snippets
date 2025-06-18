@@ -1,0 +1,31 @@
+{
+    "name": "List Group - Item Disabled",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/list-group\/",
+    "type": "b236f670-2139-4bb1-a4d5-d987d99bcd77",
+    "heading": "list-group-item disabled",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "5d1a0b6d-1d91-4fae-8f66-2495a501f8aa",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<ul class=\"list-group\">\r\n  <li class=\"list-group-item disabled\">Cras justo odio<\/li>\r\n  <li class=\"list-group-item\">Dapibus ac facilisis in<\/li>\r\n  <li class=\"list-group-item\">Morbi leo risus<\/li>\r\n<\/ul>",
+    "usage": "Add .disabled to a .list-group-item to make it appear disabled. Note that some elements with .disabled will also require custom JavaScript to fully disable their click events (e.g., links).",
+    "description": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "b236f670-2139-4bb1-a4d5-d987d99bcd77",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
