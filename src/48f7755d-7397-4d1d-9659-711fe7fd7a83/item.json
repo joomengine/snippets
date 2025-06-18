@@ -1,0 +1,31 @@
+{
+    "name": "Pagination - Small",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/pagination\/",
+    "type": "bcf6a838-919a-4d56-bcf1-f3dab99737c9",
+    "heading": "pagination-sm",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "48f7755d-7397-4d1d-9659-711fe7fd7a83",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<nav aria-label=\"...\">\r\n  <ul class=\"pagination pagination-sm\">\r\n    <li class=\"page-item disabled\">\r\n      <a class=\"page-link\" href=\"#\" tabindex=\"-1\">Previous<\/a>\r\n    <\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#\">1<\/a><\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#\">2<\/a><\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#\">3<\/a><\/li>\r\n    <li class=\"page-item\">\r\n      <a class=\"page-link\" href=\"#\">Next<\/a>\r\n    <\/li>\r\n  <\/ul>\r\n<\/nav>",
+    "usage": "Fancy larger or smaller pagination? Add .pagination-lg or .pagination-sm for additional sizes.",
+    "description": "Documentation and examples for showing pagination to indicate a series of related content exists across multiple pages.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bcf6a838-919a-4d56-bcf1-f3dab99737c9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
