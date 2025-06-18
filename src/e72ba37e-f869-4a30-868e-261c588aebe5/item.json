@@ -1,0 +1,31 @@
+{
+    "name": "List Group",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+    "heading": "list-group",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "e72ba37e-f869-4a30-868e-261c588aebe5",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"card\">\r\n  <ul class=\"list-group list-group-flush\">\r\n    <li class=\"list-group-item\">Cras justo odio<\/li>\r\n    <li class=\"list-group-item\">Dapibus ac facilisis in<\/li>\r\n    <li class=\"list-group-item\">Vestibulum at eros<\/li>\r\n  <\/ul>\r\n<\/div>",
+    "usage": "Create lists of content in a card with a flush list group.",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
