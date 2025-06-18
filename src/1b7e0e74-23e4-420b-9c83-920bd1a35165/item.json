@@ -1,0 +1,31 @@
+{
+    "name": "Dropdown - Show",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/dropdowns\/",
+    "type": "94ace410-b18d-4a04-a2c2-cfb532867145",
+    "heading": "dropdown show",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "1b7e0e74-23e4-420b-9c83-920bd1a35165",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"dropdown show\">\r\n  <button class=\"btn btn-secondary dropdown-toggle\" type=\"button\" id=\"dropdownMenu2\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n    Dropdown\r\n  <\/button>\r\n  <div class=\"dropdown-menu\" aria-labelledby=\"dropdownMenu2\">\r\n    <a class=\"dropdown-item\" href=\"#\">Action<\/a>\r\n    <a class=\"dropdown-item\" href=\"#\">Another action<\/a>\r\n  <\/div>\r\n<\/div>",
+    "usage": "Via data attributes or JavaScript, the dropdown plugin toggles hidden content (dropdown menus) by toggling the .show class on the parent list item. The data-toggle=\"dropdown\" attribute is relied on for closing dropdown menus at an application level, so it\u2019s a good idea to always use it.",
+    "description": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "94ace410-b18d-4a04-a2c2-cfb532867145",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
