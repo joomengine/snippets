@@ -1,0 +1,31 @@
+{
+    "name": "Card - White Text \/ Primary Backgroup",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+    "heading": "card text-white bg-primary",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "e572c49e-5084-4e35-af2f-160689b45cf1",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<!-- Tip: use bg-* and text-* utilities to style the card -->\r\n<div class=\"card text-white bg-primary mb-3 d-inline-block\" style=\"max-width: 20rem;\">\r\n  <div class=\"card-header\">Header<\/div>\r\n  <div class=\"card-body\">\r\n    <h4 class=\"card-title\">Primary card title<\/h4>\r\n    <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.<\/p>\r\n  <\/div>\r\n<\/div>\r\n<div class=\"card text-white bg-dark mb-3 d-inline-block\" style=\"max-width: 20rem;\">\r\n  <div class=\"card-header\">Header<\/div>\r\n  <div class=\"card-body\">\r\n    <h4 class=\"card-title\">Primary card title<\/h4>\r\n    <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.<\/p>\r\n  <\/div>\r\n<\/div>",
+    "usage": "Card styles\r\nCards include various options for customizing their backgrounds, borders, and color.\r\n\r\nBackground and color\r\nUse text and background utilities to change the appearance of a card.",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
