@@ -1,0 +1,31 @@
+{
+    "name": "Col-md-# (\u00a0\u2265768px)",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+    "heading": "col-md-# (\u00a0\u2265768px)",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "50c69e64-7994-4ce2-a0e4-768a73d88454",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"container\">\r\n  <div class=\"row\">\r\n    <div class=\"col-md-2\">\r\n      <!-- Content -->\r\n    <\/div>\r\n    <div class=\"col-md-2\">\r\n      <!-- Content -->\r\n    <\/div>\r\n    <div class=\"col-md-8\">\r\n      <!-- Content -->\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "usage": "While Bootstrap uses ems or rems for defining most sizes, pxs are used for grid breakpoints and container widths. This is because the viewport width is in pixels and does not change with the font size.\r\n\r\nSee how aspects of the Bootstrap grid system work across multiple devices with a handy table.",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
