@@ -1,0 +1,31 @@
+{
+    "name": "Nav - Fill",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
+    "type": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+    "heading": "nav-fill",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "c53a12dd-6165-4b87-97db-0a68771c6cc4",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<ul class=\"nav nav-pills nav-fill\">\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#\">Longer nav link<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <\/li>\r\n<\/ul>",
+    "usage": "Force your .nav\u2019s contents to extend the full available width one of two modifier classes. To proportionately fill all available space with your .nav-items, use .nav-fill. Notice that all horizontal space is occupied, but not every nav item has the same width.",
+    "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
