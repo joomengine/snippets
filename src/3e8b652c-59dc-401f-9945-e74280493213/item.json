@@ -1,0 +1,31 @@
+{
+    "name": "Radio",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "15b018d4-0161-42ad-aa34-6ed242852da9",
+    "heading": "radio",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "3e8b652c-59dc-401f-9945-e74280493213",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"form-check\">\r\n  <label class=\"form-check-label\">\r\n    <input class=\"form-check-input\" type=\"radio\" name=\"exampleRadios\" id=\"exampleRadios1\" value=\"option1\" checked=\"\">\r\n    Option one is this and that\u2014be sure to include why it's great\r\n  <\/label>\r\n<\/div>\r\n<div class=\"form-check\">\r\n  <label class=\"form-check-label\">\r\n    <input class=\"form-check-input\" type=\"radio\" name=\"exampleRadios\" id=\"exampleRadios3\" value=\"option2\">\r\n    Option two can be something else and selecting it will deselect option one\r\n  <\/label>\r\n<\/div>",
+    "usage": "Default checkboxes and radios are improved upon with the help of .form-check, a single class for both input types that improves the layout and behavior of their HTML elements. Checkboxes are for selecting one or several options in a list, while radios are for selecting one option from many.\r\n\r\nDisabled checkboxes and radios are supported, but to provide a not-allowed cursor on hover of the parent , you\u2019ll need to add the .disabled class to the parent .form-check. The disabled class will also lighten the text color to help indicate the input\u2019s state.",
+    "description": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15b018d4-0161-42ad-aa34-6ed242852da9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
