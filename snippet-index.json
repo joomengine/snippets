@@ -1069,5 +1069,1405 @@
         "path": "src\/abc85e54-e9be-4e8b-8761-c043f6c2c648",
         "settings": "src\/abc85e54-e9be-4e8b-8761-c043f6c2c648\/item.json",
         "guid": "abc85e54-e9be-4e8b-8761-c043f6c2c648"
+    },
+    "3ed1eb62-b569-4d3c-9307-d09ababb9581": {
+        "name": "Navbar - Light",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/3ed1eb62-b569-4d3c-9307-d09ababb9581",
+        "settings": "src\/3ed1eb62-b569-4d3c-9307-d09ababb9581\/item.json",
+        "guid": "3ed1eb62-b569-4d3c-9307-d09ababb9581"
+    },
+    "8ef4d3ad-9162-4d60-b412-38bdce8f2bb4": {
+        "name": "Navbar - Fixed Top",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/8ef4d3ad-9162-4d60-b412-38bdce8f2bb4",
+        "settings": "src\/8ef4d3ad-9162-4d60-b412-38bdce8f2bb4\/item.json",
+        "guid": "8ef4d3ad-9162-4d60-b412-38bdce8f2bb4"
+    },
+    "49c9a61b-3b78-4936-92fa-5610ae8e4af1": {
+        "name": "Navbar - Sticky Top",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/49c9a61b-3b78-4936-92fa-5610ae8e4af1",
+        "settings": "src\/49c9a61b-3b78-4936-92fa-5610ae8e4af1\/item.json",
+        "guid": "49c9a61b-3b78-4936-92fa-5610ae8e4af1"
+    },
+    "448a603b-3e57-483f-9497-9bea3f70d1a4": {
+        "name": "Navbar - Text",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/448a603b-3e57-483f-9497-9bea3f70d1a4",
+        "settings": "src\/448a603b-3e57-483f-9497-9bea3f70d1a4\/item.json",
+        "guid": "448a603b-3e57-483f-9497-9bea3f70d1a4"
+    },
+    "9036e014-14ff-485e-b870-c4c7391462ae": {
+        "name": "Navbar - Toggler",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/9036e014-14ff-485e-b870-c4c7391462ae",
+        "settings": "src\/9036e014-14ff-485e-b870-c4c7391462ae\/item.json",
+        "guid": "9036e014-14ff-485e-b870-c4c7391462ae"
+    },
+    "abf75c6a-2315-47d9-9f75-1ce590af1961": {
+        "name": "Navbar - With Form",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/abf75c6a-2315-47d9-9f75-1ce590af1961",
+        "settings": "src\/abf75c6a-2315-47d9-9f75-1ce590af1961\/item.json",
+        "guid": "abf75c6a-2315-47d9-9f75-1ce590af1961"
+    },
+    "7aeeca84-0fe8-4e43-85c8-3c001328c23e": {
+        "name": "Navbar",
+        "desc": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+        "path": "src\/7aeeca84-0fe8-4e43-85c8-3c001328c23e",
+        "settings": "src\/7aeeca84-0fe8-4e43-85c8-3c001328c23e\/item.json",
+        "guid": "7aeeca84-0fe8-4e43-85c8-3c001328c23e"
+    },
+    "c53a12dd-6165-4b87-97db-0a68771c6cc4": {
+        "name": "Nav - Fill",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/c53a12dd-6165-4b87-97db-0a68771c6cc4",
+        "settings": "src\/c53a12dd-6165-4b87-97db-0a68771c6cc4\/item.json",
+        "guid": "c53a12dd-6165-4b87-97db-0a68771c6cc4"
+    },
+    "5b0b2d22-7b8f-43a2-8a22-0be5af364d4c": {
+        "name": "Nav - Flex Column",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/5b0b2d22-7b8f-43a2-8a22-0be5af364d4c",
+        "settings": "src\/5b0b2d22-7b8f-43a2-8a22-0be5af364d4c\/item.json",
+        "guid": "5b0b2d22-7b8f-43a2-8a22-0be5af364d4c"
+    },
+    "731ed19c-ba1f-4166-925c-c78f9a2a7ebe": {
+        "name": "Nav - Justify Content",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/731ed19c-ba1f-4166-925c-c78f9a2a7ebe",
+        "settings": "src\/731ed19c-ba1f-4166-925c-c78f9a2a7ebe\/item.json",
+        "guid": "731ed19c-ba1f-4166-925c-c78f9a2a7ebe"
+    },
+    "fff7ea7a-77c0-4d3f-a939-b98627617346": {
+        "name": "Nav - Pills with Dropdown",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/fff7ea7a-77c0-4d3f-a939-b98627617346",
+        "settings": "src\/fff7ea7a-77c0-4d3f-a939-b98627617346\/item.json",
+        "guid": "fff7ea7a-77c0-4d3f-a939-b98627617346"
+    },
+    "277c31c6-c35b-49a8-89e5-f1c886892328": {
+        "name": "Nav - Nav",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/277c31c6-c35b-49a8-89e5-f1c886892328",
+        "settings": "src\/277c31c6-c35b-49a8-89e5-f1c886892328\/item.json",
+        "guid": "277c31c6-c35b-49a8-89e5-f1c886892328"
+    },
+    "386593ec-9213-4595-bad4-8b5007fe1651": {
+        "name": "Nav - Tabs with Dropdown",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/386593ec-9213-4595-bad4-8b5007fe1651",
+        "settings": "src\/386593ec-9213-4595-bad4-8b5007fe1651\/item.json",
+        "guid": "386593ec-9213-4595-bad4-8b5007fe1651"
+    },
+    "4bc97d5a-7da6-4c82-b027-c6f5a92df763": {
+        "name": "Nav - Pills",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/4bc97d5a-7da6-4c82-b027-c6f5a92df763",
+        "settings": "src\/4bc97d5a-7da6-4c82-b027-c6f5a92df763\/item.json",
+        "guid": "4bc97d5a-7da6-4c82-b027-c6f5a92df763"
+    },
+    "68afc3a3-55a8-4d42-85d0-3843dc47724a": {
+        "name": "Nav - Tabs",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/68afc3a3-55a8-4d42-85d0-3843dc47724a",
+        "settings": "src\/68afc3a3-55a8-4d42-85d0-3843dc47724a\/item.json",
+        "guid": "68afc3a3-55a8-4d42-85d0-3843dc47724a"
+    },
+    "a31487c6-de00-4c68-b53d-f0e8aa946875": {
+        "name": "Nav- Justified",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/a31487c6-de00-4c68-b53d-f0e8aa946875",
+        "settings": "src\/a31487c6-de00-4c68-b53d-f0e8aa946875\/item.json",
+        "guid": "a31487c6-de00-4c68-b53d-f0e8aa946875"
+    },
+    "b90b7541-acff-4baa-a61f-3b6be3dc793a": {
+        "name": "ul.nav",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/b90b7541-acff-4baa-a61f-3b6be3dc793a",
+        "settings": "src\/b90b7541-acff-4baa-a61f-3b6be3dc793a\/item.json",
+        "guid": "b90b7541-acff-4baa-a61f-3b6be3dc793a"
+    },
+    "0f4458a1-fdc7-430b-9d9d-3ad9e381dd43": {
+        "name": "Nav - With Flex Utils",
+        "desc": "Documentation and examples for how to use Bootstrap's included navigation components.",
+        "path": "src\/0f4458a1-fdc7-430b-9d9d-3ad9e381dd43",
+        "settings": "src\/0f4458a1-fdc7-430b-9d9d-3ad9e381dd43\/item.json",
+        "guid": "0f4458a1-fdc7-430b-9d9d-3ad9e381dd43"
+    },
+    "e15d9452-4ebc-4eae-a879-6ecb44247b51": {
+        "name": "Pagination - Large",
+        "desc": "Documentation and examples for showing pagination to indicate a series of related content exists across multiple pages.",
+        "path": "src\/e15d9452-4ebc-4eae-a879-6ecb44247b51",
+        "settings": "src\/e15d9452-4ebc-4eae-a879-6ecb44247b51\/item.json",
+        "guid": "e15d9452-4ebc-4eae-a879-6ecb44247b51"
+    },
+    "1af9491f-00c7-44f9-8e6a-afb39f79ee34": {
+        "name": "Pagination - Page Item Active",
+        "desc": "Documentation and examples for showing pagination to indicate a series of related content exists across multiple pages.",
+        "path": "src\/1af9491f-00c7-44f9-8e6a-afb39f79ee34",
+        "settings": "src\/1af9491f-00c7-44f9-8e6a-afb39f79ee34\/item.json",
+        "guid": "1af9491f-00c7-44f9-8e6a-afb39f79ee34"
+    },
+    "da628654-90fc-4990-9e7e-b55133475a56": {
+        "name": "Pagination",
+        "desc": "Documentation and examples for showing pagination to indicate a series of related content exists across multiple pages.",
+        "path": "src\/da628654-90fc-4990-9e7e-b55133475a56",
+        "settings": "src\/da628654-90fc-4990-9e7e-b55133475a56\/item.json",
+        "guid": "da628654-90fc-4990-9e7e-b55133475a56"
+    },
+    "b5c034cf-56b1-4c72-9026-210e7b890518": {
+        "name": "Pagination - Page Item Disabled",
+        "desc": "Documentation and examples for showing pagination to indicate a series of related content exists across multiple pages.",
+        "path": "src\/b5c034cf-56b1-4c72-9026-210e7b890518",
+        "settings": "src\/b5c034cf-56b1-4c72-9026-210e7b890518\/item.json",
+        "guid": "b5c034cf-56b1-4c72-9026-210e7b890518"
+    },
+    "9c951a59-6b34-430c-9542-52e678c2693c": {
+        "name": "Popovers",
+        "desc": "Documentation and examples for adding Bootstrap popovers, like those found in iOS, to any element on your site.",
+        "path": "src\/9c951a59-6b34-430c-9542-52e678c2693c",
+        "settings": "src\/9c951a59-6b34-430c-9542-52e678c2693c\/item.json",
+        "guid": "9c951a59-6b34-430c-9542-52e678c2693c"
+    },
+    "7fa18e13-e7f7-49aa-803d-5bc10fb5a432": {
+        "name": "Popover - Dismissable",
+        "desc": "Documentation and examples for adding Bootstrap popovers, like those found in iOS, to any element on your site.",
+        "path": "src\/7fa18e13-e7f7-49aa-803d-5bc10fb5a432",
+        "settings": "src\/7fa18e13-e7f7-49aa-803d-5bc10fb5a432\/item.json",
+        "guid": "7fa18e13-e7f7-49aa-803d-5bc10fb5a432"
+    },
+    "48f7755d-7397-4d1d-9659-711fe7fd7a83": {
+        "name": "Pagination - Small",
+        "desc": "Documentation and examples for showing pagination to indicate a series of related content exists across multiple pages.",
+        "path": "src\/48f7755d-7397-4d1d-9659-711fe7fd7a83",
+        "settings": "src\/48f7755d-7397-4d1d-9659-711fe7fd7a83\/item.json",
+        "guid": "48f7755d-7397-4d1d-9659-711fe7fd7a83"
+    },
+    "ba880df9-57ef-42f4-be16-fe2a10f73356": {
+        "name": "Progress - Bar Multiple",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/ba880df9-57ef-42f4-be16-fe2a10f73356",
+        "settings": "src\/ba880df9-57ef-42f4-be16-fe2a10f73356\/item.json",
+        "guid": "ba880df9-57ef-42f4-be16-fe2a10f73356"
+    },
+    "976a20c1-ec69-4738-83b9-0cd67d576ae2": {
+        "name": "Progress - Bar Animated",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/976a20c1-ec69-4738-83b9-0cd67d576ae2",
+        "settings": "src\/976a20c1-ec69-4738-83b9-0cd67d576ae2\/item.json",
+        "guid": "976a20c1-ec69-4738-83b9-0cd67d576ae2"
+    },
+    "6021319a-9aa0-42ce-a6e9-2353e23df76d": {
+        "name": "Progress - Bar Striped bg-*",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/6021319a-9aa0-42ce-a6e9-2353e23df76d",
+        "settings": "src\/6021319a-9aa0-42ce-a6e9-2353e23df76d\/item.json",
+        "guid": "6021319a-9aa0-42ce-a6e9-2353e23df76d"
+    },
+    "da070ec7-95f9-40f6-8894-6a4ba51a0e75": {
+        "name": "Progress - Bar Striped",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/da070ec7-95f9-40f6-8894-6a4ba51a0e75",
+        "settings": "src\/da070ec7-95f9-40f6-8894-6a4ba51a0e75\/item.json",
+        "guid": "da070ec7-95f9-40f6-8894-6a4ba51a0e75"
+    },
+    "dedd6675-0211-436b-b113-3f14c9ad1c2c": {
+        "name": "Progress - Bar with Height",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/dedd6675-0211-436b-b113-3f14c9ad1c2c",
+        "settings": "src\/dedd6675-0211-436b-b113-3f14c9ad1c2c\/item.json",
+        "guid": "dedd6675-0211-436b-b113-3f14c9ad1c2c"
+    },
+    "3981d7e8-b471-4109-9c09-917026573b6a": {
+        "name": "Progress - Bar bg-*",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/3981d7e8-b471-4109-9c09-917026573b6a",
+        "settings": "src\/3981d7e8-b471-4109-9c09-917026573b6a\/item.json",
+        "guid": "3981d7e8-b471-4109-9c09-917026573b6a"
+    },
+    "c81366f8-79e6-4501-a9b9-9c4bd5698e24": {
+        "name": "Progress - Bar",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/c81366f8-79e6-4501-a9b9-9c4bd5698e24",
+        "settings": "src\/c81366f8-79e6-4501-a9b9-9c4bd5698e24\/item.json",
+        "guid": "c81366f8-79e6-4501-a9b9-9c4bd5698e24"
+    },
+    "24772b57-0a45-4682-9c81-3f78ff515505": {
+        "name": "Progress - Bar with Label",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/24772b57-0a45-4682-9c81-3f78ff515505",
+        "settings": "src\/24772b57-0a45-4682-9c81-3f78ff515505\/item.json",
+        "guid": "24772b57-0a45-4682-9c81-3f78ff515505"
+    },
+    "c6f2643e-136d-4803-8db3-bbb210d355f1": {
+        "name": "Progress",
+        "desc": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+        "path": "src\/c6f2643e-136d-4803-8db3-bbb210d355f1",
+        "settings": "src\/c6f2643e-136d-4803-8db3-bbb210d355f1\/item.json",
+        "guid": "c6f2643e-136d-4803-8db3-bbb210d355f1"
+    },
+    "54c594a0-c7f1-44dc-937e-101992ef4ff2": {
+        "name": "Table - Bordered",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/54c594a0-c7f1-44dc-937e-101992ef4ff2",
+        "settings": "src\/54c594a0-c7f1-44dc-937e-101992ef4ff2\/item.json",
+        "guid": "54c594a0-c7f1-44dc-937e-101992ef4ff2"
+    },
+    "9317efe3-677d-4b7c-8145-75f798349375": {
+        "name": "Table - Active",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/9317efe3-677d-4b7c-8145-75f798349375",
+        "settings": "src\/9317efe3-677d-4b7c-8145-75f798349375\/item.json",
+        "guid": "9317efe3-677d-4b7c-8145-75f798349375"
+    },
+    "f925b05c-69eb-4b31-9fdb-32e8b72592e8": {
+        "name": "Data Spy",
+        "desc": "Scrollspy has a few requirements to function properly:\r\n\r\n    If building our JS from source, it requires util.js.\r\n    It must be used on a Bootstrap nav component or list group.\r\n    Scrollspy requires position: relative; on the element you\u2019re spying on, usually the .\r\n    When spying on elements other than the , be sure to have a height set and overflow-y: scroll; applied.\r\n    Anchors () are required and must point to an element with that id.\r\n\r\nWhen successfully implemented, your nav or list group will update accordingly, moving the .active class from one item to the next based on their associated targets.",
+        "path": "src\/f925b05c-69eb-4b31-9fdb-32e8b72592e8",
+        "settings": "src\/f925b05c-69eb-4b31-9fdb-32e8b72592e8\/item.json",
+        "guid": "f925b05c-69eb-4b31-9fdb-32e8b72592e8"
+    },
+    "d2633433-6031-432a-9fc0-b8d2a5ed6043": {
+        "name": "Table - Danger",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/d2633433-6031-432a-9fc0-b8d2a5ed6043",
+        "settings": "src\/d2633433-6031-432a-9fc0-b8d2a5ed6043\/item.json",
+        "guid": "d2633433-6031-432a-9fc0-b8d2a5ed6043"
+    },
+    "3360fa4c-906b-474c-a5cf-a4a9cbc3e65e": {
+        "name": "Table - Header Light",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/3360fa4c-906b-474c-a5cf-a4a9cbc3e65e",
+        "settings": "src\/3360fa4c-906b-474c-a5cf-a4a9cbc3e65e\/item.json",
+        "guid": "3360fa4c-906b-474c-a5cf-a4a9cbc3e65e"
+    },
+    "25ba81eb-1789-4f71-9cba-02cc8cd5b160": {
+        "name": "Table - Dark",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/25ba81eb-1789-4f71-9cba-02cc8cd5b160",
+        "settings": "src\/25ba81eb-1789-4f71-9cba-02cc8cd5b160\/item.json",
+        "guid": "25ba81eb-1789-4f71-9cba-02cc8cd5b160"
+    },
+    "8369f8cd-9e6c-4956-baa0-22a3ead53d1d": {
+        "name": "Table - Header Dark",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/8369f8cd-9e6c-4956-baa0-22a3ead53d1d",
+        "settings": "src\/8369f8cd-9e6c-4956-baa0-22a3ead53d1d\/item.json",
+        "guid": "8369f8cd-9e6c-4956-baa0-22a3ead53d1d"
+    },
+    "2563d350-5b47-4c0a-92bf-af04c9a263ad": {
+        "name": "Table - Hover",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/2563d350-5b47-4c0a-92bf-af04c9a263ad",
+        "settings": "src\/2563d350-5b47-4c0a-92bf-af04c9a263ad\/item.json",
+        "guid": "2563d350-5b47-4c0a-92bf-af04c9a263ad"
+    },
+    "2cce8791-2ce2-46fb-85c3-17287837b405": {
+        "name": "Table - Light",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/2cce8791-2ce2-46fb-85c3-17287837b405",
+        "settings": "src\/2cce8791-2ce2-46fb-85c3-17287837b405\/item.json",
+        "guid": "2cce8791-2ce2-46fb-85c3-17287837b405"
+    },
+    "90c0b0b2-1841-4ff7-802b-bf6591175a57": {
+        "name": "Table - Info",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/90c0b0b2-1841-4ff7-802b-bf6591175a57",
+        "settings": "src\/90c0b0b2-1841-4ff7-802b-bf6591175a57\/item.json",
+        "guid": "90c0b0b2-1841-4ff7-802b-bf6591175a57"
+    },
+    "684c92f2-1ad2-4800-9e6e-cc26489fff76": {
+        "name": "Table - Primary",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/684c92f2-1ad2-4800-9e6e-cc26489fff76",
+        "settings": "src\/684c92f2-1ad2-4800-9e6e-cc26489fff76\/item.json",
+        "guid": "684c92f2-1ad2-4800-9e6e-cc26489fff76"
+    },
+    "205a1530-d64e-4ebc-a1e3-2ec270edfb69": {
+        "name": "Table - Secondary",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/205a1530-d64e-4ebc-a1e3-2ec270edfb69",
+        "settings": "src\/205a1530-d64e-4ebc-a1e3-2ec270edfb69\/item.json",
+        "guid": "205a1530-d64e-4ebc-a1e3-2ec270edfb69"
+    },
+    "1b152c1e-411e-46a4-a182-dc9605208f8d": {
+        "name": "Table - Responsive",
+        "desc": "Responsive tables allow tables to be scrolled horizontally with ease. Make any table responsive across all viewports by adding .table-responsive class on .table. Or, pick a maximum breakpoint with which to have a responsive table up to by adding .table-responsive{-sm|-md|-lg|-xl}.",
+        "path": "src\/1b152c1e-411e-46a4-a182-dc9605208f8d",
+        "settings": "src\/1b152c1e-411e-46a4-a182-dc9605208f8d\/item.json",
+        "guid": "1b152c1e-411e-46a4-a182-dc9605208f8d"
+    },
+    "80df1897-5cda-4db6-b247-a6d1f6b56253": {
+        "name": "Table - Small",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/80df1897-5cda-4db6-b247-a6d1f6b56253",
+        "settings": "src\/80df1897-5cda-4db6-b247-a6d1f6b56253\/item.json",
+        "guid": "80df1897-5cda-4db6-b247-a6d1f6b56253"
+    },
+    "45aa13a8-e13c-4b0f-bb5d-13c464c0d7eb": {
+        "name": "Table - Success",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/45aa13a8-e13c-4b0f-bb5d-13c464c0d7eb",
+        "settings": "src\/45aa13a8-e13c-4b0f-bb5d-13c464c0d7eb\/item.json",
+        "guid": "45aa13a8-e13c-4b0f-bb5d-13c464c0d7eb"
+    },
+    "59e314b3-5f4d-41b0-9a5c-18e9ffc9b3ee": {
+        "name": "Table - Striped",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/59e314b3-5f4d-41b0-9a5c-18e9ffc9b3ee",
+        "settings": "src\/59e314b3-5f4d-41b0-9a5c-18e9ffc9b3ee\/item.json",
+        "guid": "59e314b3-5f4d-41b0-9a5c-18e9ffc9b3ee"
+    },
+    "ed72b3ac-855f-42ea-8d1f-f6166bd65009": {
+        "name": "Table",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/ed72b3ac-855f-42ea-8d1f-f6166bd65009",
+        "settings": "src\/ed72b3ac-855f-42ea-8d1f-f6166bd65009\/item.json",
+        "guid": "ed72b3ac-855f-42ea-8d1f-f6166bd65009"
+    },
+    "027dbcd9-94b3-4892-a9da-b89a2dbc6107": {
+        "name": "Table - Warning",
+        "desc": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+        "path": "src\/027dbcd9-94b3-4892-a9da-b89a2dbc6107",
+        "settings": "src\/027dbcd9-94b3-4892-a9da-b89a2dbc6107\/item.json",
+        "guid": "027dbcd9-94b3-4892-a9da-b89a2dbc6107"
+    },
+    "94339377-90c8-44d7-915c-75c11dfbab25": {
+        "name": "Tooltip",
+        "desc": "Documentation and examples for adding custom Bootstrap tooltips with CSS and JavaScript using CSS3 for animations and data-attributes for local title storage.",
+        "path": "src\/94339377-90c8-44d7-915c-75c11dfbab25",
+        "settings": "src\/94339377-90c8-44d7-915c-75c11dfbab25\/item.json",
+        "guid": "94339377-90c8-44d7-915c-75c11dfbab25"
+    },
+    "11866ba1-0da3-4f8e-8585-127ef543dcd8": {
+        "name": "Typography - Blockquote Footer",
+        "desc": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+        "path": "src\/11866ba1-0da3-4f8e-8585-127ef543dcd8",
+        "settings": "src\/11866ba1-0da3-4f8e-8585-127ef543dcd8\/item.json",
+        "guid": "11866ba1-0da3-4f8e-8585-127ef543dcd8"
+    },
+    "34496721-ebee-469a-a175-e847da01383a": {
+        "name": "Typography - Blockquote",
+        "desc": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+        "path": "src\/34496721-ebee-469a-a175-e847da01383a",
+        "settings": "src\/34496721-ebee-469a-a175-e847da01383a\/item.json",
+        "guid": "34496721-ebee-469a-a175-e847da01383a"
+    },
+    "2bc453ac-c6ea-4c10-a836-467d0990cbfb": {
+        "name": "Typography - Lead",
+        "desc": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+        "path": "src\/2bc453ac-c6ea-4c10-a836-467d0990cbfb",
+        "settings": "src\/2bc453ac-c6ea-4c10-a836-467d0990cbfb\/item.json",
+        "guid": "2bc453ac-c6ea-4c10-a836-467d0990cbfb"
+    },
+    "398600fd-1ece-43a4-b4a1-90eb2d3d2c60": {
+        "name": "Typography - Display",
+        "desc": "Traditional heading elements are designed to work best in the meat of your page content. When you need a heading to stand out, consider using a display heading\u2014a larger, slightly more opinionated heading style.",
+        "path": "src\/398600fd-1ece-43a4-b4a1-90eb2d3d2c60",
+        "settings": "src\/398600fd-1ece-43a4-b4a1-90eb2d3d2c60\/item.json",
+        "guid": "398600fd-1ece-43a4-b4a1-90eb2d3d2c60"
+    },
+    "7f41c814-06fa-4dcf-844c-17edb57eaa41": {
+        "name": "Typography - List Inline",
+        "desc": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+        "path": "src\/7f41c814-06fa-4dcf-844c-17edb57eaa41",
+        "settings": "src\/7f41c814-06fa-4dcf-844c-17edb57eaa41\/item.json",
+        "guid": "7f41c814-06fa-4dcf-844c-17edb57eaa41"
+    },
+    "f28a7f62-c4e0-480b-909e-8b61e5bb9e92": {
+        "name": "Typography - List Unstyled",
+        "desc": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+        "path": "src\/f28a7f62-c4e0-480b-909e-8b61e5bb9e92",
+        "settings": "src\/f28a7f62-c4e0-480b-909e-8b61e5bb9e92\/item.json",
+        "guid": "f28a7f62-c4e0-480b-909e-8b61e5bb9e92"
+    },
+    "6832430d-9b0e-41a7-8dbd-9a4ed90b6ad5": {
+        "name": "Border - Danger",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/6832430d-9b0e-41a7-8dbd-9a4ed90b6ad5",
+        "settings": "src\/6832430d-9b0e-41a7-8dbd-9a4ed90b6ad5\/item.json",
+        "guid": "6832430d-9b0e-41a7-8dbd-9a4ed90b6ad5"
+    },
+    "680d6679-eeac-4e32-a00c-a3a54521c40b": {
+        "name": "Border - Dark",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/680d6679-eeac-4e32-a00c-a3a54521c40b",
+        "settings": "src\/680d6679-eeac-4e32-a00c-a3a54521c40b\/item.json",
+        "guid": "680d6679-eeac-4e32-a00c-a3a54521c40b"
+    },
+    "e1291fe9-4c79-46cb-995c-92cb784e09b4": {
+        "name": "Border - Light",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/e1291fe9-4c79-46cb-995c-92cb784e09b4",
+        "settings": "src\/e1291fe9-4c79-46cb-995c-92cb784e09b4\/item.json",
+        "guid": "e1291fe9-4c79-46cb-995c-92cb784e09b4"
+    },
+    "78c27edb-5e4a-43f4-a5c0-fee3e00b00b2": {
+        "name": "Border - Secondary",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/78c27edb-5e4a-43f4-a5c0-fee3e00b00b2",
+        "settings": "src\/78c27edb-5e4a-43f4-a5c0-fee3e00b00b2\/item.json",
+        "guid": "78c27edb-5e4a-43f4-a5c0-fee3e00b00b2"
+    },
+    "f1382e62-ad6f-4ec3-b179-cfc61545d534": {
+        "name": "Border - Primary",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/f1382e62-ad6f-4ec3-b179-cfc61545d534",
+        "settings": "src\/f1382e62-ad6f-4ec3-b179-cfc61545d534\/item.json",
+        "guid": "f1382e62-ad6f-4ec3-b179-cfc61545d534"
+    },
+    "10c84fc1-7d77-4f79-86ea-1125fdd5941e": {
+        "name": "Border - Info",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/10c84fc1-7d77-4f79-86ea-1125fdd5941e",
+        "settings": "src\/10c84fc1-7d77-4f79-86ea-1125fdd5941e\/item.json",
+        "guid": "10c84fc1-7d77-4f79-86ea-1125fdd5941e"
+    },
+    "595cced2-68a7-4c26-86df-cc622c8fecbe": {
+        "name": "Border - Success",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/595cced2-68a7-4c26-86df-cc622c8fecbe",
+        "settings": "src\/595cced2-68a7-4c26-86df-cc622c8fecbe\/item.json",
+        "guid": "595cced2-68a7-4c26-86df-cc622c8fecbe"
+    },
+    "749c3f32-e026-4630-8e09-dc7e45de8e66": {
+        "name": "Border - Warning",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/749c3f32-e026-4630-8e09-dc7e45de8e66",
+        "settings": "src\/749c3f32-e026-4630-8e09-dc7e45de8e66\/item.json",
+        "guid": "749c3f32-e026-4630-8e09-dc7e45de8e66"
+    },
+    "d74e918b-6e3d-451f-99af-72c32ab742ce": {
+        "name": "Border",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/d74e918b-6e3d-451f-99af-72c32ab742ce",
+        "settings": "src\/d74e918b-6e3d-451f-99af-72c32ab742ce\/item.json",
+        "guid": "d74e918b-6e3d-451f-99af-72c32ab742ce"
+    },
+    "75df943f-d607-4439-b187-1ded83e66601": {
+        "name": "Border - White",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/75df943f-d607-4439-b187-1ded83e66601",
+        "settings": "src\/75df943f-d607-4439-b187-1ded83e66601\/item.json",
+        "guid": "75df943f-d607-4439-b187-1ded83e66601"
+    },
+    "7ceaf10c-88b3-47d5-9891-bf7756139c68": {
+        "name": "Border-*-0",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/7ceaf10c-88b3-47d5-9891-bf7756139c68",
+        "settings": "src\/7ceaf10c-88b3-47d5-9891-bf7756139c68\/item.json",
+        "guid": "7ceaf10c-88b3-47d5-9891-bf7756139c68"
+    },
+    "e71daa09-abd4-40e0-bbee-f6adf8a7c69e": {
+        "name": "Rounded - Circle",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/e71daa09-abd4-40e0-bbee-f6adf8a7c69e",
+        "settings": "src\/e71daa09-abd4-40e0-bbee-f6adf8a7c69e\/item.json",
+        "guid": "e71daa09-abd4-40e0-bbee-f6adf8a7c69e"
+    },
+    "d86f182c-0929-4d69-9a14-e48d2455a38b": {
+        "name": "Rounded-*",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/d86f182c-0929-4d69-9a14-e48d2455a38b",
+        "settings": "src\/d86f182c-0929-4d69-9a14-e48d2455a38b\/item.json",
+        "guid": "d86f182c-0929-4d69-9a14-e48d2455a38b"
+    },
+    "3d3fa8e8-7449-4b9e-980b-52859c20b2fa": {
+        "name": "Rounded",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/3d3fa8e8-7449-4b9e-980b-52859c20b2fa",
+        "settings": "src\/3d3fa8e8-7449-4b9e-980b-52859c20b2fa\/item.json",
+        "guid": "3d3fa8e8-7449-4b9e-980b-52859c20b2fa"
+    },
+    "f430fa7f-b4de-431c-a7ca-9b34c15dd533": {
+        "name": "Background - Dark",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/f430fa7f-b4de-431c-a7ca-9b34c15dd533",
+        "settings": "src\/f430fa7f-b4de-431c-a7ca-9b34c15dd533\/item.json",
+        "guid": "f430fa7f-b4de-431c-a7ca-9b34c15dd533"
+    },
+    "42a423a4-6390-4a64-8aa2-256d6eb5ef55": {
+        "name": "Background - Danger",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/42a423a4-6390-4a64-8aa2-256d6eb5ef55",
+        "settings": "src\/42a423a4-6390-4a64-8aa2-256d6eb5ef55\/item.json",
+        "guid": "42a423a4-6390-4a64-8aa2-256d6eb5ef55"
+    },
+    "9bcdd463-3b61-4d27-84a2-4a2fcaff4120": {
+        "name": "Background - Light",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/9bcdd463-3b61-4d27-84a2-4a2fcaff4120",
+        "settings": "src\/9bcdd463-3b61-4d27-84a2-4a2fcaff4120\/item.json",
+        "guid": "9bcdd463-3b61-4d27-84a2-4a2fcaff4120"
+    },
+    "6862c5f3-afaa-4177-af97-aa6788bdb5b4": {
+        "name": "Background - Info",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/6862c5f3-afaa-4177-af97-aa6788bdb5b4",
+        "settings": "src\/6862c5f3-afaa-4177-af97-aa6788bdb5b4\/item.json",
+        "guid": "6862c5f3-afaa-4177-af97-aa6788bdb5b4"
+    },
+    "eaa10b63-f659-4136-afbd-57e4ad24ecc1": {
+        "name": "Background - Success",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/eaa10b63-f659-4136-afbd-57e4ad24ecc1",
+        "settings": "src\/eaa10b63-f659-4136-afbd-57e4ad24ecc1\/item.json",
+        "guid": "eaa10b63-f659-4136-afbd-57e4ad24ecc1"
+    },
+    "ef564e2f-e15f-4e26-9c76-7813b94ec58a": {
+        "name": "Background - Primary",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/ef564e2f-e15f-4e26-9c76-7813b94ec58a",
+        "settings": "src\/ef564e2f-e15f-4e26-9c76-7813b94ec58a\/item.json",
+        "guid": "ef564e2f-e15f-4e26-9c76-7813b94ec58a"
+    },
+    "e1207276-5096-4b6a-bab9-7139b59b5954": {
+        "name": "Background - Secondary",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/e1207276-5096-4b6a-bab9-7139b59b5954",
+        "settings": "src\/e1207276-5096-4b6a-bab9-7139b59b5954\/item.json",
+        "guid": "e1207276-5096-4b6a-bab9-7139b59b5954"
+    },
+    "daa679c6-3786-4dc6-aae3-5358b6c3166c": {
+        "name": "Background - White",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/daa679c6-3786-4dc6-aae3-5358b6c3166c",
+        "settings": "src\/daa679c6-3786-4dc6-aae3-5358b6c3166c\/item.json",
+        "guid": "daa679c6-3786-4dc6-aae3-5358b6c3166c"
+    },
+    "aaeb8a36-f7df-43e8-920c-6384f911fa64": {
+        "name": "Background - Warning",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/aaeb8a36-f7df-43e8-920c-6384f911fa64",
+        "settings": "src\/aaeb8a36-f7df-43e8-920c-6384f911fa64\/item.json",
+        "guid": "aaeb8a36-f7df-43e8-920c-6384f911fa64"
+    },
+    "ed04aa24-d0cd-4ef6-89a3-68de3b9b48f5": {
+        "name": "Text - Dark",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/ed04aa24-d0cd-4ef6-89a3-68de3b9b48f5",
+        "settings": "src\/ed04aa24-d0cd-4ef6-89a3-68de3b9b48f5\/item.json",
+        "guid": "ed04aa24-d0cd-4ef6-89a3-68de3b9b48f5"
+    },
+    "5bec9171-1436-4e39-afdc-4ec7a2dc2b90": {
+        "name": "Text - Danger",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/5bec9171-1436-4e39-afdc-4ec7a2dc2b90",
+        "settings": "src\/5bec9171-1436-4e39-afdc-4ec7a2dc2b90\/item.json",
+        "guid": "5bec9171-1436-4e39-afdc-4ec7a2dc2b90"
+    },
+    "31e4d843-c6f9-4956-93b6-ffc7e8e84405": {
+        "name": "Text - Info",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/31e4d843-c6f9-4956-93b6-ffc7e8e84405",
+        "settings": "src\/31e4d843-c6f9-4956-93b6-ffc7e8e84405\/item.json",
+        "guid": "31e4d843-c6f9-4956-93b6-ffc7e8e84405"
+    },
+    "d1d27856-95b7-4d0c-8a90-fe0e0ef1d361": {
+        "name": "Text - Primary",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/d1d27856-95b7-4d0c-8a90-fe0e0ef1d361",
+        "settings": "src\/d1d27856-95b7-4d0c-8a90-fe0e0ef1d361\/item.json",
+        "guid": "d1d27856-95b7-4d0c-8a90-fe0e0ef1d361"
+    },
+    "5e17bc33-0fa3-4dfa-acd4-0a8f00d7ec8e": {
+        "name": "Text - Light",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/5e17bc33-0fa3-4dfa-acd4-0a8f00d7ec8e",
+        "settings": "src\/5e17bc33-0fa3-4dfa-acd4-0a8f00d7ec8e\/item.json",
+        "guid": "5e17bc33-0fa3-4dfa-acd4-0a8f00d7ec8e"
+    },
+    "4d2ffe64-60c9-4175-9728-b7562574defd": {
+        "name": "Text - Secondary",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/4d2ffe64-60c9-4175-9728-b7562574defd",
+        "settings": "src\/4d2ffe64-60c9-4175-9728-b7562574defd\/item.json",
+        "guid": "4d2ffe64-60c9-4175-9728-b7562574defd"
+    },
+    "43fffcf9-18b4-48c8-aef1-8cd2353fbf12": {
+        "name": "Text - Success",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/43fffcf9-18b4-48c8-aef1-8cd2353fbf12",
+        "settings": "src\/43fffcf9-18b4-48c8-aef1-8cd2353fbf12\/item.json",
+        "guid": "43fffcf9-18b4-48c8-aef1-8cd2353fbf12"
+    },
+    "eef98491-075d-47db-9667-efd19b50ab1d": {
+        "name": "Text - Warning",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/eef98491-075d-47db-9667-efd19b50ab1d",
+        "settings": "src\/eef98491-075d-47db-9667-efd19b50ab1d\/item.json",
+        "guid": "eef98491-075d-47db-9667-efd19b50ab1d"
+    },
+    "f06e0f87-8819-4b0b-a081-00a49dc7a2cf": {
+        "name": "Text - White",
+        "desc": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+        "path": "src\/f06e0f87-8819-4b0b-a081-00a49dc7a2cf",
+        "settings": "src\/f06e0f87-8819-4b0b-a081-00a49dc7a2cf\/item.json",
+        "guid": "f06e0f87-8819-4b0b-a081-00a49dc7a2cf"
+    },
+    "f36fe837-f0a6-43d7-b626-c26289dc4062": {
+        "name": "d-*-block",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/f36fe837-f0a6-43d7-b626-c26289dc4062",
+        "settings": "src\/f36fe837-f0a6-43d7-b626-c26289dc4062\/item.json",
+        "guid": "f36fe837-f0a6-43d7-b626-c26289dc4062"
+    },
+    "90d06a01-8c96-43aa-955c-0471507be7af": {
+        "name": "d-*-flex",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/90d06a01-8c96-43aa-955c-0471507be7af",
+        "settings": "src\/90d06a01-8c96-43aa-955c-0471507be7af\/item.json",
+        "guid": "90d06a01-8c96-43aa-955c-0471507be7af"
+    },
+    "29be0089-34b6-4f13-9344-0b4236bb057d": {
+        "name": "d-*-inline-block",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/29be0089-34b6-4f13-9344-0b4236bb057d",
+        "settings": "src\/29be0089-34b6-4f13-9344-0b4236bb057d\/item.json",
+        "guid": "29be0089-34b6-4f13-9344-0b4236bb057d"
+    },
+    "f44a8956-88bb-42b3-ba44-4c9d05458859": {
+        "name": "d-*-inline",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/f44a8956-88bb-42b3-ba44-4c9d05458859",
+        "settings": "src\/f44a8956-88bb-42b3-ba44-4c9d05458859\/item.json",
+        "guid": "f44a8956-88bb-42b3-ba44-4c9d05458859"
+    },
+    "b042059d-35f9-408c-99bd-47c54a0f755c": {
+        "name": "d-*-inline-flex",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/b042059d-35f9-408c-99bd-47c54a0f755c",
+        "settings": "src\/b042059d-35f9-408c-99bd-47c54a0f755c\/item.json",
+        "guid": "b042059d-35f9-408c-99bd-47c54a0f755c"
+    },
+    "5a9ff6e1-e6be-4625-92f4-b44a2c5e6e2b": {
+        "name": "d-*-none",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/5a9ff6e1-e6be-4625-92f4-b44a2c5e6e2b",
+        "settings": "src\/5a9ff6e1-e6be-4625-92f4-b44a2c5e6e2b\/item.json",
+        "guid": "5a9ff6e1-e6be-4625-92f4-b44a2c5e6e2b"
+    },
+    "630815f8-5285-4a40-9d66-081d92b53d23": {
+        "name": "d-*-table",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/630815f8-5285-4a40-9d66-081d92b53d23",
+        "settings": "src\/630815f8-5285-4a40-9d66-081d92b53d23\/item.json",
+        "guid": "630815f8-5285-4a40-9d66-081d92b53d23"
+    },
+    "4c7eee77-bcb1-4eb6-9143-9ec5d8760c97": {
+        "name": "d-*-table-cell",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/4c7eee77-bcb1-4eb6-9143-9ec5d8760c97",
+        "settings": "src\/4c7eee77-bcb1-4eb6-9143-9ec5d8760c97\/item.json",
+        "guid": "4c7eee77-bcb1-4eb6-9143-9ec5d8760c97"
+    },
+    "5a24cd8d-cc73-4129-8dee-5731f477483d": {
+        "name": "d-print-...",
+        "desc": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+        "path": "src\/5a24cd8d-cc73-4129-8dee-5731f477483d",
+        "settings": "src\/5a24cd8d-cc73-4129-8dee-5731f477483d\/item.json",
+        "guid": "5a24cd8d-cc73-4129-8dee-5731f477483d"
+    },
+    "6d4f3760-ca88-48b3-84b7-7751f1a9e6dd": {
+        "name": "align-content-*-around",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/6d4f3760-ca88-48b3-84b7-7751f1a9e6dd",
+        "settings": "src\/6d4f3760-ca88-48b3-84b7-7751f1a9e6dd\/item.json",
+        "guid": "6d4f3760-ca88-48b3-84b7-7751f1a9e6dd"
+    },
+    "8cce35c5-84fc-4995-9669-79482b4259da": {
+        "name": "align-content-*-end",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/8cce35c5-84fc-4995-9669-79482b4259da",
+        "settings": "src\/8cce35c5-84fc-4995-9669-79482b4259da\/item.json",
+        "guid": "8cce35c5-84fc-4995-9669-79482b4259da"
+    },
+    "7d9213b0-5e71-48c7-89ea-d1086d02675d": {
+        "name": "align-content-*-center",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/7d9213b0-5e71-48c7-89ea-d1086d02675d",
+        "settings": "src\/7d9213b0-5e71-48c7-89ea-d1086d02675d\/item.json",
+        "guid": "7d9213b0-5e71-48c7-89ea-d1086d02675d"
+    },
+    "3f13997e-57ea-4991-acdf-84e85813cbb4": {
+        "name": "align-content-*-start",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/3f13997e-57ea-4991-acdf-84e85813cbb4",
+        "settings": "src\/3f13997e-57ea-4991-acdf-84e85813cbb4\/item.json",
+        "guid": "3f13997e-57ea-4991-acdf-84e85813cbb4"
+    },
+    "749d1054-dfe7-4b4f-b59b-91aec2c24928": {
+        "name": "align-content-*-stretch",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/749d1054-dfe7-4b4f-b59b-91aec2c24928",
+        "settings": "src\/749d1054-dfe7-4b4f-b59b-91aec2c24928\/item.json",
+        "guid": "749d1054-dfe7-4b4f-b59b-91aec2c24928"
+    },
+    "f60d8e35-991d-46e0-8677-51b324e7039b": {
+        "name": "align-items-*-baseline",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/f60d8e35-991d-46e0-8677-51b324e7039b",
+        "settings": "src\/f60d8e35-991d-46e0-8677-51b324e7039b\/item.json",
+        "guid": "f60d8e35-991d-46e0-8677-51b324e7039b"
+    },
+    "67e4a94a-94dc-4c35-9c9d-4e757de99d81": {
+        "name": "align-items-*-end",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/67e4a94a-94dc-4c35-9c9d-4e757de99d81",
+        "settings": "src\/67e4a94a-94dc-4c35-9c9d-4e757de99d81\/item.json",
+        "guid": "67e4a94a-94dc-4c35-9c9d-4e757de99d81"
+    },
+    "b1067dc8-09cb-45b7-96d1-ef376ffd7a3f": {
+        "name": "align-items-*-center",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/b1067dc8-09cb-45b7-96d1-ef376ffd7a3f",
+        "settings": "src\/b1067dc8-09cb-45b7-96d1-ef376ffd7a3f\/item.json",
+        "guid": "b1067dc8-09cb-45b7-96d1-ef376ffd7a3f"
+    },
+    "c2e8efa3-0f3e-4ab3-8d60-677d4d01a2a9": {
+        "name": "align-items-*-start",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/c2e8efa3-0f3e-4ab3-8d60-677d4d01a2a9",
+        "settings": "src\/c2e8efa3-0f3e-4ab3-8d60-677d4d01a2a9\/item.json",
+        "guid": "c2e8efa3-0f3e-4ab3-8d60-677d4d01a2a9"
+    },
+    "c713f50d-e66f-48eb-b5a9-d49dbc3d5bf7": {
+        "name": "align-items-*-stretch",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/c713f50d-e66f-48eb-b5a9-d49dbc3d5bf7",
+        "settings": "src\/c713f50d-e66f-48eb-b5a9-d49dbc3d5bf7\/item.json",
+        "guid": "c713f50d-e66f-48eb-b5a9-d49dbc3d5bf7"
+    },
+    "347702bf-cb9b-4990-b284-ba920a0518f8": {
+        "name": "align-self-*-baseline",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/347702bf-cb9b-4990-b284-ba920a0518f8",
+        "settings": "src\/347702bf-cb9b-4990-b284-ba920a0518f8\/item.json",
+        "guid": "347702bf-cb9b-4990-b284-ba920a0518f8"
+    },
+    "5a445bd4-ea8e-4349-9189-e78172984619": {
+        "name": "align-self-*-center",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/5a445bd4-ea8e-4349-9189-e78172984619",
+        "settings": "src\/5a445bd4-ea8e-4349-9189-e78172984619\/item.json",
+        "guid": "5a445bd4-ea8e-4349-9189-e78172984619"
+    },
+    "60115afa-0576-42e7-bc41-5d78099fcbac": {
+        "name": "align-self-*-end",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/60115afa-0576-42e7-bc41-5d78099fcbac",
+        "settings": "src\/60115afa-0576-42e7-bc41-5d78099fcbac\/item.json",
+        "guid": "60115afa-0576-42e7-bc41-5d78099fcbac"
+    },
+    "2b02afc3-1e00-4329-96e0-18ac08306c2b": {
+        "name": "align-self-*-start",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/2b02afc3-1e00-4329-96e0-18ac08306c2b",
+        "settings": "src\/2b02afc3-1e00-4329-96e0-18ac08306c2b\/item.json",
+        "guid": "2b02afc3-1e00-4329-96e0-18ac08306c2b"
+    },
+    "efdcf8dc-f87e-4707-9159-eb54d09709f4": {
+        "name": "flex-*-column-reverse",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/efdcf8dc-f87e-4707-9159-eb54d09709f4",
+        "settings": "src\/efdcf8dc-f87e-4707-9159-eb54d09709f4\/item.json",
+        "guid": "efdcf8dc-f87e-4707-9159-eb54d09709f4"
+    },
+    "8300546e-d86a-4fb5-be8d-1c09adfac3c7": {
+        "name": "flex-*-column",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/8300546e-d86a-4fb5-be8d-1c09adfac3c7",
+        "settings": "src\/8300546e-d86a-4fb5-be8d-1c09adfac3c7\/item.json",
+        "guid": "8300546e-d86a-4fb5-be8d-1c09adfac3c7"
+    },
+    "8b09aa39-314d-4d8a-98d8-937968193dd7": {
+        "name": "align-self-*-stretch",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/8b09aa39-314d-4d8a-98d8-937968193dd7",
+        "settings": "src\/8b09aa39-314d-4d8a-98d8-937968193dd7\/item.json",
+        "guid": "8b09aa39-314d-4d8a-98d8-937968193dd7"
+    },
+    "9ec703d3-dad3-4244-a3a0-e094167a6fac": {
+        "name": "flex-*-row-reverse",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/9ec703d3-dad3-4244-a3a0-e094167a6fac",
+        "settings": "src\/9ec703d3-dad3-4244-a3a0-e094167a6fac\/item.json",
+        "guid": "9ec703d3-dad3-4244-a3a0-e094167a6fac"
+    },
+    "4fd05e93-98d3-43b4-a1fd-f0d3db3391ed": {
+        "name": "flex-*-nowrap",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/4fd05e93-98d3-43b4-a1fd-f0d3db3391ed",
+        "settings": "src\/4fd05e93-98d3-43b4-a1fd-f0d3db3391ed\/item.json",
+        "guid": "4fd05e93-98d3-43b4-a1fd-f0d3db3391ed"
+    },
+    "bb4abb11-43e9-4c0d-9df5-d093dab3ef8d": {
+        "name": "flex-*-row",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/bb4abb11-43e9-4c0d-9df5-d093dab3ef8d",
+        "settings": "src\/bb4abb11-43e9-4c0d-9df5-d093dab3ef8d\/item.json",
+        "guid": "bb4abb11-43e9-4c0d-9df5-d093dab3ef8d"
+    },
+    "a611460c-e7dc-4a88-ab23-0e525bd35511": {
+        "name": "flex-*-wrap",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/a611460c-e7dc-4a88-ab23-0e525bd35511",
+        "settings": "src\/a611460c-e7dc-4a88-ab23-0e525bd35511\/item.json",
+        "guid": "a611460c-e7dc-4a88-ab23-0e525bd35511"
+    },
+    "76bb94e9-eb63-466a-9dc2-be4501193ba6": {
+        "name": "flex-*-wrap-reverse",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/76bb94e9-eb63-466a-9dc2-be4501193ba6",
+        "settings": "src\/76bb94e9-eb63-466a-9dc2-be4501193ba6\/item.json",
+        "guid": "76bb94e9-eb63-466a-9dc2-be4501193ba6"
+    },
+    "81399bba-a018-4d0f-85b0-5224a976ffc4": {
+        "name": "justify-content-*-around",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/81399bba-a018-4d0f-85b0-5224a976ffc4",
+        "settings": "src\/81399bba-a018-4d0f-85b0-5224a976ffc4\/item.json",
+        "guid": "81399bba-a018-4d0f-85b0-5224a976ffc4"
+    },
+    "aa9a2ad9-f210-4f51-a2fc-b1a358393c00": {
+        "name": "justify-content-*-between",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/aa9a2ad9-f210-4f51-a2fc-b1a358393c00",
+        "settings": "src\/aa9a2ad9-f210-4f51-a2fc-b1a358393c00\/item.json",
+        "guid": "aa9a2ad9-f210-4f51-a2fc-b1a358393c00"
+    },
+    "f81a05ae-0f29-49a3-a839-17fc6807acba": {
+        "name": "justify-content-*-center",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/f81a05ae-0f29-49a3-a839-17fc6807acba",
+        "settings": "src\/f81a05ae-0f29-49a3-a839-17fc6807acba\/item.json",
+        "guid": "f81a05ae-0f29-49a3-a839-17fc6807acba"
+    },
+    "cf27c8be-148d-4d54-a854-b44f1d03d931": {
+        "name": "justify-content-*-end",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/cf27c8be-148d-4d54-a854-b44f1d03d931",
+        "settings": "src\/cf27c8be-148d-4d54-a854-b44f1d03d931\/item.json",
+        "guid": "cf27c8be-148d-4d54-a854-b44f1d03d931"
+    },
+    "5c546dd9-3aab-4337-837f-380429ffdcc2": {
+        "name": "order-*-#",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/5c546dd9-3aab-4337-837f-380429ffdcc2",
+        "settings": "src\/5c546dd9-3aab-4337-837f-380429ffdcc2\/item.json",
+        "guid": "5c546dd9-3aab-4337-837f-380429ffdcc2"
+    },
+    "f56e3654-7f09-4c22-b338-36619cd7e44c": {
+        "name": "justify-content-*-start",
+        "desc": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+        "path": "src\/f56e3654-7f09-4c22-b338-36619cd7e44c",
+        "settings": "src\/f56e3654-7f09-4c22-b338-36619cd7e44c\/item.json",
+        "guid": "f56e3654-7f09-4c22-b338-36619cd7e44c"
+    },
+    "2837a9df-50a1-4add-adbe-d6b38bef4fb2": {
+        "name": "close",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/2837a9df-50a1-4add-adbe-d6b38bef4fb2",
+        "settings": "src\/2837a9df-50a1-4add-adbe-d6b38bef4fb2\/item.json",
+        "guid": "2837a9df-50a1-4add-adbe-d6b38bef4fb2"
+    },
+    "5efbd7a6-f1b2-45d8-95bc-4de84ccf290c": {
+        "name": "embed-responsive",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/5efbd7a6-f1b2-45d8-95bc-4de84ccf290c",
+        "settings": "src\/5efbd7a6-f1b2-45d8-95bc-4de84ccf290c\/item.json",
+        "guid": "5efbd7a6-f1b2-45d8-95bc-4de84ccf290c"
+    },
+    "fde653da-5881-48fd-90bb-a336a56f44d5": {
+        "name": "invisible",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/fde653da-5881-48fd-90bb-a336a56f44d5",
+        "settings": "src\/fde653da-5881-48fd-90bb-a336a56f44d5\/item.json",
+        "guid": "fde653da-5881-48fd-90bb-a336a56f44d5"
+    },
+    "fe3d9721-6596-4f16-8077-9cfe37bb1214": {
+        "name": "sr-only-focusable",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/fe3d9721-6596-4f16-8077-9cfe37bb1214",
+        "settings": "src\/fe3d9721-6596-4f16-8077-9cfe37bb1214\/item.json",
+        "guid": "fe3d9721-6596-4f16-8077-9cfe37bb1214"
+    },
+    "0a14c25f-abe1-4875-ac66-f9a33dc49bdb": {
+        "name": "sr-only",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/0a14c25f-abe1-4875-ac66-f9a33dc49bdb",
+        "settings": "src\/0a14c25f-abe1-4875-ac66-f9a33dc49bdb\/item.json",
+        "guid": "0a14c25f-abe1-4875-ac66-f9a33dc49bdb"
+    },
+    "d16fd756-3aac-40b2-8e89-5d4b73f0f1fe": {
+        "name": "clearfix",
+        "desc": "Use these shorthand utilities for quickly configuring the position of an element.",
+        "path": "src\/d16fd756-3aac-40b2-8e89-5d4b73f0f1fe",
+        "settings": "src\/d16fd756-3aac-40b2-8e89-5d4b73f0f1fe\/item.json",
+        "guid": "d16fd756-3aac-40b2-8e89-5d4b73f0f1fe"
+    },
+    "ea2a4050-94d5-42f7-b590-02826f6022fe": {
+        "name": "visible",
+        "desc": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+        "path": "src\/ea2a4050-94d5-42f7-b590-02826f6022fe",
+        "settings": "src\/ea2a4050-94d5-42f7-b590-02826f6022fe\/item.json",
+        "guid": "ea2a4050-94d5-42f7-b590-02826f6022fe"
+    },
+    "a81c8500-62f2-407d-bd65-5d9e42f4a1eb": {
+        "name": "fixed-bottom",
+        "desc": "Use these shorthand utilities for quickly configuring the position of an element.",
+        "path": "src\/a81c8500-62f2-407d-bd65-5d9e42f4a1eb",
+        "settings": "src\/a81c8500-62f2-407d-bd65-5d9e42f4a1eb\/item.json",
+        "guid": "a81c8500-62f2-407d-bd65-5d9e42f4a1eb"
+    },
+    "0521db0a-07e7-48da-94f1-21df1f117b66": {
+        "name": "align-*",
+        "desc": "Use these shorthand utilities for quickly configuring the position of an element.",
+        "path": "src\/0521db0a-07e7-48da-94f1-21df1f117b66",
+        "settings": "src\/0521db0a-07e7-48da-94f1-21df1f117b66\/item.json",
+        "guid": "0521db0a-07e7-48da-94f1-21df1f117b66"
+    },
+    "4fe8d160-44d9-4962-93f0-19a788a6ef20": {
+        "name": "fixed-top",
+        "desc": "Use these shorthand utilities for quickly configuring the position of an element.",
+        "path": "src\/4fe8d160-44d9-4962-93f0-19a788a6ef20",
+        "settings": "src\/4fe8d160-44d9-4962-93f0-19a788a6ef20\/item.json",
+        "guid": "4fe8d160-44d9-4962-93f0-19a788a6ef20"
+    },
+    "1f1b93c8-b14f-4211-b5ba-d0360e9c0bfd": {
+        "name": "float-*-none",
+        "desc": "Use these shorthand utilities for quickly configuring the position of an element.",
+        "path": "src\/1f1b93c8-b14f-4211-b5ba-d0360e9c0bfd",
+        "settings": "src\/1f1b93c8-b14f-4211-b5ba-d0360e9c0bfd\/item.json",
+        "guid": "1f1b93c8-b14f-4211-b5ba-d0360e9c0bfd"
+    },
+    "a57c11c0-cbb8-476f-b771-b9cfe534207b": {
+        "name": "float-*-left",
+        "desc": "Use these shorthand utilities for quickly configuring the position of an element.",
+        "path": "src\/a57c11c0-cbb8-476f-b771-b9cfe534207b",
+        "settings": "src\/a57c11c0-cbb8-476f-b771-b9cfe534207b\/item.json",
+        "guid": "a57c11c0-cbb8-476f-b771-b9cfe534207b"
+    },
+    "e56868d9-be90-47ea-a622-670c3744b116": {
+        "name": "float-*-right",
+        "desc": "Use these shorthand utilities for quickly configuring the position of an element.",
+        "path": "src\/e56868d9-be90-47ea-a622-670c3744b116",
+        "settings": "src\/e56868d9-be90-47ea-a622-670c3744b116\/item.json",
+        "guid": "e56868d9-be90-47ea-a622-670c3744b116"
+    },
+    "3e2330a0-3187-4566-982b-065099506a0a": {
+        "name": "sticky-top",
+        "desc": "Use these shorthand utilities for quickly configuring the position of an element.",
+        "path": "src\/3e2330a0-3187-4566-982b-065099506a0a",
+        "settings": "src\/3e2330a0-3187-4566-982b-065099506a0a\/item.json",
+        "guid": "3e2330a0-3187-4566-982b-065099506a0a"
+    },
+    "d3c27ebc-bf54-4a33-bd07-58f8d96d1038": {
+        "name": "h-100",
+        "desc": "Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+        "path": "src\/d3c27ebc-bf54-4a33-bd07-58f8d96d1038",
+        "settings": "src\/d3c27ebc-bf54-4a33-bd07-58f8d96d1038\/item.json",
+        "guid": "d3c27ebc-bf54-4a33-bd07-58f8d96d1038"
+    },
+    "c977adb0-dbbc-4a1b-ad6f-237d32aa25b9": {
+        "name": "mh-100",
+        "desc": "Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+        "path": "src\/c977adb0-dbbc-4a1b-ad6f-237d32aa25b9",
+        "settings": "src\/c977adb0-dbbc-4a1b-ad6f-237d32aa25b9\/item.json",
+        "guid": "c977adb0-dbbc-4a1b-ad6f-237d32aa25b9"
+    },
+    "360273ad-cff5-47d1-9b5a-a748784b1e6b": {
+        "name": "mw-100",
+        "desc": "Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+        "path": "src\/360273ad-cff5-47d1-9b5a-a748784b1e6b",
+        "settings": "src\/360273ad-cff5-47d1-9b5a-a748784b1e6b\/item.json",
+        "guid": "360273ad-cff5-47d1-9b5a-a748784b1e6b"
+    },
+    "80dae1e1-9153-494e-bd00-f87c47d45cad": {
+        "name": "w-100",
+        "desc": "Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+        "path": "src\/80dae1e1-9153-494e-bd00-f87c47d45cad",
+        "settings": "src\/80dae1e1-9153-494e-bd00-f87c47d45cad\/item.json",
+        "guid": "80dae1e1-9153-494e-bd00-f87c47d45cad"
+    },
+    "4bf3c7d1-05fe-485b-96a8-6cc94fee3f7b": {
+        "name": "m-1 \/ m-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/4bf3c7d1-05fe-485b-96a8-6cc94fee3f7b",
+        "settings": "src\/4bf3c7d1-05fe-485b-96a8-6cc94fee3f7b\/item.json",
+        "guid": "4bf3c7d1-05fe-485b-96a8-6cc94fee3f7b"
+    },
+    "73b41dee-dba2-442d-b750-fd4a47b2d579": {
+        "name": "mb-1 \/ mb-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/73b41dee-dba2-442d-b750-fd4a47b2d579",
+        "settings": "src\/73b41dee-dba2-442d-b750-fd4a47b2d579\/item.json",
+        "guid": "73b41dee-dba2-442d-b750-fd4a47b2d579"
+    },
+    "221c5f55-4591-497b-888c-34cf37093570": {
+        "name": "ml-1 \/ ml-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/221c5f55-4591-497b-888c-34cf37093570",
+        "settings": "src\/221c5f55-4591-497b-888c-34cf37093570\/item.json",
+        "guid": "221c5f55-4591-497b-888c-34cf37093570"
+    },
+    "4dd65910-30ff-405a-b9f7-bb3774e7d9e6": {
+        "name": "mr-1 \/ mr-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/4dd65910-30ff-405a-b9f7-bb3774e7d9e6",
+        "settings": "src\/4dd65910-30ff-405a-b9f7-bb3774e7d9e6\/item.json",
+        "guid": "4dd65910-30ff-405a-b9f7-bb3774e7d9e6"
+    },
+    "7af3bd52-2e6f-4ddd-a107-d7cb50b65403": {
+        "name": "mt-1 \/ mt-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/7af3bd52-2e6f-4ddd-a107-d7cb50b65403",
+        "settings": "src\/7af3bd52-2e6f-4ddd-a107-d7cb50b65403\/item.json",
+        "guid": "7af3bd52-2e6f-4ddd-a107-d7cb50b65403"
+    },
+    "b00d615f-d53f-43c7-8d96-a5c63d67db03": {
+        "name": "my-1 \/ my-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/b00d615f-d53f-43c7-8d96-a5c63d67db03",
+        "settings": "src\/b00d615f-d53f-43c7-8d96-a5c63d67db03\/item.json",
+        "guid": "b00d615f-d53f-43c7-8d96-a5c63d67db03"
+    },
+    "0370291e-f409-487b-a0fd-f75929075eee": {
+        "name": "mx-1 \/ mx-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/0370291e-f409-487b-a0fd-f75929075eee",
+        "settings": "src\/0370291e-f409-487b-a0fd-f75929075eee\/item.json",
+        "guid": "0370291e-f409-487b-a0fd-f75929075eee"
+    },
+    "dd36fd34-0d33-449d-82a6-313e2715e668": {
+        "name": "pb-1 \/ pb-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/dd36fd34-0d33-449d-82a6-313e2715e668",
+        "settings": "src\/dd36fd34-0d33-449d-82a6-313e2715e668\/item.json",
+        "guid": "dd36fd34-0d33-449d-82a6-313e2715e668"
+    },
+    "e223904e-12b4-47c8-8391-441e2683beea": {
+        "name": "p-1 \/ p-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/e223904e-12b4-47c8-8391-441e2683beea",
+        "settings": "src\/e223904e-12b4-47c8-8391-441e2683beea\/item.json",
+        "guid": "e223904e-12b4-47c8-8391-441e2683beea"
+    },
+    "a49060bd-6571-4d74-9f19-b1cc11e1133f": {
+        "name": "pl-1 \/ pl-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/a49060bd-6571-4d74-9f19-b1cc11e1133f",
+        "settings": "src\/a49060bd-6571-4d74-9f19-b1cc11e1133f\/item.json",
+        "guid": "a49060bd-6571-4d74-9f19-b1cc11e1133f"
+    },
+    "7ff1dae6-dcea-4e73-b7e3-b0163921e2d7": {
+        "name": "pt-1 \/ pt-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/7ff1dae6-dcea-4e73-b7e3-b0163921e2d7",
+        "settings": "src\/7ff1dae6-dcea-4e73-b7e3-b0163921e2d7\/item.json",
+        "guid": "7ff1dae6-dcea-4e73-b7e3-b0163921e2d7"
+    },
+    "743e8687-0b5e-419c-b282-5e4f0536f6b9": {
+        "name": "pr-1 \/ pr-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/743e8687-0b5e-419c-b282-5e4f0536f6b9",
+        "settings": "src\/743e8687-0b5e-419c-b282-5e4f0536f6b9\/item.json",
+        "guid": "743e8687-0b5e-419c-b282-5e4f0536f6b9"
+    },
+    "5b49548b-b88c-46ec-ad6c-91b1cdbf7066": {
+        "name": "px-1 \/ px-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/5b49548b-b88c-46ec-ad6c-91b1cdbf7066",
+        "settings": "src\/5b49548b-b88c-46ec-ad6c-91b1cdbf7066\/item.json",
+        "guid": "5b49548b-b88c-46ec-ad6c-91b1cdbf7066"
+    },
+    "b873c3eb-4431-4914-86d0-bbc06ee2d1a7": {
+        "name": "py-1 \/ py-*-#",
+        "desc": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+        "path": "src\/b873c3eb-4431-4914-86d0-bbc06ee2d1a7",
+        "settings": "src\/b873c3eb-4431-4914-86d0-bbc06ee2d1a7\/item.json",
+        "guid": "b873c3eb-4431-4914-86d0-bbc06ee2d1a7"
+    },
+    "e1a59e59-5adb-42cb-839f-7896941f35d9": {
+        "name": "font-italic",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/e1a59e59-5adb-42cb-839f-7896941f35d9",
+        "settings": "src\/e1a59e59-5adb-42cb-839f-7896941f35d9\/item.json",
+        "guid": "e1a59e59-5adb-42cb-839f-7896941f35d9"
+    },
+    "cf902fae-93d8-4990-bae0-f06b074943b4": {
+        "name": "text-*-center",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/cf902fae-93d8-4990-bae0-f06b074943b4",
+        "settings": "src\/cf902fae-93d8-4990-bae0-f06b074943b4\/item.json",
+        "guid": "cf902fae-93d8-4990-bae0-f06b074943b4"
+    },
+    "d8f14d1c-bc93-42bc-9a42-5d7710c93c65": {
+        "name": "font-weight-bold",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/d8f14d1c-bc93-42bc-9a42-5d7710c93c65",
+        "settings": "src\/d8f14d1c-bc93-42bc-9a42-5d7710c93c65\/item.json",
+        "guid": "d8f14d1c-bc93-42bc-9a42-5d7710c93c65"
+    },
+    "008f4c1c-a5a4-4c5a-8a85-b358b7111356": {
+        "name": "font-weight-normal",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/008f4c1c-a5a4-4c5a-8a85-b358b7111356",
+        "settings": "src\/008f4c1c-a5a4-4c5a-8a85-b358b7111356\/item.json",
+        "guid": "008f4c1c-a5a4-4c5a-8a85-b358b7111356"
+    },
+    "01dbc81a-6315-4cb4-8533-a24f6bd2b183": {
+        "name": "text-*-left",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/01dbc81a-6315-4cb4-8533-a24f6bd2b183",
+        "settings": "src\/01dbc81a-6315-4cb4-8533-a24f6bd2b183\/item.json",
+        "guid": "01dbc81a-6315-4cb4-8533-a24f6bd2b183"
+    },
+    "f917f7e0-8fab-42a7-b7a0-65e0eb3f8abf": {
+        "name": "text-*-right",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/f917f7e0-8fab-42a7-b7a0-65e0eb3f8abf",
+        "settings": "src\/f917f7e0-8fab-42a7-b7a0-65e0eb3f8abf\/item.json",
+        "guid": "f917f7e0-8fab-42a7-b7a0-65e0eb3f8abf"
+    },
+    "732847b2-453c-4be6-adbc-e8c7665d1911": {
+        "name": "text-hide",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/732847b2-453c-4be6-adbc-e8c7665d1911",
+        "settings": "src\/732847b2-453c-4be6-adbc-e8c7665d1911\/item.json",
+        "guid": "732847b2-453c-4be6-adbc-e8c7665d1911"
+    },
+    "23400ec9-5cc0-4eba-b0e4-ef0949ccb4c0": {
+        "name": "text-capitalize",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/23400ec9-5cc0-4eba-b0e4-ef0949ccb4c0",
+        "settings": "src\/23400ec9-5cc0-4eba-b0e4-ef0949ccb4c0\/item.json",
+        "guid": "23400ec9-5cc0-4eba-b0e4-ef0949ccb4c0"
+    },
+    "d0fa26c4-c638-4446-b7a2-ef4e625e6228": {
+        "name": "text-lowercase",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/d0fa26c4-c638-4446-b7a2-ef4e625e6228",
+        "settings": "src\/d0fa26c4-c638-4446-b7a2-ef4e625e6228\/item.json",
+        "guid": "d0fa26c4-c638-4446-b7a2-ef4e625e6228"
+    },
+    "4ff249d9-db1e-4c05-b411-a7ee7fe01d2c": {
+        "name": "text-muted",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/4ff249d9-db1e-4c05-b411-a7ee7fe01d2c",
+        "settings": "src\/4ff249d9-db1e-4c05-b411-a7ee7fe01d2c\/item.json",
+        "guid": "4ff249d9-db1e-4c05-b411-a7ee7fe01d2c"
+    },
+    "fda01ead-7064-4d18-9c51-ee76b1038a03": {
+        "name": "text-nowrap",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/fda01ead-7064-4d18-9c51-ee76b1038a03",
+        "settings": "src\/fda01ead-7064-4d18-9c51-ee76b1038a03\/item.json",
+        "guid": "fda01ead-7064-4d18-9c51-ee76b1038a03"
+    },
+    "ebfc227a-97f1-4d5f-81cb-76e0eab38d1a": {
+        "name": "text-uppercase",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/ebfc227a-97f1-4d5f-81cb-76e0eab38d1a",
+        "settings": "src\/ebfc227a-97f1-4d5f-81cb-76e0eab38d1a\/item.json",
+        "guid": "ebfc227a-97f1-4d5f-81cb-76e0eab38d1a"
+    },
+    "d3c371d7-edd2-4770-bbbf-744e0e44cf1f": {
+        "name": "text-truncate",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/d3c371d7-edd2-4770-bbbf-744e0e44cf1f",
+        "settings": "src\/d3c371d7-edd2-4770-bbbf-744e0e44cf1f\/item.json",
+        "guid": "d3c371d7-edd2-4770-bbbf-744e0e44cf1f"
+    },
+    "53ecc32d-5492-49c1-add6-48f363d058e9": {
+        "name": "text-justify",
+        "desc": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+        "path": "src\/53ecc32d-5492-49c1-add6-48f363d058e9",
+        "settings": "src\/53ecc32d-5492-49c1-add6-48f363d058e9\/item.json",
+        "guid": "53ecc32d-5492-49c1-add6-48f363d058e9"
+    },
+    "97fbc12c-b883-4688-bc96-12574ffeeecd": {
+        "name": "Alert",
+        "desc": "",
+        "path": "src\/97fbc12c-b883-4688-bc96-12574ffeeecd",
+        "settings": "src\/97fbc12c-b883-4688-bc96-12574ffeeecd\/item.json",
+        "guid": "97fbc12c-b883-4688-bc96-12574ffeeecd"
+    },
+    "c1d8ec44-5996-4fd5-a991-e2f8b84bf89d": {
+        "name": "Align",
+        "desc": "",
+        "path": "src\/c1d8ec44-5996-4fd5-a991-e2f8b84bf89d",
+        "settings": "src\/c1d8ec44-5996-4fd5-a991-e2f8b84bf89d\/item.json",
+        "guid": "c1d8ec44-5996-4fd5-a991-e2f8b84bf89d"
+    },
+    "53fd8fc3-4eb1-4f9b-87ec-5f99b7ddbb81": {
+        "name": "Animation",
+        "desc": "",
+        "path": "src\/53fd8fc3-4eb1-4f9b-87ec-5f99b7ddbb81",
+        "settings": "src\/53fd8fc3-4eb1-4f9b-87ec-5f99b7ddbb81\/item.json",
+        "guid": "53fd8fc3-4eb1-4f9b-87ec-5f99b7ddbb81"
+    },
+    "c47f3c2f-1942-4a75-8ae6-808a688d7c35": {
+        "name": "Article",
+        "desc": "",
+        "path": "src\/c47f3c2f-1942-4a75-8ae6-808a688d7c35",
+        "settings": "src\/c47f3c2f-1942-4a75-8ae6-808a688d7c35\/item.json",
+        "guid": "c47f3c2f-1942-4a75-8ae6-808a688d7c35"
+    },
+    "95db96d0-7194-4ab1-a2f0-e59ca6fa3934": {
+        "name": "Background",
+        "desc": "",
+        "path": "src\/95db96d0-7194-4ab1-a2f0-e59ca6fa3934",
+        "settings": "src\/95db96d0-7194-4ab1-a2f0-e59ca6fa3934\/item.json",
+        "guid": "95db96d0-7194-4ab1-a2f0-e59ca6fa3934"
+    },
+    "465eca3b-2090-42a7-ac88-d7fc03eaf543": {
+        "name": "Badge",
+        "desc": "",
+        "path": "src\/465eca3b-2090-42a7-ac88-d7fc03eaf543",
+        "settings": "src\/465eca3b-2090-42a7-ac88-d7fc03eaf543\/item.json",
+        "guid": "465eca3b-2090-42a7-ac88-d7fc03eaf543"
+    },
+    "5907fc55-4ada-42d7-abb5-30f337a884a3": {
+        "name": "Breadcrumb",
+        "desc": "",
+        "path": "src\/5907fc55-4ada-42d7-abb5-30f337a884a3",
+        "settings": "src\/5907fc55-4ada-42d7-abb5-30f337a884a3\/item.json",
+        "guid": "5907fc55-4ada-42d7-abb5-30f337a884a3"
+    },
+    "a993e6a8-c9ce-4d85-8e63-62cee1cdbd8f": {
+        "name": "Button",
+        "desc": "",
+        "path": "src\/a993e6a8-c9ce-4d85-8e63-62cee1cdbd8f",
+        "settings": "src\/a993e6a8-c9ce-4d85-8e63-62cee1cdbd8f\/item.json",
+        "guid": "a993e6a8-c9ce-4d85-8e63-62cee1cdbd8f"
+    },
+    "a1284e96-c14b-4737-b7d2-5bc37e3b51e1": {
+        "name": "Buttons",
+        "desc": "",
+        "path": "src\/a1284e96-c14b-4737-b7d2-5bc37e3b51e1",
+        "settings": "src\/a1284e96-c14b-4737-b7d2-5bc37e3b51e1\/item.json",
+        "guid": "a1284e96-c14b-4737-b7d2-5bc37e3b51e1"
+    },
+    "3126211d-17b0-4d8a-b71c-44666b03a196": {
+        "name": "Button Group",
+        "desc": "",
+        "path": "src\/3126211d-17b0-4d8a-b71c-44666b03a196",
+        "settings": "src\/3126211d-17b0-4d8a-b71c-44666b03a196\/item.json",
+        "guid": "3126211d-17b0-4d8a-b71c-44666b03a196"
+    },
+    "5c382c49-2a67-40d1-a6b5-9f86fac2f657": {
+        "name": "Card",
+        "desc": "",
+        "path": "src\/5c382c49-2a67-40d1-a6b5-9f86fac2f657",
+        "settings": "src\/5c382c49-2a67-40d1-a6b5-9f86fac2f657\/item.json",
+        "guid": "5c382c49-2a67-40d1-a6b5-9f86fac2f657"
+    },
+    "4948682f-15b6-4c9f-8bea-0082585dbff1": {
+        "name": "Close",
+        "desc": "",
+        "path": "src\/4948682f-15b6-4c9f-8bea-0082585dbff1",
+        "settings": "src\/4948682f-15b6-4c9f-8bea-0082585dbff1\/item.json",
+        "guid": "4948682f-15b6-4c9f-8bea-0082585dbff1"
+    },
+    "cacb4d2c-a918-4086-8e8e-750e7acf0e0e": {
+        "name": "Column",
+        "desc": "",
+        "path": "src\/cacb4d2c-a918-4086-8e8e-750e7acf0e0e",
+        "settings": "src\/cacb4d2c-a918-4086-8e8e-750e7acf0e0e\/item.json",
+        "guid": "cacb4d2c-a918-4086-8e8e-750e7acf0e0e"
+    },
+    "4c744349-3b48-4622-927d-36567aa461b0": {
+        "name": "Column Responsive",
+        "desc": "",
+        "path": "src\/4c744349-3b48-4622-927d-36567aa461b0",
+        "settings": "src\/4c744349-3b48-4622-927d-36567aa461b0\/item.json",
+        "guid": "4c744349-3b48-4622-927d-36567aa461b0"
+    },
+    "77dffc0b-a8b0-4f17-aa5b-73f5060fa807": {
+        "name": "Column Divider modifier",
+        "desc": "",
+        "path": "src\/77dffc0b-a8b0-4f17-aa5b-73f5060fa807",
+        "settings": "src\/77dffc0b-a8b0-4f17-aa5b-73f5060fa807\/item.json",
+        "guid": "77dffc0b-a8b0-4f17-aa5b-73f5060fa807"
+    },
+    "c8a86f8b-b886-428b-9f91-09e05ceef203": {
+        "name": "Comment",
+        "desc": "",
+        "path": "src\/c8a86f8b-b886-428b-9f91-09e05ceef203",
+        "settings": "src\/c8a86f8b-b886-428b-9f91-09e05ceef203\/item.json",
+        "guid": "c8a86f8b-b886-428b-9f91-09e05ceef203"
+    },
+    "83104b3b-28eb-4605-9f71-2c9606e3a6d5": {
+        "name": "Container",
+        "desc": "",
+        "path": "src\/83104b3b-28eb-4605-9f71-2c9606e3a6d5",
+        "settings": "src\/83104b3b-28eb-4605-9f71-2c9606e3a6d5\/item.json",
+        "guid": "83104b3b-28eb-4605-9f71-2c9606e3a6d5"
+    },
+    "a7778b9d-0ff9-4adf-b145-eb43e51b5762": {
+        "name": "Countdown",
+        "desc": "",
+        "path": "src\/a7778b9d-0ff9-4adf-b145-eb43e51b5762",
+        "settings": "src\/a7778b9d-0ff9-4adf-b145-eb43e51b5762\/item.json",
+        "guid": "a7778b9d-0ff9-4adf-b145-eb43e51b5762"
+    },
+    "6ed600be-97c0-45e6-8b5b-33b5e58028ac": {
+        "name": "Cover Image",
+        "desc": "",
+        "path": "src\/6ed600be-97c0-45e6-8b5b-33b5e58028ac",
+        "settings": "src\/6ed600be-97c0-45e6-8b5b-33b5e58028ac\/item.json",
+        "guid": "6ed600be-97c0-45e6-8b5b-33b5e58028ac"
+    },
+    "33455925-7ecf-4e63-919b-23b3e9a9c671": {
+        "name": "Cover Video",
+        "desc": "",
+        "path": "src\/33455925-7ecf-4e63-919b-23b3e9a9c671",
+        "settings": "src\/33455925-7ecf-4e63-919b-23b3e9a9c671\/item.json",
+        "guid": "33455925-7ecf-4e63-919b-23b3e9a9c671"
+    },
+    "94739e99-acf8-473d-a8e9-60d72da0dc58": {
+        "name": "Cover Iframe",
+        "desc": "",
+        "path": "src\/94739e99-acf8-473d-a8e9-60d72da0dc58",
+        "settings": "src\/94739e99-acf8-473d-a8e9-60d72da0dc58\/item.json",
+        "guid": "94739e99-acf8-473d-a8e9-60d72da0dc58"
+    },
+    "a519fd46-369a-41df-b150-8d5b32134131": {
+        "name": "Cover Responsive height",
+        "desc": "",
+        "path": "src\/a519fd46-369a-41df-b150-8d5b32134131",
+        "settings": "src\/a519fd46-369a-41df-b150-8d5b32134131\/item.json",
+        "guid": "a519fd46-369a-41df-b150-8d5b32134131"
+    },
+    "a39c7af9-c5fe-43c0-94f8-8ebe9d7702db": {
+        "name": "Description list",
+        "desc": "",
+        "path": "src\/a39c7af9-c5fe-43c0-94f8-8ebe9d7702db",
+        "settings": "src\/a39c7af9-c5fe-43c0-94f8-8ebe9d7702db\/item.json",
+        "guid": "a39c7af9-c5fe-43c0-94f8-8ebe9d7702db"
+    },
+    "d674b931-a438-4b3e-8196-652a56cee7d7": {
+        "name": "Dotnav",
+        "desc": "",
+        "path": "src\/d674b931-a438-4b3e-8196-652a56cee7d7",
+        "settings": "src\/d674b931-a438-4b3e-8196-652a56cee7d7\/item.json",
+        "guid": "d674b931-a438-4b3e-8196-652a56cee7d7"
+    },
+    "04aa6a6a-656c-48d3-b642-f0c162bcf315": {
+        "name": "Drop",
+        "desc": "",
+        "path": "src\/04aa6a6a-656c-48d3-b642-f0c162bcf315",
+        "settings": "src\/04aa6a6a-656c-48d3-b642-f0c162bcf315\/item.json",
+        "guid": "04aa6a6a-656c-48d3-b642-f0c162bcf315"
+    },
+    "2e0bea6d-f336-4074-89b5-4363761809a7": {
+        "name": "Dropdown",
+        "desc": "",
+        "path": "src\/2e0bea6d-f336-4074-89b5-4363761809a7",
+        "settings": "src\/2e0bea6d-f336-4074-89b5-4363761809a7\/item.json",
+        "guid": "2e0bea6d-f336-4074-89b5-4363761809a7"
     }
 }
