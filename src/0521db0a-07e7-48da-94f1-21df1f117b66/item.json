@@ -1,0 +1,31 @@
+{
+    "name": "align-*",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/position\/",
+    "type": "922f0ec3-9f37-41ba-9a07-4e5cd768dfa8",
+    "heading": "align-*",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "0521db0a-07e7-48da-94f1-21df1f117b66",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<span class=\"align-baseline\">baseline<\/span>\r\n<span class=\"align-top\">top<\/span>\r\n<span class=\"align-middle\">middle<\/span>\r\n<span class=\"align-bottom\">bottom<\/span>\r\n<span class=\"align-text-top\">text-top<\/span>\r\n<span class=\"align-text-bottom\">text-bottom<\/span>",
+    "usage": "",
+    "description": "Use these shorthand utilities for quickly configuring the position of an element.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "922f0ec3-9f37-41ba-9a07-4e5cd768dfa8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
