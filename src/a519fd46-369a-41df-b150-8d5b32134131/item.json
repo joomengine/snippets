@@ -1,0 +1,31 @@
+{
+    "name": "Cover Responsive height",
+    "url": "https:\/\/getuikit.com\/docs\/container",
+    "type": "bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c",
+    "heading": "Expand images, videos or iframes to cover their entire container and place your own content on top.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "a519fd46-369a-41df-b150-8d5b32134131",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<div class=\"uk-cover-container\">\r\n    <canvas width=\"400\" height=\"200\"><\/canvas>\r\n    <img src=\"https:\/\/getuikit.com\/docs\/images\/dark.jpg\" alt=\"\" uk-cover>\r\n<\/div>",
+    "usage": "To create a video that covers its parent container, add the uk-cover attribute to a video. Wrap a container element around the video and add the .uk-cover-container class to clip the content.\r\n\r\nTo add responsive behavior to your cover image, you need to create an invisible  element and assign width and height values to it, according to the aspect ratio you want the covered area to have. That way it will adapt the responsive behavior of the image.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
