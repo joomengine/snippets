@@ -1,0 +1,31 @@
+{
+    "name": "Row",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+    "heading": "row",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "47a15a5c-2416-4597-b729-03a8044695c1",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"container\">\r\n  <div class=\"row\">\r\n  <!-- col- elements here -->\r\n  <\/div>\r\n<\/div>",
+    "usage": "Rows are wrappers for columns. Each column has horizontal padding (called a gutter) for controlling the space between them. This padding is then counteracted on the rows with negative margins. This way, all the content in your columns is visually aligned down the left side.",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
