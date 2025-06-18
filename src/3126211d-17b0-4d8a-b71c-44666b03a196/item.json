@@ -1,0 +1,31 @@
+{
+    "name": "Button Group",
+    "url": "https:\/\/getuikit.com\/docs\/button",
+    "type": "5618f845-d69b-408a-aa15-ef1162be8e7a",
+    "heading": "Easily create nice looking buttons, which come in different styles.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "3126211d-17b0-4d8a-b71c-44666b03a196",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<div class=\"uk-button-group\">\r\n    <button class=\"uk-button uk-button-default\"><\/button>\r\n    <button class=\"uk-button uk-button-default\"><\/button>\r\n    <button class=\"uk-button uk-button-default\"><\/button>\r\n<\/div>",
+    "usage": "To create a button group, add the .uk-button-group class to a  element around the buttons. That's it! No further markup needed.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "5618f845-d69b-408a-aa15-ef1162be8e7a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
