@@ -1,0 +1,31 @@
+{
+    "name": "Card - Columns",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+    "heading": "card-columns",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "77cde3f0-5b75-4918-9917-d23e2b4360c6",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"card-columns\">\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <!-- Card content -->\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"card p-3\">\r\n    <!-- Card content -->\r\n  <\/div>\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <!-- Card content -->\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"card bg-primary p-3 text-center\">\r\n      <!-- Card content -->\r\n  <\/div>\r\n<\/div>",
+    "usage": "Cards can be organized into Masonry-like columns with just CSS by wrapping them in .card-columns. Cards are built with CSS column properties instead of flexbox for easier alignment. Cards are ordered from top to bottom and left to right.\r\n\r\nHeads up! Your mileage with card columns may vary. To prevent cards breaking across columns, we must set them to display: inline-block as column-break-inside: avoid isn\u2019t a bulletproof solution yet.",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
