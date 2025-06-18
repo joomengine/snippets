@@ -1,0 +1,31 @@
+{
+    "name": "Card",
+    "url": "https:\/\/getuikit.com\/docs\/card",
+    "type": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+    "heading": "Create layout boxes with different styles.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "5c382c49-2a67-40d1-a6b5-9f86fac2f657",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<div class=\"uk-card uk-card-default uk-card-body uk-width-1-2@m\">\r\n    <h3 class=\"uk-card-title\">Default<\/h3>\r\n    <p>Lorem ipsum <a href=\"#\">dolor<\/a> sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>\r\n<\/div>",
+    "usage": "The Card component consists of the card itself, the card body and an optional card title. Typically, cards are arranged in grid columns from the Grid component.\r\n\r\nBy default, a card is blank. That is why it is important to add a modifier class for styling. In our example we are using the .uk-card-default class.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
