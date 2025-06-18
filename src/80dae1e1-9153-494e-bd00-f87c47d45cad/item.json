@@ -1,0 +1,31 @@
+{
+    "name": "w-100",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/sizing\/",
+    "type": "9ec21d99-a329-49c8-b4f4-ed980a1b9fc4",
+    "heading": "w-100",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "80dae1e1-9153-494e-bd00-f87c47d45cad",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"w-25 p-3\" style=\"background-color: #eee;\">Width 25%<\/div>\r\n<div class=\"w-50 p-3\" style=\"background-color: #eee;\">Width 50%<\/div>\r\n<div class=\"w-75 p-3\" style=\"background-color: #eee;\">Width 75%<\/div>\r\n<div class=\"w-100 p-3\" style=\"background-color: #eee;\">Width 100%<\/div>",
+    "usage": "",
+    "description": "Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "9ec21d99-a329-49c8-b4f4-ed980a1b9fc4",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
