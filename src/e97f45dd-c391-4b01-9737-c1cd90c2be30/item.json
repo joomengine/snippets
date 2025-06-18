@@ -1,0 +1,31 @@
+{
+    "name": "Button Group (nested)",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/button-group\/",
+    "type": "5618f845-d69b-408a-aa15-ef1162be8e7a",
+    "heading": "btn-group (nested)",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "e97f45dd-c391-4b01-9737-c1cd90c2be30",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"btn-group\" role=\"group\" aria-label=\"Button group with nested dropdown\">\r\n  <button type=\"button\" class=\"btn btn-secondary\">1<\/button>\r\n  <button type=\"button\" class=\"btn btn-secondary\">2<\/button>\r\n\r\n  <div class=\"btn-group\" role=\"group\">\r\n    <button id=\"btnGroupDrop1\" type=\"button\" class=\"btn btn-secondary dropdown-toggle\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n      Dropdown\r\n    <\/button>\r\n    <div class=\"dropdown-menu\" aria-labelledby=\"btnGroupDrop1\">\r\n      <a class=\"dropdown-item\" href=\"#\">Dropdown link<\/a>\r\n      <a class=\"dropdown-item\" href=\"#\">Dropdown link<\/a>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "usage": "Wrap a series of buttons with .btn in .btn-group. Add on optional JavaScript radio and checkbox style behavior with our buttons plugin.",
+    "description": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "5618f845-d69b-408a-aa15-ef1162be8e7a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
