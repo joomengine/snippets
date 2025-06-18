@@ -1,0 +1,31 @@
+{
+    "name": "Input Group",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/input-group\/",
+    "type": "0f712af8-684e-4996-9920-c8ad60abea0a",
+    "heading": "input-group",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "b2c91e05-e213-42cf-9b94-c49d40751917",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"input-group\">\r\n  <span class=\"input-group-addon\">Left addon<\/span>\r\n  <input type=\"text\" class=\"form-control\" aria-label=\"Amount (to the nearest dollar)\">\r\n  <span class=\"input-group-addon\">Right addon<\/span>\r\n<\/div>",
+    "usage": "Place one add-on or button on either side of an input. You may also place one on both sides of an input. We do not support multiple form-controls in a single input group and s must come outside the input group.",
+    "description": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "0f712af8-684e-4996-9920-c8ad60abea0a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
