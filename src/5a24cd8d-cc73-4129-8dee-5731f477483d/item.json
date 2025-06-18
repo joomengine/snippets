@@ -1,0 +1,31 @@
+{
+    "name": "d-print-...",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/display\/",
+    "type": "e0f4d5c6-8079-4165-8c8f-0d39abf990eb",
+    "heading": "d-print-...",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "5a24cd8d-cc73-4129-8dee-5731f477483d",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"d-print-none\">Doesn't display when printing<\/div>\r\n<div class=\"d-print-block\">Displays as block when printing<\/div>\r\n<div class=\"d-print-inline\">Displays as inline when printing<\/div>\r\n<div class=\"d-print-inline-block\">Displays as inline-block when printing<\/div>",
+    "usage": "The display property accepts a handful of values and we support many of them with utility classes. We purposefully don\u2019t provide every value as a utility, so here\u2019s what we support:\r\n\r\n    .d-none\r\n    .d-inline\r\n    .d-inline-block\r\n    .d-block\r\n    .d-table\r\n    .d-table-cell\r\n    .d-flex\r\n    .d-inline-flex\r\n\r\nPut them to use by applying any of the classes to an element of your choice. For example, here\u2019s how you could use the inline, block, or inline-block utilities (the same applies to the other classes).\r\n",
+    "description": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "e0f4d5c6-8079-4165-8c8f-0d39abf990eb",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
