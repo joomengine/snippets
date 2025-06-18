@@ -1,0 +1,31 @@
+{
+    "name": "pl-1 \/ pl-*-#",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/spacing\/",
+    "type": "847c72f3-bd0d-4a64-8f03-194b31fd7975",
+    "heading": "pl-1 \/ pl-*-#",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "a49060bd-6571-4d74-9f19-b1cc11e1133f",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"pl-0 bg-primary d-inline-block\">Padded Div<\/div>\r\n<div class=\"pl-1 bg-primary d-inline-block\">Padded Div<\/div>\r\n<div class=\"pl-2 bg-primary d-inline-block\">Padded Div<\/div>\r\n<div class=\"pl-3 bg-primary d-inline-block\">Padded Div<\/div>\r\n<div class=\"pl-4 bg-primary d-inline-block\">Padded Div<\/div>\r\n<div class=\"pl-5 bg-primary d-inline-block\">Padded Div<\/div>\r\n\r\n<!-- respsonsive viariations -->\r\n<div class=\"pl-sm-5 d-inline-block bg-primary\">Padded Div<\/div>\r\n<div class=\"pl-md-5 d-inline-block bg-primary\">Padded Div<\/div>\r\n<div class=\"pl-lg-5 d-inline-block bg-primary\">Padded Div<\/div>\r\n<div class=\"pl-xl-5 d-inline-block bg-primary\">Padded Div<\/div>",
+    "usage": "",
+    "description": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "847c72f3-bd0d-4a64-8f03-194b31fd7975",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
