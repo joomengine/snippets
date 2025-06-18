@@ -1,0 +1,31 @@
+{
+    "name": "Nav - Flex Column",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
+    "type": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+    "heading": "nav flex-column",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "5b0b2d22-7b8f-43a2-8a22-0be5af364d4c",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<nav class=\"nav flex-column\">\r\n  <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n<\/nav>",
+    "usage": "Stack your navigation by changing the flex item direction with the .flex-column utility. Need to stack them on some viewports but not others? Use the responsive versions (e.g., .flex-sm-column).",
+    "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
