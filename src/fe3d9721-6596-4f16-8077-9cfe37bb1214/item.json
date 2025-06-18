@@ -1,0 +1,31 @@
+{
+    "name": "sr-only-focusable",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/borders\/",
+    "type": "9d168738-fe4f-4aa6-aee4-ef86f8ffab2c",
+    "heading": "sr-only-focusable",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "fe3d9721-6596-4f16-8077-9cfe37bb1214",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<a class=\"sr-only sr-only-focusable\" href=\"#content\">Skip to main content<\/a>",
+    "usage": "",
+    "description": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "9d168738-fe4f-4aa6-aee4-ef86f8ffab2c",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
