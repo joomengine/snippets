@@ -1,0 +1,31 @@
+{
+    "name": "Typography - Display",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/typography\/",
+    "type": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+    "heading": "display-# (1-4)",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "398600fd-1ece-43a4-b4a1-90eb2d3d2c60",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<h1 class=\"display-1\">Display 1<\/h1>\r\n<h1 class=\"display-2\">Display 2<\/h1>\r\n<h1 class=\"display-3\">Display 3<\/h1>\r\n<h1 class=\"display-4\">Display 4<\/h1>",
+    "usage": "",
+    "description": "Traditional heading elements are designed to work best in the meat of your page content. When you need a heading to stand out, consider using a display heading\u2014a larger, slightly more opinionated heading style.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
