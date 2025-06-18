@@ -1,0 +1,31 @@
+{
+    "name": "Badge",
+    "url": "https:\/\/getuikit.com\/docs\/badge",
+    "type": "44413b64-844a-433a-8486-2b073be99506",
+    "heading": "Easily create nice looking notification badges.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "465eca3b-2090-42a7-ac88-d7fc03eaf543",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<span class=\"uk-badge\">1<\/span>\r\n<span class=\"uk-badge\">100<\/span>",
+    "usage": "To create a badge, just add the .uk-badge class to an inline element like  or  element.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "44413b64-844a-433a-8486-2b073be99506",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
