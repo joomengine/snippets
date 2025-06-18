@@ -1,0 +1,31 @@
+{
+    "name": "Navbar",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navbar\/",
+    "type": "bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+    "heading": "navbar",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "7aeeca84-0fe8-4e43-85c8-3c001328c23e",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<nav class=\"navbar navbar-expand-lg navbar-light bg-light\">\r\n  <a class=\"navbar-brand\" href=\"#\">Navbar<\/a>\r\n  <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\r\n    <span class=\"navbar-toggler-icon\"><\/span>\r\n  <\/button>\r\n\r\n  <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\r\n    <ul class=\"navbar-nav mr-auto\">\r\n      <li class=\"nav-item active\">\r\n        <a class=\"nav-link\" href=\"#\">Home <span class=\"sr-only\">(current)<\/span><\/a>\r\n      <\/li>\r\n      <li class=\"nav-item\">\r\n        <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n      <\/li>\r\n      <li class=\"nav-item\">\r\n        <a class=\"nav-link disabled\" href=\"#\">Disabled<\/a>\r\n      <\/li>\r\n    <\/ul>\r\n    <form class=\"form-inline my-2 my-lg-0\">\r\n      <input class=\"form-control mr-sm-2\" type=\"text\" placeholder=\"Search\" aria-label=\"Search\">\r\n      <button class=\"btn btn-outline-success my-2 my-sm-0\" type=\"submit\">Search<\/button>\r\n    <\/form>\r\n  <\/div>\r\n<\/nav>",
+    "usage": "How it works\r\n\r\nHere\u2019s what you need to know before getting started with the navbar:\r\n\r\n    Navbars require a wrapping .navbar with .navbar-expand{-sm|-md|-lg|-xl} for responsive collapsing and color scheme classes.\r\n    Navbars and their contents are fluid by default. Use optional containers to limit their horizontal width.\r\n    Use our spacing and flex utility classes for controlling spacing and alignment within navbars.\r\n    Navbars are responsive by default, but you can easily modify them to change that. Responsive behavior depends on our Collapse JavaScript plugin.\r\n    Navbars are hidden by default when printing. Force them to be printed by adding .d-print to the .navbar. See the display utility class.\r\n    Ensure accessibility by using a  element or, if using a more generic element such as a , add a role=\"navigation\" to every navbar to explicitly identify it as a landmark region for users of assistive technologies.\r\n\r\nRead on for an example and list of supported sub-components.",
+    "description": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
