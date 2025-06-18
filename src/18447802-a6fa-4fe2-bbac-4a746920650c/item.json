@@ -1,0 +1,31 @@
+{
+    "name": "Jumbotron",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/jumbotron\/",
+    "type": "59b8fb82-3baa-448a-a35b-03615849c79e",
+    "heading": "jumbotron",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "18447802-a6fa-4fe2-bbac-4a746920650c",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"jumbotron\">\r\n  <h1 class=\"display-3\">Hello, world!<\/h1>\r\n  <p class=\"lead\">This is a simple hero unit, a simple jumbotron-style component for\r\n                  calling extra attention to featured content or information.<\/p>\r\n  <hr class=\"my-2\">\r\n  <p>It uses utility classes for typography and\r\n     spacing to space content out within the larger container.<\/p>\r\n  <p class=\"lead\">\r\n    <a class=\"btn btn-primary btn-lg\" href=\"#\" role=\"button\">Some action<\/a>\r\n  <\/p>\r\n<\/div>",
+    "usage": "A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.",
+    "description": "Lightweight, flexible component for showcasing hero unit style content.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "59b8fb82-3baa-448a-a35b-03615849c79e",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
