@@ -1,0 +1,31 @@
+{
+    "name": "Segmented Buttons",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/input-group\/",
+    "type": "0f712af8-684e-4996-9920-c8ad60abea0a",
+    "heading": "segmented buttons",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "c71f612a-bae4-42b4-a65b-4ddfcab09b6e",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"input-group\">\r\n  <div class=\"input-group-btn\">\r\n    <button type=\"button\" class=\"btn btn-secondary\">Action<\/button>\r\n    <button type=\"button\" class=\"btn btn-secondary dropdown-toggle dropdown-toggle-split\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n      <span class=\"sr-only\">Toggle Dropdown<\/span>\r\n    <\/button>\r\n    <div class=\"dropdown-menu\">\r\n      <a class=\"dropdown-item\" href=\"#\">Action<\/a>\r\n      <a class=\"dropdown-item\" href=\"#\">Another action<\/a>\r\n    <\/div>\r\n  <\/div>\r\n  <input type=\"text\" class=\"form-control\" aria-label=\"Text input with segmented button dropdown\">\r\n<\/div>",
+    "usage": "",
+    "description": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "0f712af8-684e-4996-9920-c8ad60abea0a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
