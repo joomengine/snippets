@@ -1,0 +1,31 @@
+{
+    "name": "Close",
+    "url": "https:\/\/getuikit.com\/docs\/close",
+    "type": "c845954f-c274-4235-bbb4-5d0f9a6bb6be",
+    "heading": "Create a close icon that can be combined with different components.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "4948682f-15b6-4c9f-8bea-0082585dbff1",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<button type=\"button\" uk-close><\/button>",
+    "usage": "To apply this component, add the uk-close attribute to an a tag or button element.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "c845954f-c274-4235-bbb4-5d0f9a6bb6be",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
