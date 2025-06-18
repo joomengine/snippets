@@ -1,0 +1,31 @@
+{
+    "name": "Button - Disabled",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/buttons\/",
+    "type": "bea7ac19-aad5-4335-b190-b8828dc5d0c8",
+    "heading": "disabled button",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "52c9caa1-7f2b-4a8f-bb60-9a4158d27c0a",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<button type=\"button\" class=\"btn btn-primary\" data-toggle=\"button\" aria-pressed=\"false\">\r\n  Single toggle\r\n<\/button>",
+    "usage": "Fancy larger or smaller buttons? Add .btn-lg or .btn-sm for additional sizes.",
+    "description": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bea7ac19-aad5-4335-b190-b8828dc5d0c8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
