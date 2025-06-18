@@ -1,0 +1,31 @@
+{
+    "name": "Button - Toolbar",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/button-group\/",
+    "type": "5618f845-d69b-408a-aa15-ef1162be8e7a",
+    "heading": "btn-toolbar",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "f7a6f877-ee4c-4cbe-b1a7-314ff55172b7",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"btn-toolbar\" role=\"toolbar\" aria-label=\"Toolbar with button groups\">\r\n  <div class=\"btn-group\" role=\"group\" aria-label=\"First group\">\r\n    <button type=\"button\" class=\"btn btn-secondary\">1<\/button>\r\n    <button type=\"button\" class=\"btn btn-secondary\">2<\/button>\r\n    <button type=\"button\" class=\"btn btn-secondary\">3<\/button>\r\n  <\/div>\r\n  <div class=\"btn-group\" role=\"group\" aria-label=\"Second group\">\r\n    <button type=\"button\" class=\"btn btn-secondary\">5<\/button>\r\n    <button type=\"button\" class=\"btn btn-secondary\">6<\/button>\r\n  <\/div>\r\n  <div class=\"btn-group\" role=\"group\" aria-label=\"Third group\">\r\n    <button type=\"button\" class=\"btn btn-secondary\">8<\/button>\r\n  <\/div>\r\n<\/div>",
+    "usage": "Combine sets of button groups into button toolbars for more complex components. Use utility classes as needed to space out groups, buttons, and more.",
+    "description": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "5618f845-d69b-408a-aa15-ef1162be8e7a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
