@@ -1,0 +1,31 @@
+{
+    "name": "align-content-*-end",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/flex\/",
+    "type": "3dfce6f8-f0c2-4f2c-8dc2-b61d86510438",
+    "heading": "align-content-*-end",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "8cce35c5-84fc-4995-9669-79482b4259da",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"d-flex flex-wrap align-content-end\">\r\n  <div class=\"p-2\">Flex item<\/div>\r\n  <div class=\"p-2\">Flex item<\/div>\r\n  <div class=\"p-2\">Flex item<\/div>\r\n  ...\r\n<\/div>\r\n\r\n<!-- responsive variations -->\r\n<div class=\"d-flex align-content-sm-end\">...<\/div>\r\n<div class=\"d-flex align-content-md-end\">...<\/div>\r\n<div class=\"d-flex align-content-lg-end\">...<\/div>\r\n<div class=\"d-flex align-content-xl-end\">...<\/div>",
+    "usage": "",
+    "description": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "3dfce6f8-f0c2-4f2c-8dc2-b61d86510438",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
