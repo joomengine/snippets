@@ -118,5 +118,125 @@
         "path": "src\/snippet_type\/bdbbff94-2a74-4eb3-81ce-26068937e1c8",
         "settings": "src\/snippet_type\/bdbbff94-2a74-4eb3-81ce-26068937e1c8\/item.json",
         "guid": "bdbbff94-2a74-4eb3-81ce-26068937e1c8"
+    },
+    "bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c": {
+        "name": "Layout",
+        "path": "src\/snippet_type\/bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c",
+        "settings": "src\/snippet_type\/bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c\/item.json",
+        "guid": "bcb6bf0f-25ec-46ca-82dc-f5ee20a9ca0c"
+    },
+    "53c39cb5-47ff-4b50-9c41-a7423f6d3d32": {
+        "name": "Elements",
+        "path": "src\/snippet_type\/53c39cb5-47ff-4b50-9c41-a7423f6d3d32",
+        "settings": "src\/snippet_type\/53c39cb5-47ff-4b50-9c41-a7423f6d3d32\/item.json",
+        "guid": "53c39cb5-47ff-4b50-9c41-a7423f6d3d32"
+    },
+    "c845954f-c274-4235-bbb4-5d0f9a6bb6be": {
+        "name": "JavaScript",
+        "path": "src\/snippet_type\/c845954f-c274-4235-bbb4-5d0f9a6bb6be",
+        "settings": "src\/snippet_type\/c845954f-c274-4235-bbb4-5d0f9a6bb6be\/item.json",
+        "guid": "c845954f-c274-4235-bbb4-5d0f9a6bb6be"
+    },
+    "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a": {
+        "name": "Navs",
+        "path": "src\/snippet_type\/598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a",
+        "settings": "src\/snippet_type\/598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a\/item.json",
+        "guid": "598c50a1-5fa2-4d44-8dd1-dbf1bfb4c64a"
+    },
+    "bcf6a838-919a-4d56-bcf1-f3dab99737c9": {
+        "name": "Pagination",
+        "path": "src\/snippet_type\/bcf6a838-919a-4d56-bcf1-f3dab99737c9",
+        "settings": "src\/snippet_type\/bcf6a838-919a-4d56-bcf1-f3dab99737c9\/item.json",
+        "guid": "bcf6a838-919a-4d56-bcf1-f3dab99737c9"
+    },
+    "3e5b282f-e964-4734-b97a-06677ded9ede": {
+        "name": "Popover",
+        "path": "src\/snippet_type\/3e5b282f-e964-4734-b97a-06677ded9ede",
+        "settings": "src\/snippet_type\/3e5b282f-e964-4734-b97a-06677ded9ede\/item.json",
+        "guid": "3e5b282f-e964-4734-b97a-06677ded9ede"
+    },
+    "0fe0ad4d-99b3-4f68-bf6e-5c71a621d8c3": {
+        "name": "Progress",
+        "path": "src\/snippet_type\/0fe0ad4d-99b3-4f68-bf6e-5c71a621d8c3",
+        "settings": "src\/snippet_type\/0fe0ad4d-99b3-4f68-bf6e-5c71a621d8c3\/item.json",
+        "guid": "0fe0ad4d-99b3-4f68-bf6e-5c71a621d8c3"
+    },
+    "fbc5cad8-91b4-4e3d-84a5-47e561319047": {
+        "name": "Scrollspy",
+        "path": "src\/snippet_type\/fbc5cad8-91b4-4e3d-84a5-47e561319047",
+        "settings": "src\/snippet_type\/fbc5cad8-91b4-4e3d-84a5-47e561319047\/item.json",
+        "guid": "fbc5cad8-91b4-4e3d-84a5-47e561319047"
+    },
+    "daa2ae4f-cc62-482a-be4c-f54589f1263a": {
+        "name": "Tables",
+        "path": "src\/snippet_type\/daa2ae4f-cc62-482a-be4c-f54589f1263a",
+        "settings": "src\/snippet_type\/daa2ae4f-cc62-482a-be4c-f54589f1263a\/item.json",
+        "guid": "daa2ae4f-cc62-482a-be4c-f54589f1263a"
+    },
+    "6709de33-eff4-41b8-850d-c530a6cf6468": {
+        "name": "Tooltips",
+        "path": "src\/snippet_type\/6709de33-eff4-41b8-850d-c530a6cf6468",
+        "settings": "src\/snippet_type\/6709de33-eff4-41b8-850d-c530a6cf6468\/item.json",
+        "guid": "6709de33-eff4-41b8-850d-c530a6cf6468"
+    },
+    "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447": {
+        "name": "Typography",
+        "path": "src\/snippet_type\/675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+        "settings": "src\/snippet_type\/675a9b0b-31bf-4bb9-aab4-aef6e3cb0447\/item.json",
+        "guid": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447"
+    },
+    "3e7e5183-0b6a-4c9d-8ff0-22ed8870e2e0": {
+        "name": "Utility: Borders",
+        "path": "src\/snippet_type\/3e7e5183-0b6a-4c9d-8ff0-22ed8870e2e0",
+        "settings": "src\/snippet_type\/3e7e5183-0b6a-4c9d-8ff0-22ed8870e2e0\/item.json",
+        "guid": "3e7e5183-0b6a-4c9d-8ff0-22ed8870e2e0"
+    },
+    "eaa09d56-f468-4bdf-b9f0-81d2a50c372e": {
+        "name": "Utility: Colors",
+        "path": "src\/snippet_type\/eaa09d56-f468-4bdf-b9f0-81d2a50c372e",
+        "settings": "src\/snippet_type\/eaa09d56-f468-4bdf-b9f0-81d2a50c372e\/item.json",
+        "guid": "eaa09d56-f468-4bdf-b9f0-81d2a50c372e"
+    },
+    "e0f4d5c6-8079-4165-8c8f-0d39abf990eb": {
+        "name": "Utility: Display",
+        "path": "src\/snippet_type\/e0f4d5c6-8079-4165-8c8f-0d39abf990eb",
+        "settings": "src\/snippet_type\/e0f4d5c6-8079-4165-8c8f-0d39abf990eb\/item.json",
+        "guid": "e0f4d5c6-8079-4165-8c8f-0d39abf990eb"
+    },
+    "3dfce6f8-f0c2-4f2c-8dc2-b61d86510438": {
+        "name": "Utility: Flexbox",
+        "path": "src\/snippet_type\/3dfce6f8-f0c2-4f2c-8dc2-b61d86510438",
+        "settings": "src\/snippet_type\/3dfce6f8-f0c2-4f2c-8dc2-b61d86510438\/item.json",
+        "guid": "3dfce6f8-f0c2-4f2c-8dc2-b61d86510438"
+    },
+    "9d168738-fe4f-4aa6-aee4-ef86f8ffab2c": {
+        "name": "Utility: Misc",
+        "path": "src\/snippet_type\/9d168738-fe4f-4aa6-aee4-ef86f8ffab2c",
+        "settings": "src\/snippet_type\/9d168738-fe4f-4aa6-aee4-ef86f8ffab2c\/item.json",
+        "guid": "9d168738-fe4f-4aa6-aee4-ef86f8ffab2c"
+    },
+    "922f0ec3-9f37-41ba-9a07-4e5cd768dfa8": {
+        "name": "Utility: Positioning",
+        "path": "src\/snippet_type\/922f0ec3-9f37-41ba-9a07-4e5cd768dfa8",
+        "settings": "src\/snippet_type\/922f0ec3-9f37-41ba-9a07-4e5cd768dfa8\/item.json",
+        "guid": "922f0ec3-9f37-41ba-9a07-4e5cd768dfa8"
+    },
+    "9ec21d99-a329-49c8-b4f4-ed980a1b9fc4": {
+        "name": "Utility: Sizing",
+        "path": "src\/snippet_type\/9ec21d99-a329-49c8-b4f4-ed980a1b9fc4",
+        "settings": "src\/snippet_type\/9ec21d99-a329-49c8-b4f4-ed980a1b9fc4\/item.json",
+        "guid": "9ec21d99-a329-49c8-b4f4-ed980a1b9fc4"
+    },
+    "847c72f3-bd0d-4a64-8f03-194b31fd7975": {
+        "name": "Utility: Spacing",
+        "path": "src\/snippet_type\/847c72f3-bd0d-4a64-8f03-194b31fd7975",
+        "settings": "src\/snippet_type\/847c72f3-bd0d-4a64-8f03-194b31fd7975\/item.json",
+        "guid": "847c72f3-bd0d-4a64-8f03-194b31fd7975"
+    },
+    "15a3bf1f-468c-494b-8a54-2cd4ac7076d9": {
+        "name": "Utility: Text",
+        "path": "src\/snippet_type\/15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+        "settings": "src\/snippet_type\/15a3bf1f-468c-494b-8a54-2cd4ac7076d9\/item.json",
+        "guid": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9"
     }
 }
