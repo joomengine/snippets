@@ -1,0 +1,31 @@
+{
+    "name": "h-100",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/sizing\/",
+    "type": "9ec21d99-a329-49c8-b4f4-ed980a1b9fc4",
+    "heading": "h-100",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "d3c27ebc-bf54-4a33-bd07-58f8d96d1038",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div style=\"height: 100px; background-color: rgba(255,0,0,0.1);\">\r\n  <div class=\"h-25 d-inline-block\" style=\"width: 120px; background-color: rgba(0,0,255,.1)\">Height 25%<\/div>\r\n  <div class=\"h-50 d-inline-block\" style=\"width: 120px; background-color: rgba(0,0,255,.1)\">Height 50%<\/div>\r\n  <div class=\"h-75 d-inline-block\" style=\"width: 120px; background-color: rgba(0,0,255,.1)\">Height 75%<\/div>\r\n  <div class=\"h-100 d-inline-block\" style=\"width: 120px; background-color: rgba(0,0,255,.1)\">Height 100%<\/div>\r\n<\/div>",
+    "usage": "",
+    "description": "Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "9ec21d99-a329-49c8-b4f4-ed980a1b9fc4",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
