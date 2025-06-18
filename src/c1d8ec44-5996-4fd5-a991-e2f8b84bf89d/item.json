@@ -1,0 +1,31 @@
+{
+    "name": "Align",
+    "url": "https:\/\/getuikit.com\/docs\/align",
+    "type": "1fa5a6e4-cf23-4343-84be-fc3b2a11d78e",
+    "heading": "Control the alignment of inline elements depending on the viewport size.",
+    "library": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+    "guid": "c1d8ec44-5996-4fd5-a991-e2f8b84bf89d",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_website": "https:\/\/www.vdm.io\/",
+    "contributor_company": "Vast Development Method",
+    "snippet": "<div class=\"uk-panel\">\r\n    <img class=\"uk-align-left uk-margin-remove-adjacent\" src=\"https:\/\/getuikit.com\/docs\/images\/light.jpg\" width=\"225\" height\"150\" alt=\"Example image\">\r\n    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>\r\n    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>\r\n<\/div>",
+    "usage": "To align images or other elements with spacing between the text and the element, add one of these classes.\r\n\r\n.uk-align-left \tFloats the element to the left and creates right and bottom margin.\r\n\r\n.uk-align-right \tFloats the element to the right and creates left and bottom margin.\r\n\r\n.uk-align-center \tCenters the element and creates bottom margin.",
+    "description": "",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "1fa5a6e4-cf23-4343-84be-fc3b2a11d78e",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "5eeee148-cebd-4a92-bc0e-56efea3cffdc",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
