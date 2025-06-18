@@ -1,0 +1,31 @@
+{
+    "name": "Button Group",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/button-group\/",
+    "type": "5618f845-d69b-408a-aa15-ef1162be8e7a",
+    "heading": "btn-group",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "cebe97c4-ff4a-4a74-bd12-ebe02ecfd814",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"btn-group\" role=\"group\" aria-label=\"Basic example\">\r\n  <button type=\"button\" class=\"btn btn-secondary\">Left<\/button>\r\n  <button type=\"button\" class=\"btn btn-secondary\">Middle<\/button>\r\n  <button type=\"button\" class=\"btn btn-secondary\">Right<\/button>\r\n<\/div>",
+    "usage": "Wrap a series of buttons with .btn in .btn-group. Add on optional JavaScript radio and checkbox style behavior with our buttons plugin.",
+    "description": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "5618f845-d69b-408a-aa15-ef1162be8e7a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
