@@ -1,0 +1,31 @@
+{
+    "name": "Typography - List Unstyled",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/typography\/",
+    "type": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+    "heading": "list-unstyled",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "f28a7f62-c4e0-480b-909e-8b61e5bb9e92",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<ul class=\"list-unstyled\">\r\n  <li>Integer molestie lorem at massa<\/li>\r\n  <li>Facilisis in pretium nisl aliquet<\/li>\r\n  <li>Nulla volutpat aliquam velit\r\n    <ul>\r\n      <li>Phasellus iaculis neque<\/li>\r\n      <li>Purus sodales ultricies<\/li>\r\n    <\/ul>\r\n  <\/li>\r\n  <li>Faucibus porta lacus fringilla vel<\/li>\r\n  <li>Eget porttitor lorem<\/li>\r\n<\/ul>",
+    "usage": "Remove the default list-style and left margin on list items (immediate children only). This only applies to immediate children list items, meaning you will need to add the class for any nested lists as well.",
+    "description": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
