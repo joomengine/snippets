@@ -1,0 +1,31 @@
+{
+    "name": "Form - Group",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "15b018d4-0161-42ad-aa34-6ed242852da9",
+    "heading": "form-group",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "1d91068b-f963-4636-be86-3532065370c0",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<form>\r\n  <div class=\"form-group\">\r\n    <label for=\"formGroupExampleInput\">Example label<\/label>\r\n    <input type=\"text\" class=\"form-control\" id=\"formGroupExampleInput\" placeholder=\"Example input\">\r\n  <\/div>\r\n  <div class=\"form-group\">\r\n    <label for=\"formGroupExampleInput2\">Another label<\/label>\r\n    <input type=\"text\" class=\"form-control\" id=\"formGroupExampleInput2\" placeholder=\"Another input\">\r\n  <\/div>\r\n<\/form>",
+    "usage": "The .form-group class is the easiest way to add some structure to forms. Its only purpose is to provide margin-bottom around a label and control pairing. As a bonus, since it\u2019s a class you can use it with s, s, or nearly any other element.",
+    "description": "Bootstrap\u2019s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.\r\n\r\nBe sure to use an appropriate type attribute on all inputs (e.g., email for email address or number for numerical information) to take advantage of newer input controls like email verification, number selection, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15b018d4-0161-42ad-aa34-6ed242852da9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
