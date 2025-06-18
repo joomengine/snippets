@@ -1,0 +1,31 @@
+{
+    "name": "Carousel - Caption",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/carousel\/",
+    "type": "243298f7-02aa-47ad-a76c-3c19e41e3011",
+    "heading": "carousel-caption",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "3f295c05-6b23-4645-ad69-791edbf41e7e",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"carousel-item\">\r\n  <img src=\"...\" alt=\"...\">\r\n  <div class=\"carousel-caption d-none d-md-block\">\r\n    <h3>...<\/h3>\r\n    <p>...<\/p>\r\n  <\/div>\r\n<\/div>",
+    "usage": "Add captions to your slides easily with the .carousel-caption element within any .carousel-item. They can be easily hidden on smaller viewports, as shown below, with optional display utilities. We hide them initially with .d-none and bring them back on medium-sized devices with .d-md-block.",
+    "description": "The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous\/next controls and indicators.\r\n\r\nIn browsers where the Page Visibility API is supported, the carousel will avoid sliding when the webpage is not visible to the user (such as when the browser tab is inactive, the browser window is minimized, etc.).\r\n\r\nPlease be aware that nested carousels are not supported, and carousels are generally not compliant with accessibility standards.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "243298f7-02aa-47ad-a76c-3c19e41e3011",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
