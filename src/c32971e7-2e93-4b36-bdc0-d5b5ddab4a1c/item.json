@@ -1,0 +1,31 @@
+{
+    "name": "Card - Subtitle",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+    "heading": "card-subtitle",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "c32971e7-2e93-4b36-bdc0-d5b5ddab4a1c",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"card\">\r\n  <div class=\"card-body\">\r\n    <h4 class=\"card-title\">Card title<\/h4>\r\n    <h6 class=\"card-subtitle mb-2 text-muted\">Card subtitle<\/h6>\r\n    <p class=\"card-text\">\r\n      Some quick example text to build on the card title\r\n      and make up the bulk of the card's content.\r\n    <\/p>\r\n    <a href=\"#\" class=\"card-link\">Card link<\/a>\r\n    <a href=\"#\" class=\"card-link\">Another link<\/a>\r\n  <\/div>\r\n<\/div>",
+    "usage": "Cards are built with as little markup and styles as possible, but still manage to deliver a ton of control and customization. Built with flexbox, they offer easy alignment and mix well with other Bootstrap components.\r\n\r\nCards have no fixed width to start, so they\u2019ll naturally fill the full width of its parent element. This is easily customized with our various sizing options.\r\n\r\n",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
