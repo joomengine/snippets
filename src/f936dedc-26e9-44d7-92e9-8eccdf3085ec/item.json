@@ -1,0 +1,31 @@
+{
+    "name": "no-gutters",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+    "heading": "no-gutters",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "f936dedc-26e9-44d7-92e9-8eccdf3085ec",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"container\">\r\n  <div class=\"row no-gutters\">\r\n    <div class=\"col-12 col-sm-6 col-md-8\">.col-12 .col-sm-6 .col-md-8<\/div>\r\n    <div class=\"col-6 col-md-4\">.col-6 .col-md-4<\/div>\r\n  <\/div>\r\n<\/div>",
+    "usage": "The gutters between columns in our predefined grid classes can be removed with .no-gutters. This removes the negative margins from .row and the horizontal padding from all immediate children columns.\r\n\r\nHere\u2019s the source code for creating these styles. Note that column overrides are scoped to only the first children columns and are targeted via attribute selector. While this generates a more specific selector, column padding can still be further customized with spacing utilities.\r\n\r\nNeed an edge-to-edge design? Drop the parent .container or .container-fluid.",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
