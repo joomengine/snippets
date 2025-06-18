@@ -1,0 +1,31 @@
+{
+    "name": "Navbar - Fixed Top",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navbar\/",
+    "type": "bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+    "heading": "navbar fixed-top",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "8ef4d3ad-9162-4d60-b412-38bdce8f2bb4",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<nav class=\"navbar fixed-top navbar-dark bg-primary\">\r\n  <a class=\"navbar-brand\" href=\"#\">Fixed top<\/a>\r\n<\/nav>",
+    "usage": "Use our position utilities to place navbars in non-static positions. Choose from fixed to the top, fixed to the bottom, or stickied to the top (scrolls with the page until it reaches the top, then stays there). Fixed navbars use position: fixed, meaning they\u2019re pulled from the normal flow of the DOM and may require custom CSS (e.g., padding-top on the ) to prevent overlap with other elements.\r\n\r\nAlso note that .sticky-top uses position: sticky, which isn\u2019t fully supported in every browser.",
+    "description": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
