@@ -1,0 +1,31 @@
+{
+    "name": "Navbar - Light",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navbar\/",
+    "type": "bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+    "heading": "navbar-light",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "3ed1eb62-b569-4d3c-9307-d09ababb9581",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<nav class=\"navbar navbar-light\" style=\"background-color: #e3f2fd;\">\r\n  <!-- Navbar content -->\r\n<\/nav>",
+    "usage": "Theming the navbar has never been easier thanks to the combination of theming classes and background-color utilities. Choose from .navbar-light for use with light background colors, or .navbar-dark for dark background colors. Then, customize with .bg-* utilities.",
+    "description": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
