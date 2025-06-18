@@ -1,0 +1,31 @@
+{
+    "name": "Typography - Blockquote Footer",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/typography\/",
+    "type": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+    "heading": "blockquote-footer",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "11866ba1-0da3-4f8e-8585-127ef543dcd8",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<blockquote class=\"blockquote\">\r\n  <p class=\"mb-0\">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/p>\r\n  <footer class\"\"blockquote-footer\">Someone famous in\r\n    <cite title=\"Source Title\">Source Title<\/cite>\r\n  <\/footer>\r\n<\/blockquote>",
+    "usage": "Add a  for identifying the source. Wrap the name of the source work in .",
+    "description": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
