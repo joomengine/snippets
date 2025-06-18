@@ -1,0 +1,31 @@
+{
+    "name": "d-*-block",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/display\/",
+    "type": "e0f4d5c6-8079-4165-8c8f-0d39abf990eb",
+    "heading": "d-*-block",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "f36fe837-f0a6-43d7-b626-c26289dc4062",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<span class=\"d-block bg-primary\">d-block<\/span>\r\n<span class=\"d-sm-block bg-primary\">d-sm-block<\/span>\r\n<span class=\"d-md-block bg-primary\">d-md-block<\/span>\r\n<span class=\"d-lg-block bg-primary\">d-lg-block<\/span>\r\n<span class=\"d-xl-block bg-primary\">d-xl-block<\/span>",
+    "usage": "The display property accepts a handful of values and we support many of them with utility classes. We purposefully don\u2019t provide every value as a utility, so here\u2019s what we support:\r\n\r\n    .d-none\r\n    .d-inline\r\n    .d-inline-block\r\n    .d-block\r\n    .d-table\r\n    .d-table-cell\r\n    .d-flex\r\n    .d-inline-flex\r\n\r\nPut them to use by applying any of the classes to an element of your choice. For example, here\u2019s how you could use the inline, block, or inline-block utilities (the same applies to the other classes).\r\n",
+    "description": "Quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "e0f4d5c6-8079-4165-8c8f-0d39abf990eb",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
