@@ -1,0 +1,31 @@
+{
+    "name": "Input Group (Large)",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/input-group\/",
+    "type": "0f712af8-684e-4996-9920-c8ad60abea0a",
+    "heading": "input-group-lg",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "df70eceb-48e9-4dd6-ae01-e60a1dc67030",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"input-group input-group-lg\">\r\n  <span class=\"input-group-addon\" id=\"sizing-addon1\">Left addon<\/span>\r\n  <input type=\"text\" class=\"form-control\" placeholder=\"Username\" aria-describedby=\"sizing-addon1\">\r\n<\/div>",
+    "usage": "Add the relative form sizing classes to the .input-group itself and contents within will automatically resize\u2014no need for repeating the form control size classes on each element.\r\n",
+    "description": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "0f712af8-684e-4996-9920-c8ad60abea0a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
