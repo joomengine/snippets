@@ -1,0 +1,31 @@
+{
+    "name": "Typography - List Inline",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/typography\/",
+    "type": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+    "heading": "list-inline",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "7f41c814-06fa-4dcf-844c-17edb57eaa41",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<ul class=\"list-inline\">\r\n  <li class=\"list-inline-item\">Lorem ipsum<\/li>\r\n  <li class=\"list-inline-item\">Phasellus iaculis<\/li>\r\n  <li class=\"list-inline-item\">Nulla volutpat<\/li>\r\n<\/ul>",
+    "usage": "Remove a list\u2019s bullets and apply some light margin with a combination of two classes, .list-inline and .list-inline-item.",
+    "description": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "675a9b0b-31bf-4bb9-aab4-aef6e3cb0447",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
