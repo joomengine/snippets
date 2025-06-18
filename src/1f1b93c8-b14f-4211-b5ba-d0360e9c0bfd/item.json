@@ -1,0 +1,31 @@
+{
+    "name": "float-*-none",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/position\/",
+    "type": "922f0ec3-9f37-41ba-9a07-4e5cd768dfa8",
+    "heading": "float-*-none",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "1f1b93c8-b14f-4211-b5ba-d0360e9c0bfd",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"float-none\">Don't float on all viewport sizes<\/div>\r\n<div class=\"float-sm-none\">Don't float on viewports sized SM (small) or wider<\/div>\r\n<div class=\"float-md-none\">Don't float on viewports sized MD (medium) or wider<\/div>\r\n<div class=\"float-lg-none\">Don't float on viewports sized LG (large) or wider<\/div>\r\n<div class=\"float-xl-none\">Don't float on viewports sized XL (extra-large) or wider<\/div>",
+    "usage": "",
+    "description": "Use these shorthand utilities for quickly configuring the position of an element.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "922f0ec3-9f37-41ba-9a07-4e5cd768dfa8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
