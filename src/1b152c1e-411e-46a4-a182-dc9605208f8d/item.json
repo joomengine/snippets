@@ -1,0 +1,31 @@
+{
+    "name": "Table - Responsive",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/tables\/",
+    "type": "daa2ae4f-cc62-482a-be4c-f54589f1263a",
+    "heading": "table-*-responsive",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "1b152c1e-411e-46a4-a182-dc9605208f8d",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<table class=\"table table-responsive\">\r\n<!-- table content here -->\r\n<\/table>\r\n\r\n<table class=\"table table-sm-responsive\"><!-- ... --><\/table>\r\n<table class=\"table table-md-responsive\"><!-- ... --><\/table>\r\n<table class=\"table table-lg-responsive\"><!-- ... --><\/table>\r\n<table class=\"table table-xl-responsive\"><!-- ... --><\/table>",
+    "usage": "Responsive tables make use of overflow-y: hidden, which clips off any content that goes beyond the bottom or top edges of the table. In particular, this can clip off dropdown menus and other third-party widgets.",
+    "description": "Responsive tables allow tables to be scrolled horizontally with ease. Make any table responsive across all viewports by adding .table-responsive class on .table. Or, pick a maximum breakpoint with which to have a responsive table up to by adding .table-responsive{-sm|-md|-lg|-xl}.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "daa2ae4f-cc62-482a-be4c-f54589f1263a",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
