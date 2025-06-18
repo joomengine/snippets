@@ -1,0 +1,31 @@
+{
+    "name": "Disabled Items",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "15b018d4-0161-42ad-aa34-6ed242852da9",
+    "heading": "disabled items",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "1ad307bf-f7c2-4c96-b259-40fd40dc6f38",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<form>\r\n  <fieldset disabled=\"\">\r\n    <div class=\"form-group\">\r\n      <label for=\"disabledTextInput\">Disabled input<\/label>\r\n      <input type=\"text\" id=\"disabledTextInput\" class=\"form-control\" placeholder=\"Disabled input\">\r\n    <\/div>\r\n    <div class=\"form-group\">\r\n      <label for=\"disabledSelect\">Disabled select menu<\/label>\r\n      <select id=\"disabledSelect\" class=\"form-control\">\r\n        <option>Disabled select<\/option>\r\n      <\/select>\r\n    <\/div>\r\n    <div class=\"form-check\">\r\n      <label class=\"form-check-label\">\r\n        <input class=\"form-check-input\" type=\"radio\" name=\"exampleRadios\" id=\"exampleRadios4\" value=\"option3\" disabled=\"\">\r\n        Option three is disabled\r\n      <\/label>\r\n    <\/div>\r\n    <div class=\"form-check\">\r\n      <label class=\"form-check-label\">\r\n        <input class=\"form-check-input\" type=\"checkbox\" value=\"\" disabled=\"\">\r\n        Option two is disabled\r\n      <\/label>\r\n    <\/div>\r\n    <button type=\"submit\" class=\"btn btn-primary\">Submit<\/button>\r\n  <\/fieldset>\r\n<\/form>",
+    "usage": "Add the disabled boolean attribute on an input to prevent user interactions and make it appear lighter.",
+    "description": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15b018d4-0161-42ad-aa34-6ed242852da9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
