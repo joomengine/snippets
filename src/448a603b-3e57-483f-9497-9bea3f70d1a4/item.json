@@ -1,0 +1,31 @@
+{
+    "name": "Navbar - Text",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navbar\/",
+    "type": "bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+    "heading": "navbar-text",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "448a603b-3e57-483f-9497-9bea3f70d1a4",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<nav class=\"navbar navbar-light bg-light\">\r\n  <span class=\"navbar-text\">\r\n    Navbar text with an inline element\r\n  <\/span>\r\n<\/nav>",
+    "usage": "Navbars may contain bits of text with the help of .navbar-text. This class adjusts vertical alignment and horizontal spacing for strings of text.",
+    "description": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
