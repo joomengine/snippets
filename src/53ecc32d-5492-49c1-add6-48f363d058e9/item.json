@@ -1,0 +1,31 @@
+{
+    "name": "text-justify",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/text\/",
+    "type": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+    "heading": "text-justify",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "53ecc32d-5492-49c1-add6-48f363d058e9",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<p class=\"text-justify\">Justified text.<\/p>",
+    "usage": "",
+    "description": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
