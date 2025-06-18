@@ -1,0 +1,122 @@
+{
+    "118327e9-ee52-493b-be69-9789cfd29ef6": {
+        "name": "Alerts",
+        "path": "src\/snippet_type\/118327e9-ee52-493b-be69-9789cfd29ef6",
+        "settings": "src\/snippet_type\/118327e9-ee52-493b-be69-9789cfd29ef6\/item.json",
+        "guid": "118327e9-ee52-493b-be69-9789cfd29ef6"
+    },
+    "44413b64-844a-433a-8486-2b073be99506": {
+        "name": "Badges",
+        "path": "src\/snippet_type\/44413b64-844a-433a-8486-2b073be99506",
+        "settings": "src\/snippet_type\/44413b64-844a-433a-8486-2b073be99506\/item.json",
+        "guid": "44413b64-844a-433a-8486-2b073be99506"
+    },
+    "1fd13c49-7747-4399-a5d9-c340100d3102": {
+        "name": "Breadcrumbs",
+        "path": "src\/snippet_type\/1fd13c49-7747-4399-a5d9-c340100d3102",
+        "settings": "src\/snippet_type\/1fd13c49-7747-4399-a5d9-c340100d3102\/item.json",
+        "guid": "1fd13c49-7747-4399-a5d9-c340100d3102"
+    },
+    "c17d8819-f52a-44b7-a9bd-269fa105bde3": {
+        "name": "Buttons",
+        "path": "src\/snippet_type\/c17d8819-f52a-44b7-a9bd-269fa105bde3",
+        "settings": "src\/snippet_type\/c17d8819-f52a-44b7-a9bd-269fa105bde3\/item.json",
+        "guid": "c17d8819-f52a-44b7-a9bd-269fa105bde3"
+    },
+    "5618f845-d69b-408a-aa15-ef1162be8e7a": {
+        "name": "Button Groups",
+        "path": "src\/snippet_type\/5618f845-d69b-408a-aa15-ef1162be8e7a",
+        "settings": "src\/snippet_type\/5618f845-d69b-408a-aa15-ef1162be8e7a\/item.json",
+        "guid": "5618f845-d69b-408a-aa15-ef1162be8e7a"
+    },
+    "bea7ac19-aad5-4335-b190-b8828dc5d0c8": {
+        "name": "Button Modifiers",
+        "path": "src\/snippet_type\/bea7ac19-aad5-4335-b190-b8828dc5d0c8",
+        "settings": "src\/snippet_type\/bea7ac19-aad5-4335-b190-b8828dc5d0c8\/item.json",
+        "guid": "bea7ac19-aad5-4335-b190-b8828dc5d0c8"
+    },
+    "ac7a5719-231e-4b76-90fb-025e3a2fbdb2": {
+        "name": "Cards",
+        "path": "src\/snippet_type\/ac7a5719-231e-4b76-90fb-025e3a2fbdb2",
+        "settings": "src\/snippet_type\/ac7a5719-231e-4b76-90fb-025e3a2fbdb2\/item.json",
+        "guid": "ac7a5719-231e-4b76-90fb-025e3a2fbdb2"
+    },
+    "243298f7-02aa-47ad-a76c-3c19e41e3011": {
+        "name": "Carousel",
+        "path": "src\/snippet_type\/243298f7-02aa-47ad-a76c-3c19e41e3011",
+        "settings": "src\/snippet_type\/243298f7-02aa-47ad-a76c-3c19e41e3011\/item.json",
+        "guid": "243298f7-02aa-47ad-a76c-3c19e41e3011"
+    },
+    "c3c4ac8a-ab4a-4641-b4b7-018a190f25d5": {
+        "name": "Collapse",
+        "path": "src\/snippet_type\/c3c4ac8a-ab4a-4641-b4b7-018a190f25d5",
+        "settings": "src\/snippet_type\/c3c4ac8a-ab4a-4641-b4b7-018a190f25d5\/item.json",
+        "guid": "c3c4ac8a-ab4a-4641-b4b7-018a190f25d5"
+    },
+    "94ace410-b18d-4a04-a2c2-cfb532867145": {
+        "name": "Dropdowns",
+        "path": "src\/snippet_type\/94ace410-b18d-4a04-a2c2-cfb532867145",
+        "settings": "src\/snippet_type\/94ace410-b18d-4a04-a2c2-cfb532867145\/item.json",
+        "guid": "94ace410-b18d-4a04-a2c2-cfb532867145"
+    },
+    "15b018d4-0161-42ad-aa34-6ed242852da9": {
+        "name": "Forms",
+        "path": "src\/snippet_type\/15b018d4-0161-42ad-aa34-6ed242852da9",
+        "settings": "src\/snippet_type\/15b018d4-0161-42ad-aa34-6ed242852da9\/item.json",
+        "guid": "15b018d4-0161-42ad-aa34-6ed242852da9"
+    },
+    "0f712af8-684e-4996-9920-c8ad60abea0a": {
+        "name": "Form Input Groups",
+        "path": "src\/snippet_type\/0f712af8-684e-4996-9920-c8ad60abea0a",
+        "settings": "src\/snippet_type\/0f712af8-684e-4996-9920-c8ad60abea0a\/item.json",
+        "guid": "0f712af8-684e-4996-9920-c8ad60abea0a"
+    },
+    "b101b15b-dbad-4884-bd22-bd4270f97b35": {
+        "name": "Custom Forms",
+        "path": "src\/snippet_type\/b101b15b-dbad-4884-bd22-bd4270f97b35",
+        "settings": "src\/snippet_type\/b101b15b-dbad-4884-bd22-bd4270f97b35\/item.json",
+        "guid": "b101b15b-dbad-4884-bd22-bd4270f97b35"
+    },
+    "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9": {
+        "name": "Grid",
+        "path": "src\/snippet_type\/03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9",
+        "settings": "src\/snippet_type\/03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9\/item.json",
+        "guid": "03cf9f8c-98ad-4fc2-9ac0-d4b94fb9f0a9"
+    },
+    "1fa5a6e4-cf23-4343-84be-fc3b2a11d78e": {
+        "name": "Images",
+        "path": "src\/snippet_type\/1fa5a6e4-cf23-4343-84be-fc3b2a11d78e",
+        "settings": "src\/snippet_type\/1fa5a6e4-cf23-4343-84be-fc3b2a11d78e\/item.json",
+        "guid": "1fa5a6e4-cf23-4343-84be-fc3b2a11d78e"
+    },
+    "59b8fb82-3baa-448a-a35b-03615849c79e": {
+        "name": "Jumbotron",
+        "path": "src\/snippet_type\/59b8fb82-3baa-448a-a35b-03615849c79e",
+        "settings": "src\/snippet_type\/59b8fb82-3baa-448a-a35b-03615849c79e\/item.json",
+        "guid": "59b8fb82-3baa-448a-a35b-03615849c79e"
+    },
+    "b236f670-2139-4bb1-a4d5-d987d99bcd77": {
+        "name": "List Group",
+        "path": "src\/snippet_type\/b236f670-2139-4bb1-a4d5-d987d99bcd77",
+        "settings": "src\/snippet_type\/b236f670-2139-4bb1-a4d5-d987d99bcd77\/item.json",
+        "guid": "b236f670-2139-4bb1-a4d5-d987d99bcd77"
+    },
+    "58b042c6-8758-465a-b4cf-adcf1b9a117b": {
+        "name": "Media Objects",
+        "path": "src\/snippet_type\/58b042c6-8758-465a-b4cf-adcf1b9a117b",
+        "settings": "src\/snippet_type\/58b042c6-8758-465a-b4cf-adcf1b9a117b\/item.json",
+        "guid": "58b042c6-8758-465a-b4cf-adcf1b9a117b"
+    },
+    "dc9303fa-606e-4371-b635-78d974006597": {
+        "name": "Modal",
+        "path": "src\/snippet_type\/dc9303fa-606e-4371-b635-78d974006597",
+        "settings": "src\/snippet_type\/dc9303fa-606e-4371-b635-78d974006597\/item.json",
+        "guid": "dc9303fa-606e-4371-b635-78d974006597"
+    },
+    "bdbbff94-2a74-4eb3-81ce-26068937e1c8": {
+        "name": "Navbar",
+        "path": "src\/snippet_type\/bdbbff94-2a74-4eb3-81ce-26068937e1c8",
+        "settings": "src\/snippet_type\/bdbbff94-2a74-4eb3-81ce-26068937e1c8\/item.json",
+        "guid": "bdbbff94-2a74-4eb3-81ce-26068937e1c8"
+    }
+}
