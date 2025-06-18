@@ -1,0 +1,31 @@
+{
+    "name": "Background - White",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/colors\/",
+    "type": "eaa09d56-f468-4bdf-b9f0-81d2a50c372e",
+    "heading": "bg-white",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "daa679c6-3786-4dc6-aae3-5358b6c3166c",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"bg-white\">Nullam id dolor id nibh ultricies vehicula ut id elit.<\/div>",
+    "usage": "Contextual text classes also work well on anchors with the provided hover and focus states. Note that the .text-white and .text-muted class has no link styling.",
+    "description": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "eaa09d56-f468-4bdf-b9f0-81d2a50c372e",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
