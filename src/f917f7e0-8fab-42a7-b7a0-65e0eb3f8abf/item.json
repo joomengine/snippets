@@ -1,0 +1,31 @@
+{
+    "name": "text-*-right",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/text\/",
+    "type": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+    "heading": "text-*-right",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "f917f7e0-8fab-42a7-b7a0-65e0eb3f8abf",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<p class=\"text-right\">Right aligned text on all viewport sizes.<\/p>\r\n<p class=\"text-sm-right\">Right aligned text on viewports sized SM (small) or wider.<\/p>\r\n<p class=\"text-md-right\">Right aligned text on viewports sized MD (medium) or wider.<\/p>\r\n<p class=\"text-lg-right\">Right aligned text on viewports sized LG (large) or wider.<\/p>\r\n<p class=\"text-xl-right\">Right aligned text on viewports sized XL (extra-large) or wider.<\/p>",
+    "usage": "",
+    "description": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "15a3bf1f-468c-494b-8a54-2cd4ac7076d9",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
