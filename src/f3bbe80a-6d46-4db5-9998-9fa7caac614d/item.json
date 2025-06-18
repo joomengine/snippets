@@ -1,0 +1,31 @@
+{
+    "name": "Jumbotron - Fluid",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/jumbotron\/",
+    "type": "59b8fb82-3baa-448a-a35b-03615849c79e",
+    "heading": "jumbotron-fluid",
+    "library": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+    "guid": "f3bbe80a-6d46-4db5-9998-9fa7caac614d",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_name": "Steve Voorhees",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "snippet": "<div class=\"jumbotron jumbotron-fluid\">\r\n  <div class=\"container\">\r\n    <h1 class=\"display-3\">Fluid jumbotron<\/h1>\r\n    <p class=\"lead\">This is a modified jumbotron that occupies\r\n                    the entire horizontal space of its parent.<\/p>\r\n  <\/div>\r\n<\/div>",
+    "usage": "To make the jumbotron full width, and without rounded corners, add the .jumbotron-fluid modifier class and add a .container or .container-fluid within.",
+    "description": "Lightweight, flexible component for showcasing hero unit style content.",
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "59b8fb82-3baa-448a-a35b-03615849c79e",
+            "entity": "snippet_type",
+            "table": "#__componentbuilder_snippet_type",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "6f6650a5-ebff-4783-8508-f0285c0e98a6",
+            "entity": "library",
+            "table": "#__componentbuilder_library",
+            "direction": "out"
+        }
+    ]
+}
